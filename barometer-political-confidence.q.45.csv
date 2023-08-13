@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.335,0.6449999,0.02648904,0.305,0.39310976000000003,0.25374419,0.02165701,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Gender,Man,2929.637,0.33750154029321716,0.6430059423744307,0.02903567,0.3084659,0.38043041000000005,0.26257663,0.01949358,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Gender,Woman,3049.36,0.3249999,0.655,0.02404244,0.30156239,0.40539982,0.24525907,0.023735530000000005,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Age,18-24,478.2759,0.38926673913529825,0.5823009271426807,0.07396766,0.31529918,0.39267377,0.18962712,0.02843233,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Age,25-34,836.9062,0.3614928411332118,0.6226935587285649,0.05778344,0.30370942,0.39055763,0.23213557,0.01581364,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Age,35-49,1494.556,0.3665768295065558,0.6148937878540516,0.026060680000000003,0.3405161099999999,0.38077222,0.23412177,0.0185288,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Age,50-64,1554.412,0.3369642025408965,0.6432093293155225,0.01687538,0.32008888,0.37209434,0.27111544,0.01982756,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Age,65+,1614.848,0.2608791044110653,0.7117871155675334,0.00585896,0.2549999,0.42680632,0.28499990000000003,0.027334919999999995,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Socio-Professional Category,Total-CSP+,1734.019,0.3659301887695579,0.6207100383559812,0.04127255,0.325,0.38062834999999984,0.23973936,0.01335974,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Socio-Professional Category,Small Business owners,212.9949,0.25662957188176805,0.7320907683705102,0.075,0.18236826,0.40209539000000005,0.32925652,0.01127983,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.39433677045368687,0.5963952630988335,0.04013444,0.3542022799999999,0.35890082,0.23749461,0.00926797,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Socio-Professional Category,Prof Intermed,896.9079,0.3627201856511688,0.6203072801566359,0.028564160000000005,0.33415605,0.39585569,0.22445180999999997,0.0169713,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Socio-Professional Category,Total-CSP-,1674.09,0.340996362202749,0.645364944537032,0.03181534,0.30918123,0.39036533,0.255,0.0136381,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Socio-Professional Category,Salaried,956.6466,0.32825151942211467,0.6565150600023039,0.02273387,0.30551773,0.39958823000000004,0.25716027,0.0149999,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Socio-Professional Category,Blue collar,717.4432,0.3579909879973773,0.6304982749853926,0.04392468,0.315,0.3803597500000001,0.24920412,0.01151145,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,Far left,187.3446,0.4817677691270525,0.5114498096021982,0.12499990000000001,0.35645361999999997,0.41241563000000014,0.09934799,0.00678286,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,Radical left,828.7407,0.3879069774176652,0.6031422132399193,0.06626892,0.32163788,0.42202115,0.18112119000000002,0.00895155,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,Left,1430.296,0.4349999,0.555,0.0449999,0.39038254000000006,0.38567548,0.165824,0.01311808,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,PC/LFI,641.3963,0.36049101000426725,0.6299244320555014,0.04902242,0.31146859,0.42491826,0.20500633,0.00958499,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,PS,449.3176,0.5291936038116468,0.4626551463819801,0.05004293,0.47915083,0.34903685,0.11361838,0.00815132,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,EELV,339.583,0.4527122971409051,0.5209244867970422,0.03237388,0.42033817999999995,0.36003157,0.16089283,0.026362999999999998,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,EM,672.9198,0.47862003763301364,0.49923274660665357,0.03172659,0.44689337,0.36680879,0.13242406,0.02214653,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,MoDem,161.1257,0.47197095187173743,0.5233720008664043,0.05775208999999999,0.41387590999999996,0.40978571,0.11358629,0.005,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,Right,573.0042,0.30174316348815594,0.6880614487642499,0.02107869,0.28066461,0.45636227,0.23169952,0.01019547,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,UDI/PR,89.32552,0.3482904997362456,0.6517097241639344,0.0054851,0.34280539,0.45189369999999995,0.19981613,0,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,LR,397.5368,0.325,0.6614997655562956,0.025788150000000003,0.29801694,0.45925409,0.20224565,0.014695619999999998,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,Radical right,1008.8,0.20052111419508326,0.7925529341792228,0.0149999,0.18540196000000003,0.35829956,0.43437254999999997,0.00692603,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,Debout la France,86.14185,0.15166159073667446,0.8483385253509182,0.0149999,0.13614672,0.44816475,0.40068863,0,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,Reconquete,205.4045,0.14785435567380462,0.8521454009040698,0.00829901,0.13955537,0.27496024,0.5771855,0,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,RN,717.2537,0.22147170519998713,0.7687879476954947,0.0170248,0.20444690999999998,0.37143524,0.39735229,0.00974129,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Political similarity,No preference,1860.95,0.2500561541148338,0.7126118380397108,0.007163429999999999,0.24289272,0.41044504,0.30216658,0.03733287,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Total-left,1649.278,0.425,0.5640819801149352,0.03578237,0.38642188,0.3929018,0.17118024,0.013713879999999998,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Very Left,217.9165,0.3351421301278242,0.6619406974689847,0.06870554,0.26643655,0.40699905999999997,0.25494178,0.00291752,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Left,1431.362,0.4349999,0.5491835049414474,0.03076999,0.40468882,0.39075530999999997,0.15842792,0.01535756,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Center,776.1196,0.4349999,0.5559984569388532,0.03320424,0.40305708,0.41621034,0.13978825,0.00773976,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Total-right,1622.94,0.285,0.7049998999999999,0.02757851,0.25629142,0.38439770000000006,0.32279598,0.00893559,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Right,1193.119,0.32206670080687677,0.6676434622196109,0.03304753,0.28901912,0.3926444299999998,0.275,0.01028892,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Very Right,429.8207,0.17784115562605524,0.816979731315872,0.01239731,0.16544387000000002,0.36054918,0.45660974000000004,0.0049999,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Both left and Right,200.4265,0.3483898087328771,0.6222261028357029,0.02150448,0.32688532,0.37476551,0.24746054,0.0293846,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Politics,Neither left nor right,1673.316,0.2410619392870205,0.718011421632256,0.01416921,0.22689271,0.39854785,0.31946423,0.040926830000000004,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Loss of job risk,High risk,556.2398,0.3160084913017731,0.6749999,0.05865361,0.25735501,0.3748320399999999,0.30234442,0.0068148,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Loss of job risk,Low risk,1874.312,0.3501803328367956,0.6317149972896722,0.03684737,0.31340352000000016,0.39499989999999996,0.23664433000000004,0.01810488,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+Loss of job risk,Zero risk,3478.817,0.325,0.6530263017571778,0.01629552,0.30550443,0.39926103999999996,0.25393911,0.0249999,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Arthaud,24.07418,0.46765580385292466,0.4449999,0.22378498000000002,0.245,0.31090035,0.13374179,0.08657287999999999,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Poutou,32.85668,0.47928153422683,0.52071846577317,0.05871098,0.42057049,0.2723665,0.24835202,0,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Roussel,98.04205,0.28993651193543996,0.6659931121391282,0.01474986,0.27518662,0.47868828,0.18730504,0.04407,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Melenchon,942.3053,0.3661743173894915,0.6209313478338708,0.03880938,0.32763147000000004,0.4149999,0.2056654,0.01289385,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Hidalgo,75.31895,0.5701152233269317,0.4173301672421084,0.02336024,0.5465632400000001,0.2925216,0.125,0.01255492,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Jadot,198.8808,0.435,0.5130133225530066,0.04628627,0.38767854999999996,0.42347713,0.08953614,0.05302195999999999,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Macron,1195.294,0.462393519920622,0.5226682305775817,0.04052577,0.42180592000000006,0.40240125,0.12026706,0.015,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Pecresse,205.1207,0.3173920525817238,0.6697666300865783,0.005,0.31242888,0.44643595999999997,0.22329394000000002,0.01284122,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Dupont-Aignan,88.56025,0.22461454207728637,0.7753854579227136,0.03055733,0.19405727,0.39747471,0.37791063,0,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Zemmour,303.4525,0.1599645414026907,0.8349998999999999,0.00561753,0.15434702,0.34381394,0.49122151,0.005,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Le Pen,993.0248,0.22852007321468706,0.7601916890695982,0.02186075,0.20665929,0.38617505,0.37401654,0.01128802,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Lassalle,134.5409,0.21730484930604746,0.7826950763671122,0.01045325,0.2068516,0.45784746,0.32484717,0,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Blank/Null/NA,96.61228,0.235,0.7227882418259873,0.01019723,0.225,0.39891635999999997,0.32274976000000005,0.04313664999999999,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Blank,63.86856,0.245,0.7249998999999999,0.01542508,0.22603437,0.3935149,0.33489639,0.030129070000000004,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+1st round vote,Null,19.09123,0.22730216963495803,0.7236762639180399,0,0.22730217,0.37025399000000003,0.35342228,0.04902181,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+2nd round vote,Macron,2287.563,0.4601844845366007,0.5229189316316097,0.04332907,0.41685536,0.39991345000000006,0.12300597,0.01689808,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+2nd round vote,Le Pen,1619.66,0.215,0.7730887964140623,0.025,0.18879703,0.38225405,0.39056615999999983,0.01338276,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"
+2nd round vote,Blank/Null/NA,370.4173,0.259529347036437,0.7196437639386712,0.00682447,0.25270488,0.44998033,0.26966373,0.02082705,"q25_i3. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les médias"

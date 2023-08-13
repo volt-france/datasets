@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.7407784777459515,0.24406029635046117,0.16586711,0.57491066,0.16246887,0.08159131,0.01516107,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Gender,Man,2929.637,0.7519713193136215,0.2357189986336191,0.18697041000000014,0.5649999,0.1576441,0.07807489,0.0123107,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Gender,Woman,3049.36,0.7300259726631162,0.25207446808510636,0.14623514,0.58378971,0.16710486999999996,0.08496979999999998,0.01789955,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Age,18-24,478.2759,0.7315219102614203,0.2566470524649057,0.15376181,0.57763517,0.185,0.07177184,0.011831179999999998,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Age,25-34,836.9062,0.6688713741157611,0.31708547505084794,0.15609085,0.51278076,0.20706311,0.11002246,0.01404296,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Age,35-49,1494.556,0.6957069524326956,0.2833606770171208,0.12590515,0.57028727,0.1849999,0.09787629,0.020931389999999998,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Age,50-64,1554.412,0.7391399448794786,0.24868361798545044,0.15594212,0.58319796,0.17194346999999996,0.07674014,0.01217753,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Age,65+,1614.848,0.824078179494293,0.1616641937817058,0.22105802000000002,0.6022777500000001,0.10230127,0.05936296,0.015,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Socio-Professional Category,Total-CSP+,1734.019,0.7221397228058054,0.27166403597653777,0.16052430999999998,0.56161593,0.18417047,0.08749355999999998,0.00619568,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Socio-Professional Category,Small Business owners,212.9949,0.675,0.3230899894786213,0.20642372000000003,0.4687188000000001,0.17772382999999997,0.14499990000000001,0.00213375,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.7486158172201419,0.2399392861066965,0.16076763,0.58784809,0.1734659,0.06647333,0.011445079999999998,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Socio-Professional Category,Prof Intermed,896.9079,0.7181533354762512,0.27800457549766255,0.15076308,0.56739014,0.18910961,0.08889498,0.00384134,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Socio-Professional Category,Total-CSP-,1674.09,0.7092808630360375,0.2732581282965671,0.14230842,0.5682222,0.1849999,0.08700870000000001,0.01746078,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Socio-Professional Category,Salaried,956.6466,0.7293036948022393,0.2549999,0.13173715,0.5970480099999999,0.18444199000000003,0.07177285,0.015,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Socio-Professional Category,Blue collar,717.4432,0.6825823981605791,0.2959839886976418,0.1564043,0.5249999,0.18983729000000005,0.10732448,0.021434029999999996,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,Far left,187.3446,0.6721859076802854,0.3189500524701539,0.17678743000000002,0.4949999,0.23932023000000005,0.08002803,0.00886441,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,Radical left,828.7407,0.5877845748374613,0.4004937853299591,0.095,0.49278397,0.28843509,0.11205881,0.011722129999999999,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,Left,1430.296,0.675,0.3149999,0.095,0.5751769700000001,0.23448587,0.0817449,0.01359226,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,PC/LFI,641.3963,0.565,0.4243117710532474,0.07008408,0.495,0.3009444700000001,0.12141462000000001,0.01255683,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,PS,449.3176,0.8078581831648703,0.18015446089803736,0.15725792,0.65060038,0.15736675,0.02278767,0.01198739,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,EELV,339.583,0.6901906161380281,0.29213759228229913,0.05771307999999999,0.63247748,0.20731123,0.08482635999999999,0.01767139,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,EM,672.9198,0.8910171761924675,0.10386326869858785,0.26239828,0.6286186,0.07435226,0.02951098,0.0051198,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,MoDem,161.1257,0.8777122457807787,0.12228806453594926,0.20813327999999998,0.66957847,0.09057506,0.031713,0,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,Right,573.0042,0.8997244697333806,0.09963837961397141,0.29375718,0.60596764,0.07056749,0.02907085,0.00063719,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,UDI/PR,89.32552,0.872130495294066,0.127869504705934,0.24312446999999998,0.62900613,0.04735426,0.08051524,0,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,LR,397.5368,0.9295710485167662,0.06951052078700638,0.3200144,0.6095574,0.05894032999999999,0.01057018,0.00091844,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,Radical right,1008.8,0.7689637192704203,0.22590969468675653,0.25882663,0.5102637200000001,0.13589929,0.09001046,0.0049999,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,Debout la France,86.14185,0.7905989945653593,0.20940100543464063,0.2249999,0.56559906,0.14829691,0.06110412999999999,0,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,Reconquete,205.4045,0.845,0.15211760209732503,0.38664552,0.45733343,0.07689077,0.07499990000000001,0.00413038,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,RN,717.2537,0.745,0.24902471747444455,0.22627475,0.51970052,0.15130908,0.09771575,0.0049999,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Political similarity,No preference,1860.95,0.6949074397485155,0.2784762621241839,0.10199001,0.5929176,0.17278874,0.10568747,0.026616560000000004,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Total-left,1649.278,0.6640299573510349,0.325,0.10499990000000001,0.5590300500000002,0.22713181,0.09665666,0.01218158,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Very Left,217.9165,0.43167759210523293,0.557118896458047,0.10408541999999998,0.32759222000000005,0.34705151,0.21006711,0.01120422,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Left,1431.362,0.6994044832823562,0.28826523269445464,0.10600128,0.593403,0.20887476,0.07939054,0.01233037,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Center,776.1196,0.8275232322441025,0.1649999,0.20639538,0.62112734,0.11463491000000002,0.05128792,0.00655399,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Total-right,1622.94,0.84699680826155,0.14970504146795321,0.28041351,0.56658194,0.10125137,0.04845370999999999,0.00329848,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Right,1193.119,0.8812825879061519,0.11604425040586899,0.27924767,0.6016660199999999,0.08141482,0.035,0.00267149,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Very Right,429.8207,0.7518183744989482,0.245,0.28364967,0.4682079299999999,0.15631476,0.08682774,0.0049999,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Both left and Right,200.4265,0.8190493772031143,0.17624874954160252,0.15620544,0.66284448,0.13110582,0.04514291,0.00470181,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Politics,Neither left nor right,1673.316,0.6664515249958765,0.3005392884547808,0.09973556,0.56691984,0.18533504999999997,0.1149999,0.03300965,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Loss of job risk,High risk,556.2398,0.6217687047924295,0.36875840240126656,0.13226858,0.48950003,0.20820139,0.16055689999999997,0.00947287,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Loss of job risk,Low risk,1874.312,0.6915508197141138,0.29585922727912967,0.12965926,0.56189151,0.20658423,0.08927489,0.012590379999999998,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+Loss of job risk,Zero risk,3478.817,0.7863615706143784,0.1949999,0.19130029,0.59506177,0.13288175,0.06415126,0.01660615,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Arthaud,24.07418,0.57263258810892,0.38125934092043845,0.19709814000000003,0.3749999,0.31123484999999995,0.07055912,0.04610799,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Poutou,32.85668,0.6388740432691313,0.33989496199859515,0.07114075,0.56773356,0.24927536999999997,0.09061947000000001,0.0212311,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Roussel,98.04205,0.7438909121137308,0.2281030435410112,0.0803105,0.6635803699999999,0.18871127,0.03939178,0.02800575,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Melenchon,942.3053,0.5784790767917786,0.40424287117986074,0.0827253,0.49575398,0.27331779,0.13092519,0.01727748,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Hidalgo,75.31895,0.8220328350302282,0.17125252011611952,0.07499990000000001,0.74703277,0.15470502,0.01654754,0.00671477,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Jadot,198.8808,0.735,0.2449999,0.115,0.6169562000000001,0.2131255,0.032686,0.0222323,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Macron,1195.294,0.9015380316474441,0.08929384737144166,0.24355439,0.6579849,0.07159201,0.01770184,0.00916779,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Pecresse,205.1207,0.9293221015723913,0.06746871476160134,0.3080556,0.62126592,0.05878183,0.00868687,0.00320905,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Dupont-Aignan,88.56025,0.7199530263295327,0.2800469736704673,0.17229796,0.54765507,0.17857199,0.10147498,0,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Zemmour,303.4525,0.8349998999999999,0.15760690717657624,0.3049999,0.5313475700000001,0.10791119,0.04969572,0.00604562,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Le Pen,993.0248,0.7649999,0.2298780453418686,0.21495143,0.55017048,0.15509502,0.07478307,0.005,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Lassalle,134.5409,0.7573317853530042,0.23875661601788006,0.17715854,0.58017309,0.18033608999999998,0.05842056,0.0039113,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Blank/Null/NA,96.61228,0.6749999,0.28770297109228765,0.11436102999999999,0.56208517,0.14631504,0.14138813,0.03585053,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Blank,63.86856,0.7281083212146947,0.23813954784638952,0.13081571,0.59729263,0.12863697,0.10950259,0.03375183,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+1st round vote,Null,19.09123,0.4435972433415762,0.556403123318927,0.03250913,0.41108802,0.23685373,0.31954945,0,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+2nd round vote,Macron,2287.563,0.8402959831051647,0.14948650594541002,0.2005529,0.63974369,0.11872202,0.03076447,0.01021872,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+2nd round vote,Le Pen,1619.66,0.7464523418495239,0.2449999,0.21610684,0.5307650899999999,0.16013867,0.0849999,0.0079895,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"
+2nd round vote,Blank/Null/NA,370.4173,0.7063860138281878,0.2749999,0.10778398,0.5986019,0.20324166999999999,0.0722057,0.01816713,"q25_i5. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La police nationale"

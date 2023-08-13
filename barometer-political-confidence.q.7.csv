@@ -1,0 +1,62 @@
+Indicator,Category,BASE,ST Très + Assez,Très fortement,Assez fortement,Pas très fortement,No rep.,Question
+Total,Total,3823.963,0.985,0.6573359599999999,0.32645451999999997,0.0149999,0.00120962,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Gender,Man,1980.905,0.9856626138053062,0.6656800800000001,0.3199839,0.0139553,0.00038208,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Gender,Woman,1843.063,0.9809550731581068,0.64754488,0.33340834999999996,0.01694596,0.00209905,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Age,18-24,283.4844,0.9917554546211361,0.65675561,0.33499989999999996,0.00824449,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Age,25-34,535.681,0.985,0.63994604,0.345,0.012344060000000002,0.0027099000000000003,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Age,35-49,858.537,0.9719833856898421,0.60143488,0.3705485,0.0270466,0.00097023,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Age,50-64,958.1087,0.9882258662300009,0.64906936,0.33915651,0.01177412,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Age,65+,1188.157,0.9850474306005016,0.7100470400000001,0.275,0.01298275,0.00197021,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Socio-Professional Category,Total-CSP+,1144.459,0.9876989914011773,0.65751067,0.3301892,0.01100818,0.00129333,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Socio-Professional Category,Small Business owners,118.3425,1,0.61041671,0.38958269,0,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Socio-Professional Category,Cadres/Prof Lib,434.9997,0.9850694149904011,0.705,0.28006934999999994,0.01344287,0.00148778,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Socio-Professional Category,Prof Intermed,575.0071,0.9868109454648473,0.63181103,0.355,0.01174032,0.00144865,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Socio-Professional Category,Total-CSP-,989.5644,0.9860241536579126,0.6210239700000001,0.365,0.01397603,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Socio-Professional Category,Salaried,534.217,0.985,0.6259933700000001,0.35900673,0.0149999,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Socio-Professional Category,Blue collar,455.3476,0.9875299661181919,0.61570413,0.37182539,0.0124701,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,Far left,100.9906,0.9761684750858,0.7011681300000001,0.275,0.02383187,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,Radical left,495.4678,0.9914553478550977,0.63792178,0.3535339699999999,0.006920969999999999,0.00162363,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,Left,952.4399,0.9766506002111,0.6453321599999999,0.33131791,0.02250466,0.00084463,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,PC/LFI,394.4771,0.995369312946176,0.6203691100000001,0.375,0.00259159,0.0020393,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,PS,332.0254,0.978080291447582,0.69761289,0.28046767,0.02191965,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,EELV,225.9369,0.9418682826930881,0.61005484,0.33181365999999995,0.05813189,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,EM,552.9526,0.995,0.7571725000000001,0.23709862,0.00471746,0.0010111,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,MoDem,143.4291,0.9950003172299066,0.69758368,0.29741594,0.00499972,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,Right,453.6733,0.9866509666757997,0.7016511799999999,0.28500000000000003,0.01334882,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,UDI/PR,65.32822,0.9614019791140797,0.65949723,0.30190475,0.03859782,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,LR,324.2839,0.9934557343118174,0.7184558799999999,0.2749999,0.00654422,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,Radical right,691.5654,0.9855099749062055,0.72799753,0.25751303,0.01070902,0.0037810100000000004,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,Debout la France,64.06101,0.9779539848029246,0.66527284,0.31268083,0.022046060000000003,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,Reconquete,157.3638,0.9834968398068679,0.73879062,0.24470634000000002,0.00517996,0.011323029999999998,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,RN,470.1409,0.9872134077252159,0.7322133200000001,0.255,0.011014910000000001,0.00177177,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Political similarity,No preference,886.4442,0.9818693607561536,0.52980673,0.4520632,0.01740075,0.00073009,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Total-left,1029.558,0.9719345583250288,0.6449999,0.32693465,0.02674105,0.0013244,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Very Left,115.9739,0.9672340069619113,0.655,0.31223365,0.03276635,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Left,913.5845,0.972531495444592,0.64455045,0.32798028,0.025976159999999998,0.00149252,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Center,602.66,0.9915295523180567,0.70288388,0.28864501,0.00847036,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Total-right,1220.184,0.9869962235203871,0.73117218,0.25582347,0.0108613,0.00214297,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Right,910.8427,0.9926750250070621,0.71377791,0.27889755,0.00536869,0.00195625,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Very Right,309.341,0.9702729350457908,0.7823899800000002,0.18788295,0.02703413,0.00269276,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Both left and Right,147.9024,0.9827142764417616,0.63253592,0.35017850000000006,0.01728582,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Politics,Neither left nor right,792.9672,0.9860294347609838,0.53102946,0.455,0.013154380000000002,0.0008161599999999999,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Loss of job risk,High risk,344.7572,0.9475575854543429,0.65055697,0.29700061,0.05244215,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Loss of job risk,Low risk,1142.911,0.9882834271434958,0.57228393,0.4159995,0.0101161,0.00160067,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+Loss of job risk,Zero risk,2307.599,0.9861193387585971,0.69930088,0.28681903,0.012669009999999998,0.0012117,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Arthaud,14.56123,1,0.67240199,0.32759800999999994,0,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Poutou,15.80794,0.9731799336282906,0.42345853,0.5497216,0.02681994,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Roussel,71.7796,1,0.65827282,0.34172718,0,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Melenchon,625.9818,0.9752644565704626,0.605,0.37026476,0.02345012,0.0012851200000000003,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Hidalgo,68.02342,0.9617137744617956,0.76057158,0.20114249,0.03828614,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Jadot,155.7991,1,0.61177998,0.38821989,0,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Macron,1024.734,0.995,0.75829318,0.23614421,0.00438643,0.00117716,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Pecresse,178.4977,0.9856928128485689,0.72741554,0.25827683,0.01430709,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Dupont-Aignan,58.78347,0.9878008222379523,0.58708936,0.40071146,0.012199109999999999,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Zemmour,235.6781,0.985,0.67944412,0.30542439,0.011920100000000001,0.0032114599999999997,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Le Pen,762.2858,0.9880021377808691,0.72283807,0.26516433,0.00956054,0.00243734,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Lassalle,98.02891,0.9789587581867432,0.57274828,0.40621047,0.02104128,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Blank/Null/NA,63.41836,0.9682404275354961,0.51637917,0.45186094,0.03175959,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Blank,44.31652,0.975,0.47886951,0.4961305900000001,0.0249999,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+1st round vote,Null,10.92202,0.9172991809207455,0.475,0.44229916999999996,0.08270083,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+2nd round vote,Macron,1888.09,0.9904003516781509,0.70667712,0.28372398,0.00799199,0.00160781,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+2nd round vote,Le Pen,1218.48,0.9885742892784453,0.71228096,0.27629243,0.01012091,0.00130478,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?
+2nd round vote,Blank/Null/NA,269.7788,0.9671545725609277,0.6021544400000001,0.365,0.03284556,0,q19v13b. Dans quelle mesure pensez-vous que voter à une élection est un devoir ?

@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.3449999,0.629322251439287,0.04194496,0.30402047,0.37199569,0.25703888,0.025,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Gender,Man,2929.637,0.33436579344130346,0.645,0.05277964,0.28158622,0.37694602,0.265904,0.022786019999999997,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Gender,Woman,3049.36,0.3549999,0.6163280163706483,0.03153573,0.32499989999999995,0.3683808000000001,0.24852228,0.02656129,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Age,18-24,478.2759,0.4115480207135672,0.5508926960359073,0.05277828,0.35876991,0.3297651,0.2211276,0.03755905,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Age,25-34,836.9062,0.4315128744416041,0.53918838216278,0.07981313,0.3516997499999999,0.34845052,0.19073762,0.02929874,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Age,35-49,1494.556,0.36236360497699655,0.617206581754046,0.03443474,0.32792882999999995,0.38505294999999995,0.2321539,0.020428859999999997,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Age,50-64,1554.412,0.324653116419585,0.6496276405483231,0.03914954,0.28499990000000003,0.37198512000000017,0.2781446,0.02572084,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Age,65+,1614.848,0.28754477201569434,0.6909356174698796,0.02875258,0.25879216,0.38618328,0.30475234,0.0215209,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Socio-Professional Category,Total-CSP+,1734.019,0.39068493482482025,0.5921267298685885,0.06002933,0.3306556,0.35369422,0.23843268000000004,0.01718832,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Socio-Professional Category,Small Business owners,212.9949,0.2988045253665698,0.6860582107834508,0.08218713,0.21661749,0.28763797,0.3985575100000001,0.0149999,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.3779699076230354,0.6040301555927307,0.05960379,0.31836614,0.37100981999999993,0.2330205,0.01799995,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Socio-Professional Category,Prof Intermed,896.9079,0.4221350932464749,0.5610396563571354,0.05233819,0.36979694,0.35113773,0.20990204,0.01682409,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Socio-Professional Category,Total-CSP-,1674.09,0.3620634493963885,0.6114235196435078,0.04187501999999999,0.32027821000000006,0.38499989999999995,0.22633383,0.02651304,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Socio-Professional Category,Salaried,956.6466,0.37304099549405184,0.6052174334806605,0.03112857,0.34191236,0.37539003000000004,0.22982719,0.02174113,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Socio-Professional Category,Blue collar,717.4432,0.3474261098300186,0.6196983956360587,0.05620446,0.29122152,0.39802273,0.22167538999999997,0.03287597,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,Far left,187.3446,0.5591919916560179,0.42921082326365423,0.14811919,0.4110149299999999,0.31426825,0.115,0.01159763,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,Radical left,828.7407,0.6190835082674232,0.3682679033381612,0.12632142,0.49276208999999993,0.28653763,0.08173002,0.01264928,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,Left,1430.296,0.5914661720371168,0.39030228707903813,0.09330509,0.49816143000000007,0.30661045,0.08369191,0.01823236,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,PC/LFI,641.3963,0.6365771052935604,0.35046678629109645,0.11995443,0.51662272,0.27843768,0.07202896,0.01295644,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,PS,449.3176,0.5343747941322574,0.44542390505068125,0.08345953999999998,0.45091512,0.34948019,0.09594376,0.020201529999999995,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,EELV,339.583,0.585,0.3926076982652253,0.05599721,0.5263951299999999,0.30309851,0.08950925,0.0249999,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,EM,672.9198,0.2627712841857232,0.725,0.03329603,0.22947519,0.4797683999999999,0.245,0.01246038,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,MoDem,161.1257,0.375,0.6249998999999999,0.03511199,0.33907465,0.40472668,0.22108646,0,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,Right,573.0042,0.18614174206751016,0.8101671855110312,0.025,0.16208249,0.4714447700000002,0.33778164,0.0036911,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,UDI/PR,89.32552,0.16292197347409787,0.8370782504260821,0.00960266,0.15331923,0.655,0.1820781099999999,0,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,LR,397.5368,0.18790796223142106,0.8082497016628398,0.02723006,0.16067788,0.44297031,0.36527989,0.0038424500000000003,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,Radical right,1008.8,0.2192711141950833,0.7699392347343379,0.0200917,0.19917942,0.35466634,0.415273,0.010790030000000003,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,Debout la France,86.14185,0.20206902916526637,0.7911109408493084,0.02441733,0.17765175,0.42026762,0.37084309,0.00682013,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,Reconquete,205.4045,0.06667497547522085,0.9297493482372586,0.005,0.06244289,0.28692453,0.64205703,0.00357555,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,RN,717.2537,0.2649999,0.725,0.02411402,0.24092298,0.36618745,0.35544312999999994,0.013332869999999998,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Political similarity,No preference,1860.95,0.2829713855826325,0.6719401381015072,0.011220969999999999,0.2717505,0.36325731,0.30868347,0.04508885000000001,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Total-left,1649.278,0.5797240368209604,0.4023348398511349,0.09483307,0.485,0.30454933,0.09767632,0.01794128,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Very Left,217.9165,0.6301124513288346,0.3649999,0.18269273,0.44673458000000005,0.28277923,0.08279346,0.005,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Left,1431.362,0.5720525625243649,0.4079313968094724,0.08145689,0.49059588,0.30798938,0.09994208,0.02001576,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Center,776.1196,0.3274595822602599,0.6669144807063242,0.03653226,0.2909272,0.48955118999999997,0.17798945,0.0049999,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Total-right,1622.94,0.20172551049330226,0.7909337375380482,0.02742814,0.17429738999999997,0.38222855000000006,0.4087047,0.0073401,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Right,1193.119,0.2049999,0.785,0.02484169,0.18411935,0.39740051000000004,0.3870023000000001,0.00663539,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Very Right,429.8207,0.18164108894708886,0.8090624765163706,0.03460778,0.14703333,0.34011368,0.46894832999999997,0.00929631,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Both left and Right,200.4265,0.3735059485646858,0.6206539554400241,0.01388888,0.35961702,0.38749167,0.23316273000000004,0.00584016,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Politics,Neither left nor right,1673.316,0.26713567550898937,0.6785520487463217,0.01070743,0.25642825,0.37321456,0.30533814,0.054312509999999994,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Loss of job risk,High risk,556.2398,0.4164477263223524,0.5597828490517939,0.11603291,0.30041486,0.30027948,0.25950337,0.02376908,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Loss of job risk,Low risk,1874.312,0.3996143118114807,0.575,0.041235879999999996,0.35837854,0.36751463000000006,0.20787105,0.0249999,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+Loss of job risk,Zero risk,3478.817,0.30766263359067175,0.6688791045921645,0.03110244,0.27656025,0.38318055,0.2856989,0.02345917,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Arthaud,24.07418,0.650135124020839,0.3022220486845243,0.18202286,0.46811231,0.18293084,0.11929124999999999,0.04764274,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Poutou,32.85668,0.5247958710374877,0.46780532908376626,0.0849999,0.4397959800000001,0.43088406999999995,0.03692111,0.00739894,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Roussel,98.04205,0.590775794671776,0.3809908095556957,0.12758352,0.46319226999999996,0.30450699,0.0764838,0.028233089999999995,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Melenchon,942.3053,0.5882254933724771,0.39171402304539726,0.08290507,0.50532062,0.3017938,0.08992037,0.02005977,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Hidalgo,75.31895,0.5818818504506502,0.41140363746440967,0.08951845000000001,0.49236334,0.3129259,0.0984777,0.00671477,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Jadot,198.8808,0.459772034303965,0.5008337657531546,0.06421661,0.39555548,0.38978715,0.11104647000000001,0.03939431,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Macron,1195.294,0.30627025652266304,0.6732382995313286,0.03575838,0.27051186,0.4497194,0.22351965000000001,0.02049206,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Pecresse,205.1207,0.1849999,0.815,0.0028502299999999996,0.18312077,0.465,0.34640129000000003,0.0026277100000000005,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Dupont-Aignan,88.56025,0.2388345787190077,0.7611655341984693,0.01041551,0.22841907,0.4520334999999999,0.30913192,0,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Zemmour,303.4525,0.12988935665384205,0.8628681589375602,0.01248421,0.11740516,0.32158763,0.54128043,0.00724253,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Le Pen,993.0248,0.2653949830860216,0.7149998999999999,0.0267818,0.23861317,0.39242686,0.32411285,0.01806511,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Lassalle,134.5409,0.2858279526894796,0.7049998999999999,0.01187854,0.275,0.42268021000000006,0.28257325,0.007868,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Blank/Null/NA,96.61228,0.295,0.6649999,0.01643106,0.277697,0.36328405,0.30213468,0.04045291,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Blank,63.86856,0.30928347218099167,0.6500025990878767,0.00217203,0.30711151,0.37598670999999995,0.27401573,0.04071373,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+1st round vote,Null,19.09123,0.21767743618404892,0.7823230876166701,0.04225916,0.17541829,0.32732264999999994,0.45499989999999996,0,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+2nd round vote,Macron,2287.563,0.37730226446222465,0.6044209492809597,0.051142589999999995,0.3261598,0.4094196299999999,0.1949999,0.01827808,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+2nd round vote,Le Pen,1619.66,0.2649999,0.725,0.03050153,0.23475569000000002,0.37502636000000006,0.3464311,0.01328465,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"
+2nd round vote,Blank/Null/NA,370.4173,0.45470068487621934,0.525,0.04381048,0.4108901,0.35579493999999995,0.16676081,0.02274401,"q25_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les syndicats"

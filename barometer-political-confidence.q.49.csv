@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.7767177532303886,0.20230516731722117,0.19698973,0.57972785,0.13096475,0.07134027,0.02097614,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Gender,Man,2929.637,0.7943991013221091,0.18793830088847183,0.23278048,0.56162009,0.1218835,0.06605474,0.01766293,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Gender,Woman,3049.36,0.7597325340399296,0.21610806857832462,0.16260451,0.59712825,0.13968967,0.07641843,0.02415932,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Age,18-24,478.2759,0.7249998999999999,0.265,0.17801734999999996,0.5449999,0.20964896000000008,0.05707662,0.01025717,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Age,25-34,836.9062,0.7413388740578096,0.23755195026635,0.18740486999999997,0.553934,0.1596394,0.0779126,0.02110903,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Age,35-49,1494.556,0.7449998999999999,0.235,0.15137512,0.59432353,0.13616894,0.09597091,0.02216106,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Age,50-64,1554.412,0.7824096828897357,0.19470050411345252,0.18981383,0.5904856700000002,0.13240936,0.06229114,0.025,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Age,65+,1614.848,0.8335824795894102,0.145275097098922,0.2549999,0.5785824300000001,0.08720158,0.05807356,0.021142529999999996,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Socio-Professional Category,Total-CSP+,1734.019,0.765,0.2249999,0.1877760599999999,0.5750000000000001,0.15412051,0.07259442,0.01050901,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Socio-Professional Category,Small Business owners,212.9949,0.6917517743382587,0.3082482726112221,0.21941779,0.47233431,0.17691964,0.13132864,0,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.7812192648876056,0.20259565941820423,0.19243665000000001,0.58878261,0.14212281,0.06047281999999999,0.01618536,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Socio-Professional Category,Prof Intermed,896.9079,0.7666773812562026,0.2237952191077813,0.17956147000000003,0.58711535,0.15494991,0.06884529,0.00952691,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Socio-Professional Category,Total-CSP-,1674.09,0.7591993262011004,0.2149999,0.17095963,0.58823934,0.14232269,0.07294464,0.02553342,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Socio-Professional Category,Salaried,956.6466,0.7514424867030312,0.2280989656995593,0.15034026,0.60110191,0.16610815000000004,0.06199081,0.0204582,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Socio-Professional Category,Blue collar,717.4432,0.7695421742097492,0.19815756843189813,0.19845362,0.57108842,0.11060697,0.08755062,0.03230077,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,Far left,187.3446,0.715,0.2646255616655083,0.185,0.5274243300000001,0.19206606,0.0725595,0.022950109999999996,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,Radical left,828.7407,0.6300315647584341,0.3487394790674574,0.12047544,0.50955613,0.24674943999999996,0.10199006,0.021229610000000003,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,Left,1430.296,0.6819156314497139,0.2990714509444199,0.12162475,0.56029081,0.20507384000000003,0.09399768,0.01901339,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,PC/LFI,641.3963,0.6059652978977272,0.3733080468346949,0.10219462,0.505,0.26149196,0.11058636,0.02072706,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,PS,449.3176,0.81309768413256,0.17164660364962334,0.18082368,0.63227392,0.12277000000000002,0.048876609999999994,0.015255809999999998,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,EELV,339.583,0.6517947011481728,0.3274563214295179,0.07999514,0.57179983,0.2050893,0.12236693,0.02074839,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,EM,672.9198,0.8950173557086595,0.09938112981665868,0.28700017,0.60861881,0.07232856,0.02705256,0.0049999,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,MoDem,161.1257,0.9198706351624849,0.08012930277416949,0.24252456,0.6773457,0.06095599,0.01917333,0,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,Right,573.0042,0.9397690278709998,0.049901693565247866,0.34401441,0.59575497,0.03782712,0.012074559999999998,0.01032924,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,UDI/PR,89.32552,0.9539576148003394,0.04604250834475971,0.29200379,0.66195211,0.035,0.0110441,0,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,LR,397.5368,0.9495699517629561,0.03701961680025597,0.36559207,0.58397814,0.0252963,0.01172333,0.01341059,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,Radical right,1008.8,0.8649998999999999,0.12870876288659794,0.3139205,0.5521156800000001,0.085,0.04396382,0.005,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,Debout la France,86.14185,0.8798265883539765,0.11335303339781999,0.29836787,0.58145895,0.09858904000000002,0.014763990000000001,0.00682013,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,Reconquete,205.4045,0.9484100883865738,0.05159000898227643,0.43913595,0.50927414,0.0298898,0.0217002,0,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,RN,717.2537,0.8411640121201187,0.15263790204219232,0.27992968,0.56123405,0.09879138,0.05384648,0.00619876,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Political similarity,No preference,1860.95,0.7149998999999999,0.24658153093849916,0.12260055,0.59433032,0.14657535,0.10000622999999999,0.03648811,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Total-left,1649.278,0.6949998999999999,0.285,0.1349999,0.5643482200000001,0.19683765,0.0869358,0.01687843,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Very Left,217.9165,0.5212290028520098,0.461579549965239,0.10238729000000002,0.41903842999999996,0.18638207999999998,0.2749999,0.0171923,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Left,1431.362,0.7249998999999999,0.2567034055675643,0.14002419,0.5849999,0.19987117000000001,0.05827411,0.01683063,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Center,776.1196,0.849657707394582,0.14003846829792727,0.21232707,0.63733038,0.09895940999999998,0.041079,0.01030375,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Total-right,1622.94,0.8949999,0.09752603300183617,0.33499989999999996,0.56118452,0.06036961,0.03715646,0.006289509999999999,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Right,1193.119,0.9042978948453592,0.08820729533265333,0.31929871000000015,0.5849999,0.05713066,0.03107668,0.00749405,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Very Right,429.8207,0.875,0.12339356852752788,0.38609541,0.4875647,0.06936057,0.05403302,0.00294588,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Both left and Right,200.4265,0.8590026767917416,0.12717524878197245,0.19512480000000001,0.66387778,0.09968093,0.027494269999999998,0.013822279999999998,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Politics,Neither left nor right,1673.316,0.6960801187582022,0.2615278285751167,0.11945371,0.57662617,0.1539491,0.10757872000000002,0.042392729999999997,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Loss of job risk,High risk,556.2398,0.7025016908175217,0.2814990944553051,0.15003498,0.55246658,0.15974682,0.12175224,0.01599919,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Loss of job risk,Low risk,1874.312,0.7456688107422884,0.2320397031017248,0.16686384,0.57880492,0.16487074,0.06716886,0.022291639999999998,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+Loss of job risk,Zero risk,3478.817,0.8068354845914574,0.17292662994345492,0.22107443000000002,0.58576234,0.1086365,0.06429016,0.02023833,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Arthaud,24.07418,0.7161847257102838,0.22153992368587425,0.255,0.4611847600000001,0.17001617999999996,0.05152375,0.06227531,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Poutou,32.85668,0.6649999,0.325,0.1549999,0.5127895200000001,0.21730939,0.10750225,0.00739894,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Roussel,98.04205,0.739673436040964,0.21424093029470517,0.11049116,0.62918217,0.16390559,0.05033532,0.04608543999999999,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Melenchon,942.3053,0.625,0.3534739749420915,0.10650041,0.51769867,0.23005506,0.12341902000000002,0.02232656,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Hidalgo,75.31895,0.7520808508350156,0.2286497621116598,0.12797838,0.62410257,0.18681434,0.04183546,0.01926969,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Jadot,198.8808,0.7136264536345389,0.25563131282657753,0.10109729,0.61252921,0.18906018,0.06657108,0.03074239,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Macron,1195.294,0.9009657874966326,0.08660848293390579,0.2549999,0.64596639,0.06737606,0.01923246,0.01242519,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Pecresse,205.1207,0.9508630772028371,0.04139013761165987,0.33673622,0.61412671,0.03270327,0.00868687,0.007746459999999999,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Dupont-Aignan,88.56025,0.8860574580582147,0.11394254194178541,0.25092714,0.63513032,0.08368882,0.030253670000000003,0,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Zemmour,303.4525,0.8926833688962853,0.10124665310056764,0.37883886,0.51384451,0.06180539000000001,0.03944123,0.00607036,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Le Pen,993.0248,0.8312976674902781,0.15843652645935932,0.26474465,0.56655262,0.10922334999999998,0.04921321,0.010265789999999999,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Lassalle,134.5409,0.7979580930408523,0.20204175830546697,0.195,0.60295827,0.13979771,0.06224402,0,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Blank/Null/NA,96.61228,0.6749999,0.2677383247761051,0.12499990000000001,0.55157508,0.16110519,0.10663323999999999,0.05568659,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Blank,63.86856,0.745,0.2149999,0.145,0.59958929,0.12170735,0.09431877,0.03938459,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+1st round vote,Null,19.09123,0.46868813586133523,0.47043873024420113,0.04596303,0.42272504,0.26270324,0.20773544,0.0608735,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+2nd round vote,Macron,2287.563,0.8381828172601148,0.14853942820372595,0.22318162000000005,0.615,0.10890191999999999,0.03963755,0.01327891,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+2nd round vote,Le Pen,1619.66,0.8228140473926626,0.16505038094414876,0.26211859,0.56069459,0.10696955,0.05808082,0.01213557,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"
+2nd round vote,Blank/Null/NA,370.4173,0.725,0.249306390387274,0.13702314,0.58867068,0.17871965,0.07058663,0.0249999,"q25_i11. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- L'armée"

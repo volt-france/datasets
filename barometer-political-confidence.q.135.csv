@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.875,0.0949999,0.385,0.48782433999999997,0.07332033,0.023834130000000002,0.0300212,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Gender,Man,2929.637,0.8813805259832531,0.095,0.39799743,0.4833848,0.06845725,0.02650431,0.023657719999999997,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Gender,Woman,3049.36,0.864603392187213,0.09926138599574992,0.3724433999999999,0.49215999,0.0779925,0.02126885,0.03613489,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Age,18-24,478.2759,0.8749998999999999,0.10684280767648967,0.40287248,0.4712030200000001,0.08298254000000001,0.025,0.01794196,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Age,25-34,836.9062,0.8589109508329608,0.11104164361549716,0.37752761,0.48142926,0.08599613999999998,0.0249999,0.03004709,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Age,35-49,1494.556,0.8683803082654649,0.09215138141361047,0.37168196,0.49669808,0.07128592,0.02086546,0.03946802,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Age,50-64,1554.412,0.8792553068298494,0.0888909761376006,0.42071645,0.45853943,0.06347034,0.02542067,0.03185456,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Age,65+,1614.848,0.8772503665979708,0.0996725388395688,0.36139339,0.51585734,0.07525352,0.02441905,0.02307755,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Socio-Professional Category,Total-CSP+,1734.019,0.8587979716485229,0.12459990346126543,0.37600816,0.4827900399999999,0.09180401,0.03279586,0.01660211,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Socio-Professional Category,Small Business owners,212.9949,0.8239338124997359,0.155,0.3630439,0.4605235600000001,0.10885453,0.045,0.02257801,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.8520123936348748,0.125,0.35097961999999994,0.50104474,0.09752328,0.025452460000000003,0.0249999,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Socio-Professional Category,Prof Intermed,896.9079,0.8711211039617334,0.1190462253705202,0.39229479,0.47845661000000006,0.085,0.03441582,0.00983278,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Socio-Professional Category,Total-CSP-,1674.09,0.8949999,0.06514297319737888,0.4149999,0.4821264500000001,0.04761222999999999,0.01753077,0.03773065,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Socio-Professional Category,Salaried,956.6466,0.9008574326193183,0.06147593061011245,0.42232795000000006,0.47852843,0.04019857,0.021277369999999997,0.03766719,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Socio-Professional Category,Blue collar,717.4432,0.8921525773747664,0.0700327078157546,0.4092133,0.482939,0.05749769,0.01253501,0.03781526,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,Far left,187.3446,0.8343138793431997,0.165,0.38177925,0.45253469,0.13552149,0.02571562,0.00444932,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,Radical left,828.7407,0.8990220946069138,0.08678200551752799,0.5071746299999998,0.39158388000000005,0.065,0.022045279999999997,0.01419621,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,Left,1430.296,0.9138227331964852,0.075,0.44448966999999995,0.46933362,0.05863228,0.01587923,0.01166624,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,PC/LFI,641.3963,0.9179225075043309,0.0649999,0.545,0.37292238,0.04406125,0.02097321,0.01704316,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,PS,449.3176,0.9233065875897137,0.07042450596192981,0.37410264,0.54920462,0.05886255000000001,0.01156197,0.006268740000000001,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,EELV,339.583,0.8935288280037575,0.09781894264436086,0.34939853,0.54413001,0.08584879,0.011970149999999999,0.00865207,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,EM,672.9198,0.8152727858505575,0.17276546179797356,0.17027241000000007,0.645,0.13039318,0.04237223,0.011962180000000001,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,MoDem,161.1257,0.8784427313581882,0.10239179721174213,0.23825771,0.64018465,0.09398426000000001,0.00840755,0.01916533,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,Right,573.0042,0.8508223848970043,0.12448769136421688,0.28709126,0.56342102,0.09983787,0.02464985,0.025,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,UDI/PR,89.32552,0.7949999,0.157064408916959,0.20406587,0.5930284,0.14769508,0.00936929,0.04584137,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,LR,397.5368,0.8441437371332665,0.13056886808969634,0.24014874,0.6039954,0.09714416000000001,0.0334247,0.025287470000000003,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,Radical right,1008.8,0.9209241673275178,0.06761965701823949,0.54450416,0.3764202,0.04548221,0.02213746,0.01145645,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,Debout la France,86.14185,0.9373569292974321,0.06264305909380863,0.58982063,0.34753619,0.06264306,0,0,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,Reconquete,205.4045,0.9184234035768447,0.05637904719711593,0.51647398,0.40214708000000005,0.030810499999999998,0.02556854,0.0249999,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,RN,717.2537,0.9196667789932629,0.07143638297020985,0.54714531,0.37252161,0.04762281,0.02381358,0.00889725,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Political similarity,No preference,1860.95,0.8505322550310325,0.09073854751605363,0.37224486999999995,0.47828786,0.06459588,0.02614265,0.05872952,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Total-left,1649.278,0.925,0.06367689376806093,0.45733545,0.4670498799999999,0.04871084,0.01496609,0.01193811,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Very Left,217.9165,0.9302939428634363,0.061046134643315215,0.60456367,0.32573031,0.0409002,0.02014592,0.00866054,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Left,1431.362,0.925,0.0640774311459994,0.435,0.48848547,0.04989994,0.01417749,0.0124371,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Center,776.1196,0.8418272132284766,0.1482977623551834,0.22682734000000015,0.6149998999999999,0.11007213,0.03822559,0.00987504,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Total-right,1622.94,0.8785962512477357,0.1065243940010105,0.3874562200000001,0.49113910999999993,0.08032577,0.026198660000000002,0.01487907,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Right,1193.119,0.8649998999999999,0.11771491360040366,0.32418468,0.54244296,0.0926662,0.02504867,0.01565654,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Very Right,429.8207,0.9118176486148759,0.07546137261420867,0.56308898,0.3487282,0.04607049,0.02939088,0.01272092,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Both left and Right,200.4265,0.895,0.09434386171489298,0.3550064,0.53997101,0.08497444,0.00936946,0.01067891,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Politics,Neither left nor right,1673.316,0.8349998999999999,0.09735441482660775,0.39380159,0.44247966,0.07244591,0.025,0.06627284,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Loss of job risk,High risk,556.2398,0.8521402100317166,0.135,0.49492704,0.35782535,0.08586511,0.046382599999999996,0.0149999,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Loss of job risk,Low risk,1874.312,0.873218546325265,0.10036456043604267,0.38945432,0.48376412,0.07895126,0.0214133,0.02641721,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+Loss of job risk,Zero risk,3478.817,0.8774948495422438,0.09115699388614003,0.36525807,0.51223764,0.06958026,0.021576709999999995,0.03134842,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Arthaud,24.07418,0.7861144180196377,0.1444240676110256,0.31893734,0.46717728,0.07348616,0.07093795,0.06946135,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Poutou,32.85668,0.8966423266136445,0.0949999,0.42766098,0.46898135,0.08369406,0.012264769999999998,0.00739894,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Roussel,98.04205,0.9294122266925263,0.05673187168158969,0.465,0.46441231000000005,0.04070576,0.01602611,0.01385582,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Melenchon,942.3053,0.9095669949006973,0.06919253239900063,0.53154397,0.37802239,0.05253974,0.01665279,0.02124054,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Hidalgo,75.31895,0.9568035666986859,0.0249999,0.42038863,0.5376833599999999,0.01896592,0.0049999,0.01796219,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Jadot,198.8808,0.9285597201942067,0.05703888962634905,0.36892666,0.55963321,0.05703889,0,0.01440137,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Macron,1195.294,0.8108522254775812,0.17047094689674672,0.15937075,0.65148189,0.1406623,0.02980862,0.01867727,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Pecresse,205.1207,0.8548035376244328,0.135,0.26249413,0.5904831199999999,0.115,0.02138242,0.01064033,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Dupont-Aignan,88.56025,0.8921376125293233,0.10786225196970424,0.47827891,0.4138588100000001,0.08845279,0.01940946,0,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Zemmour,303.4525,0.9014966098483288,0.07178467799738016,0.50416751,0.39787875,0.0449999,0.02623491,0.02671893,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Le Pen,993.0248,0.9192935564147038,0.06937275886765365,0.54015771,0.37913534,0.04759729,0.02177547,0.01133394,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Lassalle,134.5409,0.9064239944879215,0.080125374514367,0.385,0.52142429,0.06349894,0.01662642,0.01345035,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Blank/Null/NA,96.61228,0.7832633698324892,0.13967303121300936,0.32304361,0.46021955,0.11160941000000002,0.02806362,0.07706339,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Blank,63.86856,0.8607864338885987,0.09391295184986165,0.38757614000000007,0.47321014,0.0795206,0.01439236,0.045300459999999994,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+1st round vote,Null,19.09123,0.5775636247638314,0.3006469462679985,0.19565297999999998,0.38191074999999997,0.20677819,0.09386881,0.12178959000000002,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+2nd round vote,Macron,2287.563,0.8478992709708978,0.1333692230552776,0.21862502,0.62927491,0.10919704,0.02417211,0.01873209,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+2nd round vote,Le Pen,1619.66,0.9209926774755195,0.06775063902300482,0.55285615,0.3681365200000001,0.05028301,0.01746765,0.01125645,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"
+2nd round vote,Blank/Null/NA,370.4173,0.8945818675315651,0.0774086955441876,0.4749999,0.41958214000000005,0.05949541,0.01791328,0.02800927,"q12v13b_i2. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Emmanuel Macron devra faire des compromis sur son programme pour éviter des conflits graves"

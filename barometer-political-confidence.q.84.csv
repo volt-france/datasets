@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.745,0.2349999,0.255,0.48613481999999997,0.19311015,0.04461715,0.02113788,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Gender,Man,2929.637,0.7297552563679391,0.25182966353852027,0.25520858,0.47459266,0.2049999,0.04678283,0.01841603,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Gender,Woman,3049.36,0.755,0.22417927040428154,0.255,0.49706771000000005,0.18164287,0.04253653,0.02375289,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Age,18-24,478.2759,0.7620758227625519,0.22862222411792021,0.31216689,0.44990872,0.19575856,0.03286379,0.00930225,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Age,25-34,836.9062,0.7412036139772892,0.231699920492882,0.30676831,0.4344353,0.18474293,0.04695707,0.0270965,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Age,35-49,1494.556,0.7749999,0.1953462432990132,0.29317757,0.4831845,0.15581745,0.03952873,0.02829135,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Age,50-64,1554.412,0.7349998999999999,0.245,0.25393403,0.48259496,0.19739188,0.04738015,0.01870033,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Age,65+,1614.848,0.7049998999999999,0.2759924153852251,0.1749999,0.5317268700000001,0.22705690999999997,0.04893536999999999,0.01728095,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Socio-Professional Category,Total-CSP+,1734.019,0.725,0.26453556737267586,0.25697164,0.46803587,0.21860833,0.0449999,0.01138426,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Socio-Professional Category,Small Business owners,212.9949,0.7249998999999999,0.2509304213387269,0.30348572,0.42058386999999997,0.20810996,0.04282045,0.025,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.6749999,0.315,0.21247722,0.4615017200000001,0.23926932999999997,0.075,0.01175173,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Socio-Professional Category,Prof Intermed,896.9079,0.7538564439002042,0.23757835113281978,0.26367479,0.49018132,0.20789269,0.02968571,0.00856439,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Socio-Professional Category,Total-CSP-,1674.09,0.7883972785214655,0.1837963908750426,0.3015308,0.48686612000000007,0.14300647,0.04078995,0.02780649,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Socio-Professional Category,Salaried,956.6466,0.805,0.16984307475717783,0.27877902,0.5263779099999999,0.13673273,0.03311044,0.0249999,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Socio-Professional Category,Blue collar,717.4432,0.7668050934206359,0.20240180686080794,0.3318045200000001,0.435,0.15137198,0.05102988,0.03079362,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,Far left,187.3446,0.7460882245872045,0.2429681987097573,0.31667387,0.42984734999999996,0.1749999,0.0675348,0.01094408,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,Radical left,828.7407,0.748689909883755,0.23851030847163654,0.27802991,0.47066049,0.20192963,0.03658056,0.01280008,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,Left,1430.296,0.7277738314306968,0.26235639336193345,0.22228588,0.50548802,0.22410312,0.03825326,0.00987064,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,PC/LFI,641.3963,0.7494499110768178,0.23720794772280412,0.26674226,0.48270796,0.20966897,0.02753917,0.0133422,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,PS,449.3176,0.7067176981271154,0.28924885203695555,0.175,0.5317177000000001,0.24228897,0.04695983,0.0040335,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,EELV,339.583,0.7146897812905828,0.275,0.20117877,0.51351098,0.22730286999999996,0.04696963999999999,0.01103697,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,EM,672.9198,0.6349999,0.355,0.1849999,0.45417787000000004,0.28761451,0.06573513,0.00747259,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,MoDem,161.1257,0.6554938163185637,0.3349999,0.12603359,0.52946035,0.29448884,0.04362773000000001,0.0063894,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,Right,573.0042,0.7116825670736794,0.2800457658076503,0.17847496,0.53320761,0.21939769000000003,0.06064809,0.00827179,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,UDI/PR,89.32552,0.6549999,0.33634822388943275,0.1040696,0.5542689300000001,0.235,0.10162512,0.005036350000000001,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,LR,397.5368,0.6963370435139589,0.29437450822162875,0.15933199,0.5381213800000001,0.2349999,0.05825799999999999,0.00928873,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,Radical right,1008.8,0.8249998999999999,0.165,0.314704,0.51049475,0.12809605,0.03595424,0.010751720000000001,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,Debout la France,86.14185,0.8349998999999999,0.15553613023170504,0.34397311,0.49355708000000004,0.12634939,0.02918673,0.00693373,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,Reconquete,205.4045,0.8049999,0.17981237022557925,0.30296138,0.50207809,0.13980405,0.04000831,0.01514836,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,RN,717.2537,0.8249998999999999,0.165,0.3145516,0.51489121,0.125,0.03560602,0.00995117,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Political similarity,No preference,1860.95,0.7632961659367526,0.19688320481474514,0.30887504,0.45442086,0.15770343,0.03917976,0.03982179,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Total-left,1649.278,0.725,0.26176733091692245,0.21770308,0.50588627,0.21859012999999997,0.04317715,0.01464365,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Very Left,217.9165,0.7710990218730569,0.2249999,0.33917192999999995,0.4307973500000001,0.19335617,0.03167455,0.005,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Left,1431.362,0.7163561698577997,0.2649999,0.19921012,0.51714591,0.22243178,0.04492834,0.01628376,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Center,776.1196,0.6767240512931254,0.3149999,0.20181658,0.475,0.2623933500000001,0.05450958,0.00628049,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Total-right,1622.94,0.7528516149703625,0.23562990621957683,0.25102998,0.50182077,0.19040316,0.04522664,0.01151842,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Right,1193.119,0.731935540377783,0.2581313347620816,0.23176397,0.50017148,0.21853654,0.03959484,0.00993213,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Very Right,429.8207,0.8109090604524166,0.17316897487719882,0.30451,0.5063986,0.11230918,0.06085977,0.01592175,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Both left and Right,200.4265,0.745,0.2549999,0.25564294,0.48782836,0.22310084,0.03225893,0.00116938,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Politics,Neither left nor right,1673.316,0.7808590845960954,0.17758815429960628,0.32099352,0.45986586,0.13561736,0.04197076,0.04155333,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Loss of job risk,High risk,556.2398,0.804607653030222,0.185,0.4496076900000001,0.3549999,0.13804136,0.04543224,0.01191881,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Loss of job risk,Low risk,1874.312,0.7563404598594045,0.22318957569497502,0.25701399,0.49932679,0.181147,0.04204261,0.02046999,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+Loss of job risk,Zero risk,3478.817,0.7249998999999999,0.255,0.22405444,0.50166364,0.20968427000000003,0.045093839999999996,0.01950497,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Arthaud,24.07418,0.7426093017498416,0.2324601294831226,0.4423969099999999,0.30014297,0.22108799,0.011372129999999998,0.025,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Poutou,32.85668,0.8549998999999999,0.1370640308150428,0.27297198,0.58256525,0.13706403,0,0.00739894,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Roussel,98.04205,0.7113055061578168,0.26673197877849353,0.1949999,0.51630577,0.23117009,0.03556181,0.02196243,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Melenchon,942.3053,0.7349998999999999,0.245,0.24476823,0.49235052000000007,0.20620971,0.03763979,0.01903124,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Hidalgo,75.31895,0.6908002567746895,0.2966450010256383,0.14207766,0.54872273,0.27104401,0.02560105,0.01255492,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Jadot,198.8808,0.6801823001516487,0.30320307440436683,0.18795218,0.49222997,0.24038379000000004,0.06281924,0.01661488,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Macron,1195.294,0.6732337818143486,0.315196763306768,0.18674033,0.4849999,0.25834289999999993,0.05834637,0.0115705,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Pecresse,205.1207,0.6902326288863093,0.29982205598947353,0.1705059,0.51972668,0.22784296999999998,0.07197918,0.00994505,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Dupont-Aignan,88.56025,0.8094939885558138,0.1905061243616634,0.305,0.50449382,0.14309919,0.04740699,0,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Zemmour,303.4525,0.7668818019294618,0.2109051004687719,0.28835584,0.47852629,0.18474427,0.02616082,0.022213,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Le Pen,993.0248,0.8060541891803709,0.18287045801877252,0.305,0.5010541300000001,0.14905791,0.03381257,0.01107539,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Lassalle,134.5409,0.8215419994960641,0.1739468815802481,0.21007916999999998,0.6109739700000002,0.12217244,0.05177442,0.005,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Blank/Null/NA,96.61228,0.7516202909195395,0.205,0.23785051,0.51376968,0.15644274,0.04733291,0.044603859999999995,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Blank,63.86856,0.7788127679722229,0.18945064676579526,0.25698701,0.52182529,0.14159637,0.04785428,0.03173663,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+1st round vote,Null,19.09123,0.6607756545806635,0.2853215848324073,0.22677606,0.43399974999999996,0.20588427,0.07943731,0.05390292,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+2nd round vote,Macron,2287.563,0.6821923592923997,0.305,0.17986145,0.50233196,0.24776376,0.05707012,0.012975109999999998,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+2nd round vote,Le Pen,1619.66,0.7979094377832385,0.1895921983626193,0.31289987,0.48500858,0.1579032,0.03168895,0.012498640000000002,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"
+2nd round vote,Blank/Null/NA,370.4173,0.7549999,0.225,0.23352737999999998,0.5228837300000001,0.18996050999999997,0.035,0.01862838,"q6v13b_i1. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les diplômes ne permettent plus vraiment de mesurer la compétence professionnelle"

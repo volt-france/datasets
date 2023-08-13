@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.4558081766823292,0.5120888067941773,0.07793848,0.37787042,0.32485221,0.1872361,0.03210225,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Gender,Man,2929.637,0.5141732576424997,0.45999931049478143,0.08380175,0.43037141,0.28856118,0.17143854,0.025829010000000003,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Gender,Woman,3049.36,0.3997363381168508,0.5621336936275152,0.07230543,0.32743071,0.35971974,0.20241368999999998,0.03812925,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Age,18-24,478.2759,0.5111077100058774,0.46017371981318733,0.11014893,0.40095874,0.28383952,0.17633404,0.02871867,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Age,25-34,836.9062,0.5234569895646609,0.44723303519558105,0.11040881,0.4130482,0.28569474,0.16153865,0.02930974,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Age,35-49,1494.556,0.38154876766076345,0.5866073268582777,0.05326869000000001,0.32724971999999997,0.355,0.23263839,0.0318432,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Age,50-64,1554.412,0.3940605193475089,0.575,0.06492667,0.32913396999999994,0.33743731,0.23534115,0.03316224,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Age,65+,1614.848,0.535,0.4336917778019975,0.08692744,0.4460680899999999,0.31823342,0.1149999,0.03377115,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Socio-Professional Category,Total-CSP+,1734.019,0.5190106913476726,0.4710432815326706,0.08632535,0.43268522,0.31317771,0.15786557,0.00994641,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Socio-Professional Category,Small Business owners,212.9949,0.4847890724144099,0.505,0.06324025,0.4210275399999999,0.275,0.22815373000000003,0.01257848,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.5801566714123088,0.4092177283096757,0.11139944,0.46875695,0.29006186,0.11915586999999998,0.01062599,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Socio-Professional Category,Prof Intermed,896.9079,0.49241131670264027,0.49842910292126985,0.07214009,0.42027136,0.33628715,0.16214184,0.00915843,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Socio-Professional Category,Total-CSP-,1674.09,0.40360966256294467,0.5604821724041121,0.07235632,0.33125328,0.33081591,0.22966597,0.0359081,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Socio-Professional Category,Salaried,956.6466,0.3797073025712943,0.5801525871727343,0.05283476,0.32687254,0.35797556,0.22217713,0.04013943,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Socio-Professional Category,Blue collar,717.4432,0.4354817217586005,0.5342528858033639,0.0983867,0.33709484000000006,0.29460102,0.23965158,0.03026601,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,Far left,187.3446,0.5249999,0.45681636940696446,0.19908484,0.32499989999999995,0.28862561,0.16939174999999998,0.0178979,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,Radical left,828.7407,0.48683249175526194,0.48965351888715014,0.10598459,0.38084783,0.31602889,0.17362475,0.02351465,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,Left,1430.296,0.4849999,0.495,0.07206858,0.4149999,0.3377444700000001,0.15729996,0.01788709,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,PC/LFI,641.3963,0.4756004984749678,0.4949999,0.07879104,0.39680927,0.32438354,0.17486116,0.02515523,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,PS,449.3176,0.5068784307581096,0.4749999,0.07643885,0.4314971400000001,0.3549999,0.12043572,0.01662839,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,EELV,339.583,0.488272970083897,0.5049999,0.053588670000000005,0.435,0.3326793099999999,0.17290742,0.0058246,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,EM,672.9198,0.660425061054824,0.3218127925497214,0.16708633,0.49333799,0.24234433,0.07946859,0.01776224,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,MoDem,161.1257,0.6540042960247807,0.335,0.11072442,0.541594,0.25982447,0.075,0.012857110000000001,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,Right,573.0042,0.6033372879291287,0.37048559155412825,0.08297177,0.5203653,0.28179462,0.08869115,0.02617738,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,UDI/PR,89.32552,0.6281717699488344,0.3649999,0.06292953,0.56524216,0.31400578,0.05137394,0.00644882,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,LR,397.5368,0.6393393014181328,0.3243785229442909,0.08063222999999999,0.55893367,0.23915152,0.0849999,0.03628268,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,Radical right,1008.8,0.3895171490880254,0.5995234932593181,0.06604502,0.32347205,0.37500307,0.22452022,0.010959889999999998,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,Debout la France,86.14185,0.4114391553002402,0.5885606125245743,0.11455146,0.29688775,0.44518617,0.14337445,0,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,Reconquete,205.4045,0.5097220362747652,0.4786792402308615,0.07955517,0.43016706,0.34233052,0.13634877,0.01159867,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,RN,717.2537,0.355,0.6349999,0.05635042,0.29704033000000013,0.3749999,0.25951612,0.01209323,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Political similarity,No preference,1860.95,0.3249999,0.615,0.0449999,0.28314135,0.3487388900000001,0.2654966,0.05762326,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Total-left,1649.278,0.46703757644254035,0.5077194384451863,0.06918743,0.39809359999999994,0.32989252999999996,0.17782654,0.0249999,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Very Left,217.9165,0.43338035440180067,0.5666202421569729,0.09218581,0.34119454,0.2651003,0.30151989,0,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Left,1431.362,0.4721614099018976,0.4987519579253885,0.0649999,0.4071618400000002,0.33975674999999994,0.15899493,0.02908658,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Center,776.1196,0.6150844534785618,0.374078556964674,0.115,0.5000849099999999,0.27250426,0.10157424,0.01083659,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Total-right,1622.94,0.5173949129357832,0.4634253884924889,0.09143696,0.42595826,0.30282493,0.16060052,0.01917829,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Right,1193.119,0.5607606617613164,0.4163550324820911,0.09552139999999999,0.46499989999999997,0.28107179000000015,0.13552378,0.02288313,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Very Right,429.8207,0.39701926873228766,0.5940860921775056,0.08009924,0.31692006,0.36387614999999995,0.23020988,0.0088942,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Both left and Right,200.4265,0.5399066490708564,0.44862066642884046,0.11385380999999999,0.42605323999999994,0.29838469,0.15023602,0.01147275,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Politics,Neither left nor right,1673.316,0.30441297399893386,0.6399801352523969,0.05386039,0.25055256,0.37216778,0.26781319,0.05560699000000001,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Loss of job risk,High risk,556.2398,0.2992743417497274,0.6749999,0.09866299,0.20061149999999997,0.33317932,0.34254619,0.025,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Loss of job risk,Low risk,1874.312,0.4488890323489366,0.5264322588768573,0.07360301,0.37528592,0.34557454,0.18085767,0.02467892,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+Loss of job risk,Zero risk,3478.817,0.48688217862566496,0.4789927150522721,0.07792471,0.4089577,0.31244012,0.16655311,0.03412626,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Arthaud,24.07418,0.4687939526912236,0.5053816993974458,0.2276004,0.24119372,0.2589970599999999,0.24720892,0.0249999,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Poutou,32.85668,0.4799632829610296,0.520037021391084,0.11087988999999998,0.36908324000000003,0.28602041,0.23401643,0,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Roussel,98.04205,0.504280459251923,0.4800213785819452,0.09171831,0.41256216,0.33109518000000004,0.1489262,0.01569785,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Melenchon,942.3053,0.4249999,0.545,0.0524164,0.37359866,0.34553546000000007,0.19829571,0.03015347,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Hidalgo,75.31895,0.4325321847954598,0.518261207836806,0.08368205,0.3488500600000001,0.42219322,0.09606799,0.04920697000000001,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Jadot,198.8808,0.4912238888821847,0.49281695367275274,0.06741314,0.42381073999999996,0.39026271,0.10255419,0.01595927,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Macron,1195.294,0.6489571603304292,0.33256864001659836,0.13323141,0.51572609,0.2512781,0.08129042,0.01847489,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Pecresse,205.1207,0.6326869984355552,0.33958966598690427,0.11905707,0.51362978,0.2541196,0.08547007,0.027723009999999996,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Dupont-Aignan,88.56025,0.3909418729057337,0.6090581270942663,0.04257826,0.34836363,0.38972406,0.21933396,0,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Zemmour,303.4525,0.4947291585997809,0.485,0.0649999,0.42972872,0.33657227999999995,0.14785985,0.02083925,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Le Pen,993.0248,0.3849999,0.5992302508456989,0.06317978,0.32202881999999994,0.37787737,0.22135288,0.01556096,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Lassalle,134.5409,0.49439107364377677,0.5016380149084777,0.04303685,0.45032521000000003,0.37238096,0.12925698,0.005,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Blank/Null/NA,96.61228,0.3802796083479243,0.5686099117006658,0.05135549,0.32892402,0.3736101,0.195,0.05111039,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Blank,63.86856,0.3889544401815228,0.5527603878966427,0.06438907,0.325,0.37404802,0.17827786,0.05828505,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+1st round vote,Null,19.09123,0.3290683732792492,0.6543774287984588,0.03312018,0.29594814,0.39250677000000006,0.26187082,0.01655433,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+2nd round vote,Macron,2287.563,0.6080160415254137,0.3726494964291694,0.10656354000000001,0.50145286,0.27410572,0.09854391,0.01933583,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+2nd round vote,Le Pen,1619.66,0.3949999,0.585,0.07129805,0.32499989999999995,0.37624576,0.20741625,0.02004004,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"
+2nd round vote,Blank/Null/NA,370.4173,0.40186351987339686,0.5660966698909581,0.049922699999999993,0.35194064,0.40871984,0.15737707,0.03203981,"q6v13b_i3. À partir de votre expérience personnelle, seriez-vous d'accord ou pas pour dire que :
+- Les efforts que vous faites/avez faits dans la vie professionnelle ont été reconnus et récompensés"

@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.8058584024557944,0.17965857847179179,0.235,0.5708591500000001,0.12220356,0.05745502,0.01448227,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Gender,Man,2929.637,0.8242690135330759,0.165,0.28069013,0.5424092,0.11048071999999999,0.055,0.011419949999999998,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Gender,Woman,3049.36,0.7881722722144974,0.19440318624235903,0.19014111,0.59803041,0.13346637,0.06093685,0.01742438,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Age,18-24,478.2759,0.7456167036641403,0.24356987253591494,0.22061651000000002,0.525,0.17247340000000003,0.07109645,0.01081364,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Age,25-34,836.9062,0.7244376968410557,0.2578476536558099,0.20298510999999997,0.52126855,0.185,0.07303176,0.01771458,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Age,35-49,1494.556,0.7707399388179499,0.21060321593837902,0.18412786,0.58661295,0.14934315,0.06126013,0.01865581,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Age,50-64,1554.412,0.8272259864180153,0.1549999,0.21912273,0.60810319,0.10309641,0.05412771,0.01555128,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Age,65+,1614.848,0.8778355609939759,0.11316352994213696,0.31582192,0.5620358600000002,0.06814028,0.0449999,0.00900204,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Socio-Professional Category,Total-CSP+,1734.019,0.7901187933926905,0.20176480188510043,0.23651754,0.5536023,0.14404531,0.05771955,0.00811551,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Socio-Professional Category,Small Business owners,212.9949,0.7140466743569917,0.2818255272778832,0.23361921,0.4795552600000001,0.18882081,0.09300472,0.005,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.7998731002031768,0.1880717535735722,0.26272088,0.53715206,0.13578517,0.05228651,0.012055590000000001,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Socio-Professional Category,Prof Intermed,896.9079,0.8014426007397192,0.1918844733110278,0.21864441,0.58279763,0.13766597,0.05421857,0.00667247,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Socio-Professional Category,Total-CSP-,1674.09,0.7772341988781966,0.2049999,0.18690279,0.59176383,0.14499990000000001,0.05911111,0.01722237,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Socio-Professional Category,Salaried,956.6466,0.7855703454128201,0.20081334110213742,0.17011235,0.615458,0.15150673,0.04930662,0.013615810000000002,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Socio-Professional Category,Blue collar,717.4432,0.7661177916244797,0.21185133540885187,0.20929127000000003,0.55682624,0.13966681,0.0721845,0.0220314,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,Far left,187.3446,0.7327347572334617,0.24805844417186299,0.20927804,0.52345656,0.13051292,0.11754553,0.01920733,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,Radical left,828.7407,0.6749999,0.30679511697687833,0.14381929,0.53112132,0.225,0.08245752000000002,0.01760187,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,Left,1430.296,0.748512196076896,0.23879854239961518,0.15686746,0.59164502,0.18766081,0.05113769,0.01269002,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,PC/LFI,641.3963,0.658915712485401,0.3239513542563311,0.125,0.53391559,0.2517428,0.07220868,0.01713293,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,PS,449.3176,0.8566668654866847,0.1349999,0.22714935,0.6310665800000002,0.10499990000000001,0.0289059,0.00787827,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,EELV,339.583,0.775,0.21470161933901283,0.125,0.64963341,0.17394658,0.04075501,0.010664999999999997,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,EM,672.9198,0.935,0.06388100038072887,0.34863798,0.58629632,0.05193818,0.011942820000000002,0.00118465,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,MoDem,161.1257,0.9295847900117734,0.07041508586153544,0.3443864,0.5851982,0.03363775,0.03677735,0,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,Right,573.0042,0.9299642131767969,0.06668668397194995,0.42789233,0.50207206,0.03881684,0.02786985,0.00334907,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,UDI/PR,89.32552,0.8807045287841594,0.11929558316593064,0.36055542,0.52014922,0.02773621,0.09155936,0,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,LR,397.5368,0.9682150180813448,0.029169324701511908,0.4616843,0.50653147,0.01892858,0.01024074,0.0026156799999999996,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,Radical right,1008.8,0.8210203211736717,0.175,0.31766693,0.50335369,0.11911874999999998,0.05527135,0.00458964,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,Debout la France,86.14185,0.8045210312989564,0.18527266363561962,0.34177186,0.46093223000000005,0.14208947,0.045,0.01020644,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,Reconquete,205.4045,0.8983985258356072,0.09747099016818035,0.45116205000000004,0.44714415,0.065,0.03256342,0.00413038,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,RN,717.2537,0.805,0.1949999,0.27584244,0.525,0.13188484,0.06322614,0.00404658,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Political similarity,No preference,1860.95,0.761116096617319,0.212965152207206,0.15464048,0.60647572,0.13303931,0.0799259,0.02591943,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Total-left,1649.278,0.7544901465974808,0.235,0.1649999,0.5894893,0.17572883,0.05862255,0.01115942,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Very Left,217.9165,0.5707085053219926,0.4133398342943283,0.10101952000000002,0.46968908,0.26359303,0.14974676,0.01595233,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Left,1431.362,0.785,0.2049999,0.17529626,0.60717268,0.16235194,0.04474941,0.01042972,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Center,776.1196,0.8824083298501932,0.115,0.30926818,0.57314002,0.07508631,0.03816277,0.00434245,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Total-right,1622.94,0.8908369995193908,0.10537894192021885,0.36622968,0.52460627,0.07017092,0.03520797,0.0037841700000000003,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Right,1193.119,0.9149999,0.085,0.37196022,0.54319622,0.06640486,0.015,0.0034386999999999994,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Very Right,429.8207,0.8232500202991619,0.172006792599798,0.35032282,0.47267041000000015,0.08062518,0.09138159,0.005,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Both left and Right,200.4265,0.8878855839921368,0.11094510955387635,0.21017605,0.67770978,0.09455162,0.01639347,0.00116938,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Politics,Neither left nor right,1673.316,0.735,0.2349999,0.14581585,0.5862283299999999,0.14499990000000001,0.09025384000000002,0.03270208,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Loss of job risk,High risk,556.2398,0.7143298627678207,0.27623284058422287,0.18043369000000004,0.53376389,0.17136492,0.105,0.0094375,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Loss of job risk,Low risk,1874.312,0.769512759882026,0.21669033757453404,0.17892832,0.59015479,0.155,0.06211997,0.013796920000000002,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+Loss of job risk,Zero risk,3478.817,0.8407263158711712,0.145,0.27462692,0.5661324799999999,0.09773584,0.04650486,0.0149999,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Arthaud,24.07418,0.666947326970223,0.28499990000000003,0.19709814000000003,0.46984902,0.24307237,0.04387223,0.04610799,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Poutou,32.85668,0.7733584160055125,0.21924278411574147,0.14882791,0.62453054,0.11920982,0.10003296,0.00739894,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Roussel,98.04205,0.8475457214531927,0.1377766988756355,0.15838969,0.68915583,0.11962745,0.01814922,0.01467744,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Melenchon,942.3053,0.7100566026743137,0.26998235073070265,0.13643084,0.57362524,0.19830611,0.07167615,0.01996092,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Hidalgo,75.31895,0.8933256504505175,0.08740481645057452,0.15242273,0.74090305,0.05909166,0.02831314,0.01926969,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Jadot,198.8808,0.7995643621707073,0.18388401494764703,0.15436699,0.6451975299999999,0.15418572,0.02969827,0.01655168,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Macron,1195.294,0.9322551606550354,0.06316973062694199,0.33073386,0.60109641,0.04890119,0.014268539999999998,0.005,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Pecresse,205.1207,0.9576678511725047,0.042331987946608994,0.48826813,0.46939963,0.02864158,0.01369041,0,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Dupont-Aignan,88.56025,0.8139250961915759,0.17614742505808192,0.24499990000000002,0.5689249900000001,0.12034948000000001,0.055797910000000006,0.00992772,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Zemmour,303.4525,0.8888669561133951,0.10099346685230802,0.38100395,0.50786301,0.06151806,0.03947544,0.01013977,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Le Pen,993.0248,0.8292599540313594,0.1649999,0.2793751,0.54988486,0.10259653,0.06260939,0.0055339,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Lassalle,134.5409,0.8521037097269306,0.1478961416193886,0.28318259,0.56892075,0.11039751,0.03749869,0,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Blank/Null/NA,96.61228,0.72712309449689,0.23423223217586833,0.13855599,0.58856721,0.15089966,0.0833327,0.03864424,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Blank,63.86856,0.7607090249099087,0.2095680566463374,0.15086221,0.60984669,0.13988543,0.06968255,0.02972286,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+1st round vote,Null,19.09123,0.5627620640472091,0.3882165266460045,0.08034605000000002,0.4824158499999999,0.19962543,0.1885912,0.04902181,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+2nd round vote,Macron,2287.563,0.8984115410154823,0.0949999,0.29189452,0.60651707,0.07437242,0.02067793,0.00653971,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+2nd round vote,Le Pen,1619.66,0.8129354308929034,0.180137991924231,0.28499990000000003,0.5279357600000001,0.11829747999999998,0.06184051,0.00692635,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"
+2nd round vote,Blank/Null/NA,370.4173,0.7849999,0.19621429668646684,0.18053525,0.60470664,0.13867759,0.05753662,0.01854411,"q25_i18. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La gendarmerie nationale"

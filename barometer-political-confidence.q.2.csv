@@ -1,0 +1,62 @@
+Indicator,Category,BASE,Oui,"Non, je me suis abstenu(e)",No rep.,Question
+Total,Total,5979.002,0.7149999,0.27884708,0.00615302,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Gender,Man,2929.637,0.74861493,0.24638516999999996,0.0049999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Gender,Woman,3049.36,0.68362017,0.30916264,0.00721758,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Age,18-24,478.2759,0.69227908,0.30231086,0.00541031,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Age,25-34,836.9062,0.68224001,0.315,0.00275999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Age,35-49,1494.556,0.6639355099999998,0.3293644399999999,0.00669929,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Age,50-64,1554.412,0.70486525,0.28960488,0.00553116,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Age,65+,1614.848,0.79728866,0.19448734,0.00822446,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Socio-Professional Category,Total-CSP+,1734.019,0.7469364499999999,0.25018861,0.00287462,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Socio-Professional Category,Small Business owners,212.9949,0.60255105,0.38625615,0.01119335,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.85681161,0.1388398,0.00434905,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Socio-Professional Category,Prof Intermed,896.9079,0.71023424,0.28976487,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Socio-Professional Category,Total-CSP-,1674.09,0.65748735,0.33386806999999996,0.00864485,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Socio-Professional Category,Salaried,956.6466,0.6475489400000001,0.34499989999999997,0.00745116,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Socio-Professional Category,Blue collar,717.4432,0.67190978,0.31785415,0.010236530000000002,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,Far left,187.3446,0.5606661,0.43433389999999994,0.005,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,Radical left,828.7407,0.61175299,0.38612729,0.00212023,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,Left,1430.296,0.68776743,0.30924501,0.00298836,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,PC/LFI,641.3963,0.62650112,0.37204658,0.0014526899999999998,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,PS,449.3176,0.7384555999999999,0.25655283,0.00499174,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,EELV,339.583,0.7364158400000002,0.26034539,0.00323813,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,EM,672.9198,0.8981988599999999,0.09752271000000001,0.00427867,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,MoDem,161.1257,0.9776423,0.022357480000000002,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,Right,573.0042,0.8601661199999999,0.13537077,0.00446323,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,UDI/PR,89.32552,0.8642328599999999,0.13576714,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,LR,397.5368,0.86076182,0.13773998,0.00149811,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,Radical right,1008.8,0.86473662,0.12746164,0.00780186,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,Debout la France,86.14185,0.85222481,0.125,0.022775189999999997,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,Reconquete,205.4045,0.91303014,0.06875244,0.01821766,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,RN,717.2537,0.8519792700000001,0.145,0.0030207299999999997,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Political similarity,No preference,1860.95,0.5523754,0.44081323999999994,0.006811739999999999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Total-left,1649.278,0.6502378599999998,0.34718488999999997,0.00257736,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Very Left,217.9165,0.52681738,0.47037466000000006,0.00280852,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Left,1431.362,0.66902796,0.32842978,0.00254216,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Center,776.1196,0.85249928,0.14574506,0.00175527,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Total-right,1622.94,0.8694880899999999,0.12317683000000001,0.007334739999999999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Right,1193.119,0.8621554099999998,0.12995225,0.0078908,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Very Right,429.8207,0.88983941,0.10436931000000002,0.005791219999999999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Both left and Right,200.4265,0.7583598,0.23478193000000003,0.006858490000000001,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Politics,Neither left nor right,1673.316,0.5649999,0.42646477,0.00853533,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Loss of job risk,High risk,556.2398,0.67850772,0.31268007,0.00881235,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Loss of job risk,Low risk,1874.312,0.65639639,0.33860371,0.0049999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+Loss of job risk,Zero risk,3478.817,0.75748729,0.23751281,0.0049999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Arthaud,24.07418,0.8335399199999999,0.16646025000000003,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Poutou,32.85668,0.63710028,0.34497308,0.01792647,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Roussel,98.04205,0.7927439300000001,0.20225607,0.005,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Melenchon,942.3053,0.76207658,0.2353006,0.00262264,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Hidalgo,75.31895,0.90153102,0.08172005,0.01674891,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Jadot,198.8808,0.9241676400000001,0.07583246,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Macron,1195.294,0.98610802,0.010205119999999998,0.00368674,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Pecresse,205.1207,0.91130734,0.08869271,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Dupont-Aignan,88.56025,0.90414492,0.08592739999999999,0.00992772,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Zemmour,303.4525,0.92160256,0.07622313,0.00217449,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Le Pen,993.0248,0.97221348,0.02568506,0.00210153,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Lassalle,134.5409,0.8870544200000001,0.10485875,0.0080867,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Blank/Null/NA,96.61228,0.86921073,0.11691516,0.013874029999999999,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Blank,63.86856,0.92292875,0.06748882,0.00958254,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+1st round vote,Null,19.09123,0.6722228,0.31103046,0.01674721,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+2nd round vote,Macron,2287.563,1,0,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+2nd round vote,Le Pen,1619.66,1,0,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?
+2nd round vote,Blank/Null/NA,370.4173,1,0,0,vot2. Avez-vous voté dimanche 24 avril lors du second tour de l'élection présidentielle ?

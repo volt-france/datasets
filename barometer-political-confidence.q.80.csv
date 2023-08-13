@@ -1,0 +1,62 @@
+Indicator,Category,BASE,... s'ouvrir davantage au monde d'aujourd'hui,... ou se protéger davantage du monde d'aujourd'hui,"... ni l'un, ni l'autre",No rep.,Question
+Total,Total,5979.002,0.22361073,0.45362571,0.30568279,0.01708021,q28. Estimez-vous que la France doit... ?
+Gender,Man,2929.637,0.25704683,0.4449999,0.28046079,0.01749248,q28. Estimez-vous que la France doit... ?
+Gender,Woman,3049.36,0.19148769,0.46151880999999995,0.3303089799999999,0.01668416,q28. Estimez-vous que la France doit... ?
+Age,18-24,478.2759,0.21085131,0.4432031799999999,0.32037387,0.02557158,q28. Estimez-vous que la France doit... ?
+Age,25-34,836.9062,0.22227557,0.44928105,0.31085897,0.01758436,q28. Estimez-vous que la France doit... ?
+Age,35-49,1494.556,0.21150649,0.48375852,0.28841,0.01632423,q28. Estimez-vous que la France doit... ?
+Age,50-64,1554.412,0.20952823000000004,0.485,0.2931135999999999,0.01235817,q28. Estimez-vous que la France doit... ?
+Age,65+,1614.848,0.25284039,0.40121268,0.32639902,0.01954905,q28. Estimez-vous que la France doit... ?
+Socio-Professional Category,Total-CSP+,1734.019,0.24549743,0.43307236,0.3103714,0.01105883,q28. Estimez-vous que la France doit... ?
+Socio-Professional Category,Small Business owners,212.9949,0.28500000000000003,0.43322452,0.26029403,0.02148145,q28. Estimez-vous que la France doit... ?
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.27350769,0.44438844,0.26670698,0.01539707,q28. Estimez-vous que la France doit... ?
+Socio-Professional Category,Prof Intermed,896.9079,0.21358926999999997,0.43582367999999994,0.34457195,0.00601408,q28. Estimez-vous que la France doit... ?
+Socio-Professional Category,Total-CSP-,1674.09,0.19784438,0.49957142000000004,0.2875843,0.0149999,q28. Estimez-vous que la France doit... ?
+Socio-Professional Category,Salaried,956.6466,0.21396532,0.48753469,0.28249512,0.01600446,q28. Estimez-vous que la France doit... ?
+Socio-Professional Category,Blue collar,717.4432,0.17634872999999998,0.51056711,0.29437006,0.01871428,q28. Estimez-vous que la France doit... ?
+Political similarity,Far left,187.3446,0.3104975,0.38222185,0.30168422,0.00559687,q28. Estimez-vous que la France doit... ?
+Political similarity,Radical left,828.7407,0.27346225,0.40174822,0.30664127,0.01814889,q28. Estimez-vous que la France doit... ?
+Political similarity,Left,1430.296,0.33671464,0.33473225,0.31540017,0.013153730000000002,q28. Estimez-vous que la France doit... ?
+Political similarity,PC/LFI,641.3963,0.26264464,0.40745168,0.30808909,0.02181519,q28. Estimez-vous que la France doit... ?
+Political similarity,PS,449.3176,0.39234208,0.28773678,0.31477868,0.005142899999999999,q28. Estimez-vous que la France doit... ?
+Political similarity,EELV,339.583,0.40301252,0.2595627,0.33003066,0.00739363,q28. Estimez-vous que la France doit... ?
+Political similarity,EM,672.9198,0.40548859000000004,0.27715398,0.31416894,0.00318762,q28. Estimez-vous que la France doit... ?
+Political similarity,MoDem,161.1257,0.30178531,0.24092804999999998,0.44586376,0.01142255,q28. Estimez-vous que la France doit... ?
+Political similarity,Right,573.0042,0.21714082,0.4910149,0.28839911,0.00344559,q28. Estimez-vous que la France doit... ?
+Political similarity,UDI/PR,89.32552,0.25262075,0.34732,0.39286421,0.00719521,q28. Estimez-vous que la France doit... ?
+Political similarity,LR,397.5368,0.23651119,0.44928671,0.31085298,0.00334968,q28. Estimez-vous que la France doit... ?
+Political similarity,Radical right,1008.8,0.05502601000000001,0.78284525,0.1549999,0.00712884,q28. Estimez-vous que la France doit... ?
+Political similarity,Debout la France,86.14185,0.09095774,0.83259136,0.07645066,0,q28. Estimez-vous que la France doit... ?
+Political similarity,Reconquete,205.4045,0.04035285999999999,0.83629521,0.11110399,0.01224802,q28. Estimez-vous que la France doit... ?
+Political similarity,RN,717.2537,0.05491266,0.7615513199999999,0.17701798,0.006519,q28. Estimez-vous que la France doit... ?
+Political similarity,No preference,1860.95,0.14927322,0.46234353,0.36073205,0.02765223,q28. Estimez-vous que la France doit... ?
+Politics,Total-left,1649.278,0.34046704,0.33134146999999997,0.31616234,0.01202926,q28. Estimez-vous que la France doit... ?
+Politics,Very Left,217.9165,0.40067751,0.30901052,0.28028763,0.01002489,q28. Estimez-vous que la France doit... ?
+Politics,Left,1431.362,0.33104157000000006,0.335,0.32162402,0.01233441,q28. Estimez-vous que la France doit... ?
+Politics,Center,776.1196,0.32414102,0.305,0.36032462,0.010534360000000001,q28. Estimez-vous que la France doit... ?
+Politics,Total-right,1622.94,0.15671029,0.61179277,0.22649704,0.0049999,q28. Estimez-vous que la France doit... ?
+Politics,Right,1193.119,0.19061527000000003,0.53762424,0.26692643,0.00483312,q28. Estimez-vous que la France doit... ?
+Politics,Very Right,429.8207,0.06259522,0.815,0.11398419999999995,0.00842058,q28. Estimez-vous que la France doit... ?
+Politics,Both left and Right,200.4265,0.14193557,0.4863563900000001,0.3532454,0.01846302,q28. Estimez-vous que la France doit... ?
+Politics,Neither left nor right,1673.316,0.1396671,0.49007623000000006,0.34139176,0.02886574,q28. Estimez-vous que la France doit... ?
+Loss of job risk,High risk,556.2398,0.21627561,0.51146376,0.26123122,0.011029479999999998,q28. Estimez-vous que la France doit... ?
+Loss of job risk,Low risk,1874.312,0.20899968,0.48725943,0.29161522,0.012125949999999998,q28. Estimez-vous que la France doit... ?
+Loss of job risk,Zero risk,3478.817,0.23450823,0.42752896,0.31980297,0.01816144,q28. Estimez-vous que la France doit... ?
+1st round vote,Arthaud,24.07418,0.2749999,0.29887577,0.39943746000000013,0.02668687,q28. Estimez-vous que la France doit... ?
+1st round vote,Poutou,32.85668,0.23336004,0.35579401,0.41084614,0,q28. Estimez-vous que la France doit... ?
+1st round vote,Roussel,98.04205,0.34007908000000003,0.30671084,0.31956074,0.03364906,q28. Estimez-vous que la France doit... ?
+1st round vote,Melenchon,942.3053,0.29276234,0.34879799999999994,0.34126954,0.01716991,q28. Estimez-vous que la France doit... ?
+1st round vote,Hidalgo,75.31895,0.40161938,0.23089528,0.36232635,0.00515924,q28. Estimez-vous que la France doit... ?
+1st round vote,Jadot,198.8808,0.39561159000000007,0.20299892999999997,0.39638958000000013,0.0049999,q28. Estimez-vous que la France doit... ?
+1st round vote,Macron,1195.294,0.40089384000000006,0.25628163,0.33095397,0.01187208,q28. Estimez-vous que la France doit... ?
+1st round vote,Pecresse,205.1207,0.1949999,0.3971138,0.4001280200000001,0.00775828,q28. Estimez-vous que la France doit... ?
+1st round vote,Dupont-Aignan,88.56025,0.04821257,0.74910754,0.1949999,0.00767999,q28. Estimez-vous que la France doit... ?
+1st round vote,Zemmour,303.4525,0.055,0.78784047,0.15382829,0.0033312399999999996,q28. Estimez-vous que la France doit... ?
+1st round vote,Le Pen,993.0248,0.06477235,0.73671101,0.19080057,0.00771605,q28. Estimez-vous que la France doit... ?
+1st round vote,Lassalle,134.5409,0.14499990000000001,0.4704414400000001,0.36724141,0.01731725,q28. Estimez-vous que la France doit... ?
+1st round vote,Blank/Null/NA,96.61228,0.1871112,0.38499989999999995,0.3770126700000001,0.05087623,q28. Estimez-vous que la France doit... ?
+1st round vote,Blank,63.86856,0.20016844,0.40463399000000005,0.36691511,0.02828219,q28. Estimez-vous que la France doit... ?
+1st round vote,Null,19.09123,0.10175582999999999,0.40981545,0.42267764,0.06575139,q28. Estimez-vous que la France doit... ?
+2nd round vote,Macron,2287.563,0.37927919,0.2649999,0.34722694,0.00849397,q28. Estimez-vous que la France doit... ?
+2nd round vote,Le Pen,1619.66,0.07158311,0.71472037,0.20616802,0.00752811,q28. Estimez-vous que la France doit... ?
+2nd round vote,Blank/Null/NA,370.4173,0.205,0.40040565999999994,0.36315717,0.03143717,q28. Estimez-vous que la France doit... ?

@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.19005931090171904,0.7849928800826625,0.01975565,0.17030367,0.4625459099999999,0.32239477,0.025,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Gender,Man,2929.637,0.19287734282438404,0.785,0.01909702,0.17378034,0.465,0.31943620000000006,0.02268644,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Gender,Woman,3049.36,0.18735219849411022,0.7849999,0.02038846,0.16696379,0.46090393,0.32462117,0.0271215,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Age,18-24,478.2759,0.26199396624417,0.7150761725606496,0.03245972,0.22953425,0.43662267,0.27845309,0.022930260000000004,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Age,25-34,836.9062,0.2671418851957364,0.710261795168921,0.04905899,0.21808286,0.42101719,0.28924484,0.022595990000000003,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Age,35-49,1494.556,0.18468856302473777,0.795,0.02060247,0.16408612000000003,0.44632801,0.34778764,0.02119549,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Age,50-64,1554.412,0.16678055753558257,0.8086620535610892,0.0169566,0.14982392,0.46002006,0.3486427,0.024557980000000004,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Age,65+,1614.848,0.1549999,0.815,0.00271699,0.15346732,0.5082013500000001,0.305,0.030614339999999997,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Socio-Professional Category,Total-CSP+,1734.019,0.225,0.7615522090588396,0.028169940000000004,0.19662241,0.46914175,0.29241133,0.01365471,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Socio-Professional Category,Small Business owners,212.9949,0.19798154791499703,0.7849999,0.06270986,0.13527174,0.41097820999999995,0.3749999,0.01604029,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.23893034241371508,0.7482209695391989,0.0211961,0.21773416,0.49584524,0.2523759,0.01284884,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Socio-Professional Category,Prof Intermed,896.9079,0.21645678447028951,0.7695189216194884,0.02124576,0.19521101,0.4698983,0.29962028,0.01402378,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Socio-Professional Category,Total-CSP-,1674.09,0.19900489221009626,0.779237675393796,0.026106829999999998,0.17289804999999997,0.42857015,0.35066687,0.02175775,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Socio-Professional Category,Salaried,956.6466,0.1790110370956213,0.805,0.021306929999999998,0.15770411,0.43925008000000015,0.36673898,0.0149999,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Socio-Professional Category,Blue collar,717.4432,0.2249999,0.745,0.03250706,0.19315773,0.41565576,0.3292361,0.02944353,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,Far left,187.3446,0.3945972288499374,0.6005841641552518,0.14350512,0.25109205,0.42269201999999995,0.17771081,0.005,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,Radical left,828.7407,0.29137533609728594,0.692627862973304,0.05943561,0.23193961999999999,0.4876276600000001,0.2049999,0.01599721,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,Left,1430.296,0.2636472450457807,0.7212793715426736,0.022222109999999996,0.24142506000000002,0.51491034,0.20636952,0.01507382,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,PC/LFI,641.3963,0.2612252362540913,0.7195128815055528,0.03487986,0.22634540000000003,0.50611143,0.21340161,0.01926215,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,PS,449.3176,0.2916520519116099,0.7004604315522026,0.0149999,0.27634484,0.52313536,0.17763219,0.00788771,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,EELV,339.583,0.23116663672798696,0.7521616217537391,0.00746405,0.22370257,0.52105111,0.23111048,0.01667121,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,EM,672.9198,0.3549999,0.6153445031636756,0.02331747,0.33380664,0.46996343,0.14538053,0.02753122,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,MoDem,161.1257,0.28242024704935337,0.7175795046972644,0.01008567,0.27159054999999993,0.525,0.19332378,0,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,Right,573.0042,0.18848814720729795,0.7931407832612746,0.02140398,0.16708408,0.5781405299999999,0.21499990000000002,0.01837151,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,UDI/PR,89.32552,0.1800488818872815,0.8132482184262684,0,0.18004887999999997,0.70212275,0.11112568,0.00670293,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,LR,397.5368,0.2142640127907655,0.7664656454446481,0.0249999,0.18756877,0.5689588800000001,0.19920178,0.01927067,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,Radical right,1008.8,0.10250723632038065,0.8852428628072958,0.01279752,0.08970968,0.44595936,0.43928399999999995,0.01225006,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,Debout la France,86.14185,0.07828567647432694,0.8949999,0.01918036,0.05910531,0.49325896999999996,0.40213357000000005,0.02632183,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,Reconquete,205.4045,0.06278250963343063,0.9275677991475356,0.0042321,0.05855042,0.41232028,0.51524772,0.00964948,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,RN,717.2537,0.11679244038755048,0.8719030658189705,0.015,0.10230856,0.44939510000000005,0.42199155,0.01130479,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Political similarity,No preference,1860.95,0.09164587979257904,0.8686944840001074,0.00876917,0.08287670000000001,0.39908981999999993,0.46960515,0.03965984,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Total-left,1649.278,0.25120495149998967,0.7312569500108532,0.026379060000000003,0.22482589,0.50625687,0.2249999,0.01753828,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Very Left,217.9165,0.245,0.7437385420562463,0.06877978,0.17555756,0.50326111,0.24047757,0.0119247,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Left,1431.362,0.2522504439827241,0.7293563752565737,0.01992379,0.23232662,0.50636555,0.22299104,0.01839291,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Center,776.1196,0.28347628380986645,0.7093660564686165,0.01955297,0.26392324,0.50590888,0.20345679,0.00715757,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Total-right,1622.94,0.18476289942943053,0.8004898517505268,0.02402879,0.16073416,0.47705086,0.32318619,0.015,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Right,1193.119,0.21311453425852744,0.7701034012533537,0.02822164,0.18489287,0.49309231,0.27701109,0.01678113,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Very Right,429.8207,0.10606310957103743,0.8848370960263199,0.012390090000000001,0.095,0.43347470000000005,0.4500353900000001,0.00909982,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Both left and Right,200.4265,0.1903473343095848,0.7857908011166188,0.00353244,0.18681492,0.53715402,0.24863722999999996,0.02386189,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Politics,Neither left nor right,1673.316,0.09330748047589338,0.8628041565370796,0.010941870000000001,0.08236561,0.38206442,0.47962810000000006,0.045,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Loss of job risk,High risk,556.2398,0.2207598233711432,0.7716621500295376,0.06771508,0.15304469,0.3466622300000002,0.4249999,0.0075781,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Loss of job risk,Low risk,1874.312,0.2249999,0.7553096816325137,0.02497249,0.20035186,0.43907075999999995,0.31623887,0.0193661,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+Loss of job risk,Zero risk,3478.817,0.1674536775001387,0.8036272100544525,0.00967198,0.15778168,0.49436145,0.30926548,0.02892046,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Arthaud,24.07418,0.31687197653253407,0.6549999,0.18625291000000002,0.13061903,0.33264992,0.32465388,0.02582415,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Poutou,32.85668,0.27986643811851963,0.7201336227519032,0.06155887,0.21830754,0.27836406,0.4417695300000001,0,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Roussel,98.04205,0.2724886923519041,0.6869030176337603,0.01653277,0.2549999,0.51015651,0.17770273,0.04060809,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Melenchon,942.3053,0.2232872934069245,0.7566450066660986,0.020768659999999998,0.20251865,0.51007322,0.24657178999999999,0.02006749,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Hidalgo,75.31895,0.4049999,0.575,0.01081585,0.39499989999999996,0.48772910999999997,0.08551364999999998,0.02094149,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Jadot,198.8808,0.23928413401394202,0.7349998999999999,0.01919896,0.2200852,0.59162043,0.14409541,0.025,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Macron,1195.294,0.3311994371259288,0.6439589757833637,0.0310577,0.30014164,0.5118179,0.13198276,0.025,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Pecresse,205.1207,0.22586369878807944,0.7612474021393258,0,0.2258637,0.57044852,0.19079839,0.012889140000000002,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Dupont-Aignan,88.56025,0.10497182426653043,0.8551420078421188,0.01275209,0.09221975,0.43014190999999996,0.425,0.03988625,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Zemmour,303.4525,0.07016393010438207,0.9159361020258526,0.012427859999999999,0.05773605,0.4250952,0.49084091,0.01390021,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Le Pen,993.0248,0.11138654341764677,0.8791934501535107,0.01835458,0.093032,0.4394,0.43979334999999997,0.00941973,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Lassalle,134.5409,0.09547238051774591,0.8949999,0,0.09547238000000001,0.46487373,0.43415125,0.00550209,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Blank/Null/NA,96.61228,0.10214744957887341,0.8542684221922927,0.00881389,0.09333356000000001,0.41100417,0.44184838000000015,0.045,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Blank,63.86856,0.10845924818095162,0.8598210136567975,0.005,0.10351808,0.422126,0.4376363099999999,0.03171961,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+1st round vote,Null,19.09123,0.054999900000000004,0.9265888054357945,0.01334404,0.04383527999999999,0.37519657,0.55139245,0.01623202,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+2nd round vote,Macron,2287.563,0.29890980051696936,0.6758825877145241,0.025914949999999996,0.27299493,0.5162180800000001,0.15987214,0.0249999,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+2nd round vote,Le Pen,1619.66,0.115,0.8739982465455712,0.02009586,0.095,0.42070935,0.45312456,0.01107023,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"
+2nd round vote,Blank/Null/NA,370.4173,0.15535605383441864,0.81104041306926,0.00887919,0.14647685,0.48351629,0.32752384999999995,0.03360399,"q25_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les partis politiques"

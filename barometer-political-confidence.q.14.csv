@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Pas vraiment d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.6387156251160311,0.35202563906150225,0.14367239,0.49504315,0.29141318,0.060612610000000004,0.00925796,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Gender,Man,2929.637,0.6480342103816957,0.34178944353856805,0.1553131,0.49272145,0.28137128,0.06041841,0.0101776,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Gender,Woman,3049.36,0.6297646063436262,0.36186117742739454,0.13248911,0.49727484,0.3010616,0.06079924999999999,0.00837444,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Age,18-24,478.2759,0.6665345253649619,0.319190450532841,0.16154372,0.505,0.26696101000000005,0.05221992,0.014275349999999997,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Age,25-34,836.9062,0.6835460174628889,0.315,0.17087864999999997,0.51266725,0.24800999,0.06543002,0.00301416,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Age,35-49,1494.556,0.6037430514480555,0.3904728896073483,0.11973911,0.48400428,0.31785534,0.07261749,0.0057831,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Age,50-64,1554.412,0.6323583451491624,0.3578115711921936,0.15323782,0.47912034,0.29109946,0.06671224,0.0098315,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Age,65+,1614.848,0.6457319822051364,0.34059670012285986,0.13722307,0.50850897,0.29697681,0.04361983,0.01367179,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Socio-Professional Category,Total-CSP+,1734.019,0.6645838367399666,0.32759052813146794,0.14157659,0.5220914600000001,0.265,0.06350692,0.00782503,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Socio-Professional Category,Small Business owners,212.9949,0.657556589383126,0.33799269372177454,0.18878785,0.4687690199999999,0.27696358,0.06102911,0.00445061,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.703579768345993,0.28096966295460796,0.13417762,0.56940213,0.22381374999999998,0.05715587999999999,0.015450750000000001,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Socio-Professional Category,Prof Intermed,896.9079,0.6388742924440737,0.35735408284395753,0.13415201,0.505,0.28870056000000005,0.06837671,0.0037707199999999995,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Socio-Professional Category,Total-CSP-,1674.09,0.605,0.3849999,0.1672563,0.43715695999999993,0.31172995,0.0749621,0.00889446,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Socio-Professional Category,Salaried,956.6466,0.5898749862279341,0.4012687652890838,0.12621735,0.46365763000000004,0.31194362,0.08932515,0.00885574,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Socio-Professional Category,Blue collar,717.4432,0.6237993474605376,0.3672548572486296,0.22197799,0.40182122,0.31144459,0.05581026,0.00894609,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,Far left,187.3446,0.6793128811825908,0.3049999,0.21348093,0.46583222,0.27256329,0.03255856,0.015565540000000001,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,Radical left,828.7407,0.565,0.4204953370819124,0.15756641,0.40737326,0.34894039,0.07155504,0.01456559,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,Left,1430.296,0.6107584723721523,0.378816972151219,0.13131673,0.47944202,0.3281648,0.05065217,0.010425,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,PC/LFI,641.3963,0.5315323770966562,0.45419454399721354,0.14123446,0.3895709999999999,0.3712491,0.08294544000000001,0.015,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,PS,449.3176,0.6690899711028456,0.3249999,0.12416231,0.545,0.3028726900000001,0.02255422,0.00541078,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,EELV,339.583,0.6832173577593695,0.3069915160652918,0.12205031000000001,0.56116737,0.28015666,0.02683488,0.00979055,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,EM,672.9198,0.8900044254902293,0.10376032923982917,0.25527307,0.63473091,0.09450151,0.00925881,0.0062355,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,MoDem,161.1257,0.7778504608513725,0.22214941502193628,0.16357465,0.615,0.21302773000000003,0.00839762,0,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,Right,573.0042,0.7223920871784186,0.27128457348131135,0.17213357,0.5502581,0.23147335,0.03981107,0.00632391,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,UDI/PR,89.32552,0.7629593424141277,0.23129873747166543,0.19915272000000003,0.56380674,0.14040769,0.09089104,0.005741990000000001,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,LR,397.5368,0.7565536071125993,0.23712408511614522,0.17852923,0.57934681,0.21972391,0.01740015,0.0049999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,Radical right,1008.8,0.5592303727200635,0.43744924662965906,0.14194756,0.41668023,0.33305125,0.105,0.00332096,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,Debout la France,86.14185,0.5226711522912498,0.47039505188244735,0.11460074,0.40807029,0.38012743,0.09026758,0.00693373,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,Reconquete,205.4045,0.5135739479904285,0.475,0.12458675,0.38898695,0.37542999000000005,0.09759406000000001,0.01340232,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,RN,717.2537,0.576695805124463,0.423304613137583,0.15020362,0.42675293999999986,0.3149999,0.10804353999999998,0,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Political similarity,No preference,1860.95,0.573639270265187,0.41709019586770196,0.09964174,0.4739978,0.3392736,0.07781644,0.0092711,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Total-left,1649.278,0.59841051660181,0.39412373171775766,0.11715805,0.48327888,0.33499989999999996,0.0570974,0.007465769999999999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Very Left,217.9165,0.4949999,0.495,0.21327856999999997,0.28274747,0.3469634,0.14643779,0.010573289999999999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Left,1431.362,0.6139979963140002,0.3790089439289292,0.10252424,0.51147397,0.3355131,0.04349583,0.00699266,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Center,776.1196,0.8049999,0.18889176358901386,0.19376472,0.61126893,0.16624641,0.02264536,0.00607424,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Total-right,1622.94,0.6700333961822371,0.32490400138021125,0.17006599000000003,0.49996740000000006,0.27307602,0.05182798999999999,0.005061639999999999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Right,1193.119,0.7081001140707676,0.28499990000000003,0.17040488,0.5370307800000002,0.26332051,0.02424383,0.005,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Very Right,429.8207,0.564365094561523,0.4285533479425258,0.16912517,0.39499989999999996,0.30039658,0.12839756,0.00708079,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Both left and Right,200.4265,0.7280464409646429,0.27195390829057037,0.13882925,0.58921699,0.21988879,0.05206512,0,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Politics,Neither left nor right,1673.316,0.5605622010427199,0.4231981287455567,0.12278966,0.43777248,0.33136461,0.09183351999999999,0.01624041,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Loss of job risk,High risk,556.2398,0.5417397316768775,0.4468319239292119,0.16780187,0.37393782,0.29739584,0.14943611,0.01142817,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Loss of job risk,Low risk,1874.312,0.6005889094238313,0.3955844064382024,0.13195204,0.4680611299999999,0.33116039,0.065,0.00382644,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+Loss of job risk,Zero risk,3478.817,0.6761387563645918,0.3124688651343258,0.14781732,0.52832242,0.2676227,0.04484628,0.01139291,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Arthaud,24.07418,0.6241583306264222,0.3194791681378141,0.2249999,0.39915853,0.27837613,0.04110302,0.05636242,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Poutou,32.85668,0.585,0.3934645861967795,0.10828675,0.47595131,0.34889618,0.04456862,0.02229726,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Roussel,98.04205,0.5662829367602983,0.4249999,0.08683810999999998,0.48042204,0.38499989999999995,0.03966867,0.00807128,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Melenchon,942.3053,0.5495442931287768,0.44251571120315253,0.10953371,0.44087981,0.3749999,0.06664716,0.00793942,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Hidalgo,75.31895,0.665,0.3149999,0.10596665,0.555,0.29434603000000004,0.0231613,0.02152602,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Jadot,198.8808,0.7358241720668862,0.25895662125252916,0.1193982,0.6166453000000001,0.24372649,0.01523011,0.0049999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Macron,1195.294,0.8664529396115097,0.1249999,0.23670627999999996,0.62974724,0.11439745999999999,0.01143852,0.00771123,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Pecresse,205.1207,0.7769654647239406,0.2176940211299981,0.16955602,0.60775003,0.18898965,0.028704399999999998,0.0049999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Dupont-Aignan,88.56025,0.592297785970568,0.4077024398643861,0.12499990000000001,0.46729770000000004,0.35054045,0.05716195,0,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Zemmour,303.4525,0.5185111343620501,0.4755716298267439,0.10094051000000001,0.41848802999999996,0.3869772,0.08859435999999998,0.0049999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Le Pen,993.0248,0.5707369040531515,0.4243964501188691,0.14442137,0.4261821800000001,0.34121031,0.08318614,0.005,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Lassalle,134.5409,0.6165225593109606,0.3834768460743164,0.095,0.52152322,0.34108022,0.04239656,0,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Blank/Null/NA,96.61228,0.574701994404852,0.395,0.12237016,0.44997784,0.345,0.05082086,0.03183114,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Blank,63.86856,0.5769993874920618,0.3997007291224352,0.12140267,0.45559662000000006,0.35904301,0.0406578,0.02329971,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+1st round vote,Null,19.09123,0.5032126269496517,0.4967876873307796,0.13196232,0.3712502,0.38698151,0.10980623,0,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+2nd round vote,Macron,2287.563,0.7963863727468926,0.19722228415129986,0.19641846,0.6013593700000001,0.18071607,0.0165062,0.0049999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+2nd round vote,Le Pen,1619.66,0.5591861872244792,0.43178809132780954,0.13689564,0.42229042,0.3422154,0.08957294000000002,0.009025,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"
+2nd round vote,Blank/Null/NA,370.4173,0.5386392590194896,0.44608958598855936,0.08643141,0.45247918,0.40581231,0.0402772,0.0149999,"q5_i2. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- Les gens de mon pays ont la possibilité de choisir leur propre vie"

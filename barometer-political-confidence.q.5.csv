@@ -1,0 +1,62 @@
+Indicator,Category,BASE,Parce que j'ai été déçu(e) par les programmes proposés ou les politiques mises en œuvre,Parce que j'ai changé d'opinion sur la situation économique et sociale française,Parce que le résultat de l'élection en 2022 est plus incertain qu'en 2017,"Pour des raisons personnelles, liées à mon emploi ou à mon expérience de vie","Je ne sais pas trop, j'ai voulu essayer autre chose",Question
+Total,Total,711.1082,0.5427378,0.17980456,0.13889471,0.06060165,0.0779613,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Gender,Man,375.2752,0.58207497,0.15865943,0.15805102,0.05485324,0.04636091,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Gender,Woman,335.8328,0.49878035,0.20343307999999996,0.11748861,0.06702523,0.11327306000000001,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Age,18-24,46.12116,0.52173643,0.13686464,0.13872203,0.08767699999999999,0.1149999,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Age,25-34,75.89776,0.465,0.19433829000000002,0.13118612,0.08360330000000002,0.12587229,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Age,35-49,165.2003,0.54041076,0.19864177,0.08966346,0.08078944,0.09049493,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Age,50-64,171.4454,0.58278268,0.16925289,0.12209835000000001,0.07071907,0.05514676000000001,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Age,65+,252.4434,0.5442728800000002,0.17802862000000003,0.185,0.028657409999999998,0.06404109,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Socio-Professional Category,Total-CSP+,209.9245,0.50542266,0.1974809,0.11393782,0.10827668999999998,0.07488197,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Socio-Professional Category,Small Business owners,22.01477,0.4546802,0.24565012,0.09593446,0,0.2037354,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Socio-Professional Category,Cadres/Prof Lib,76.11571,0.45581641,0.22127035,0.10375867,0.15349052,0.06566375,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Socio-Professional Category,Prof Intermed,111.1111,0.54659713,0.17285411,0.12499990000000001,0.09942192999999999,0.056126930000000005,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Socio-Professional Category,Total-CSP-,157.8193,0.56475437,0.16234592,0.13117154,0.055033849999999995,0.08669453,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Socio-Professional Category,Salaried,88.57933,0.55163163,0.19412463,0.10316944,0.0857889,0.06528512,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Socio-Professional Category,Blue collar,69.24003,0.58154192,0.12169118,0.16699473,0.01568863,0.11408361999999998,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,Far left,17.69822,0.45599523000000014,0.095,0.26428669,0.14145355,0.04326453,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,Radical left,102.5098,0.5609142500000001,0.12370193,0.16355841,0.08682541,0.065,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,Left,171.4028,0.61099527,0.14573963,0.13151401,0.0640874,0.04766377,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,PC/LFI,84.81157,0.5839886,0.1298001,0.14253881,0.07542579,0.06824624,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,PS,55.51841,0.61030548,0.18817938,0.13476906,0.03164732,0.03509875,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,EELV,31.07285,0.68593965,0.11341737,0.09560665,0.09110097999999998,0.01393519,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,EM,21.14617,0.15890755,0.41991841,0.17375,0.075,0.17242404,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,MoDem,10.60068,0.30258266,0.08584732,0.27324681,0.21993627000000002,0.11838731,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,Right,123.2977,0.48009135,0.21078219999999998,0.22237203000000003,0.05175442,0.035,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,UDI/PR,19.00307,0.49251540000000005,0.1156941,0.3467906,0,0.0449999,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,LR,83.3567,0.47703724,0.21637804999999996,0.20265294,0.06440077,0.039531,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,Radical right,128.6137,0.49175293,0.26306148,0.07978015,0.07040544,0.095,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,Debout la France,20.9379,0.48885944,0.27480583,0.18795557,0.048379490000000004,0,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,Reconquete,52.11853,0.5149999,0.23757924999999994,0.09774163,0.04890673000000001,0.10077249,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,RN,55.55723,0.4710355500000001,0.28500000000000003,0.02216235,0.09887447999999999,0.12292762,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Political similarity,No preference,239.9258,0.595,0.14341207000000009,0.12270594,0.03518222,0.10369976999999998,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Total-left,194.1911,0.6149998999999999,0.13646599,0.14818574,0.04965451,0.05069386,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Very Left,24.78601,0.39348294000000006,0.18234629,0.17791241999999996,0.10098128,0.14527695,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Left,169.4051,0.64870538,0.12975318,0.14254181,0.04214478,0.03685521,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Center,68.38073,0.41572765,0.17399507,0.23928481,0.08720505,0.08378783,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Total-right,249.0646,0.48273099,0.2403511,0.15455962,0.05545051,0.06690794,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Right,207.373,0.48703640000000004,0.2324061,0.17165132,0.05252463000000001,0.05638135,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Very Right,41.69163,0.46131418,0.27986936,0.06954588,0.07000376,0.11926696,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Both left and Right,27.46338,0.63669075,0.126406,0.0291112,0.10342223,0.10436986,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Politics,Neither left nor right,169.9851,0.57801372,0.1529817,0.08562409000000001,0.06375641,0.11962454,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Loss of job risk,High risk,61.77385,0.50855871,0.17298145,0.14128593,0.07217391,0.105,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Loss of job risk,Low risk,197.5055,0.57948412,0.14057269,0.10686766,0.073093,0.09998267999999999,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+Loss of job risk,Zero risk,441.4543,0.53906735,0.19275957,0.1505525,0.05134047,0.06627988,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Arthaud,4.581934,0.6928033000000001,0,0.22927633,0.07792042,0,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Poutou,8.359809,0.39301181,0.19998854,0.155,0.06775812,0.18424152999999996,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Roussel,18.42806,0.5267087800000001,0.09200247000000002,0.2766123,0.029676549999999996,0.07499990000000001,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Melenchon,171.3424,0.66892676,0.0890263,0.14749799,0.054999900000000004,0.03954905,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Hidalgo,12.37479,0.5960523,0.24954331,0.09267107,0,0.06173307000000001,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Jadot,29.0135,0.601186,0.03819274,0.18008613,0.14271773,0.03781743,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Macron,67.21791,0.17086413,0.44318776000000015,0.18425342,0.09669469,0.105,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Pecresse,38.408,0.53413742,0.10515718,0.32069022,0.02464941,0.01536573,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Dupont-Aignan,19.26176,0.40143715,0.20745742,0.29864789,0.09245739,0,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Zemmour,79.96615,0.59864355,0.19422631000000004,0.07139886,0.05612085,0.0796103,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Le Pen,165.8304,0.59257338,0.18513186,0.08910158,0.05484003,0.07835367,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Lassalle,36.93114,0.67138274,0.14809524,0.09147594999999999,0.03229746,0.05674882999999999,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Blank/Null/NA,21.24804,0.52824025,0.27084522,0.13017116,0.00859637,0.062147379999999995,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Blank,16.12093,0.51474588,0.315,0.10123926,0.01133037,0.05768449,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+1st round vote,Null,3.996547,0.61646355,0.16959945999999998,0.1649999,0,0.04893709,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+2nd round vote,Macron,170.653,0.13119805,0.28398973,0.38358447,0.07504222,0.12618559,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+2nd round vote,Le Pen,392.2739,0.64787971,0.16670570999999998,0.0616522,0.05434222999999999,0.06942007,q17v13b. Pourquoi avez-vous changé votre vote cette année ?
+2nd round vote,Blank/Null/NA,148.1812,0.73835007,0.09449552000000001,0.06157851999999999,0.060541489999999996,0.04503457,q17v13b. Pourquoi avez-vous changé votre vote cette année ?

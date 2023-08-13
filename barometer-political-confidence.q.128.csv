@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.7040307061278788,0.2676817970624529,0.20997283,0.4940577,0.21789473,0.04978714,0.02828691,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Gender,Man,2929.637,0.6881354242863535,0.2845725255381469,0.20310178,0.48503415,0.24004145,0.04453118,0.02729384,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Gender,Woman,3049.36,0.7193037227483801,0.2514547970721725,0.21657443,0.50272877,0.19661798000000003,0.05483679,0.029241010000000005,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Age,18-24,478.2759,0.6790584681352333,0.2974590607638813,0.21395057,0.46510769,0.23753361000000003,0.0599256,0.02348264,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Age,25-34,836.9062,0.6906020053382327,0.28786642995355993,0.25066513,0.43993688,0.23249344000000002,0.05537293,0.02153125,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Age,35-49,1494.556,0.7049998999999999,0.26550059014182137,0.20478109,0.50226228,0.21802141,0.04747916,0.027455299999999995,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Age,50-64,1554.412,0.715,0.251478694194332,0.22724496,0.4865187,0.19841863,0.053060029999999994,0.03475883,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Age,65+,1614.848,0.7062317939521243,0.2649999,0.17588516,0.53034657,0.22314274,0.04287522,0.02775095,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Socio-Professional Category,Total-CSP+,1734.019,0.6858114011438168,0.29889983904443956,0.19004002,0.49606024,0.256292,0.04260784,0.0149999,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Socio-Professional Category,Small Business owners,212.9949,0.810548515480887,0.17951509637085206,0.2198262,0.59072259,0.15097883,0.02853627,0.00993653,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.6868356177693832,0.28891712229123373,0.18504308,0.5017927,0.24522717,0.04368985,0.02424741,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Socio-Professional Category,Prof Intermed,896.9079,0.655,0.3349999,0.17616703,0.475,0.2935980000000001,0.04420148,0.01103349,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Socio-Professional Category,Total-CSP-,1674.09,0.7270750079147478,0.2349999,0.23622249,0.4913372200000001,0.19058916,0.0449999,0.03685123,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Socio-Professional Category,Salaried,956.6466,0.7349998999999999,0.235,0.22040083,0.51499676,0.17550964,0.0555071,0.03358527,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Socio-Professional Category,Blue collar,717.4432,0.7159775157113482,0.24281699234169338,0.25731905,0.45865819,0.21069654000000002,0.03212048,0.04120613,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,Far left,187.3446,0.6980131799902426,0.2749999,0.18150392,0.51629818,0.21259177,0.06460613,0.025,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,Radical left,828.7407,0.5685598643821885,0.4046149778815014,0.1557924,0.41338514000000004,0.31899664,0.0849999,0.026825920000000003,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,Left,1430.296,0.5969365781628418,0.37997841006337146,0.15249801,0.445,0.30362703000000013,0.07578921,0.02308575,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,PC/LFI,641.3963,0.5307476828288532,0.44183198437533866,0.14828238,0.38246526,0.35007622999999993,0.09175573999999999,0.02742085,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,PS,449.3176,0.6610615742628376,0.327362649493365,0.17926774,0.48092183,0.27323434,0.055,0.01157609,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,EELV,339.583,0.63710403642114,0.33276871928217844,0.12503986,0.5120645,0.25847663,0.07429197,0.030126629999999998,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,EM,672.9198,0.7534193524993616,0.235,0.2349999,0.5184193400000001,0.20595411,0.02617706,0.014449589999999998,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,MoDem,161.1257,0.5756307652969079,0.4079143798909795,0.11805354,0.4590321400000001,0.34804826,0.05986616,0.0149999,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,Right,573.0042,0.7431533660660777,0.24042040180508276,0.18286986,0.5602835,0.21672197,0.02369859,0.01642618,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,UDI/PR,89.32552,0.7212837943736572,0.2660547624016071,0.10755320999999998,0.6137055900000001,0.21107954,0.055,0.01266166,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,LR,397.5368,0.7349998999999999,0.245,0.18137058,0.5549999,0.2263724700000001,0.01642562,0.02083143,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,Radical right,1008.8,0.7726522601110231,0.21090652260111023,0.26460478,0.50804768,0.15971402,0.05119264,0.01644132,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,Debout la France,86.14185,0.795,0.2049999,0.26788872,0.52611919,0.181162,0.02483001,0,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,Reconquete,205.4045,0.7249998999999999,0.2560859182734555,0.16454274,0.56349544,0.20034507999999998,0.05574084,0.015876,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,RN,717.2537,0.7828642780093014,0.19855861322151422,0.29286597,0.48999817,0.14550235,0.05305628,0.01857781,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Political similarity,No preference,1860.95,0.7411128724576157,0.21838792014831135,0.24014223999999998,0.50096999,0.17667256000000003,0.04171534,0.04050028,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Total-left,1649.278,0.5949998999999999,0.3780248084313257,0.14490498,0.45123624,0.30783494,0.0701898,0.02583405,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Very Left,217.9165,0.5349999,0.455,0.17266586,0.36211057,0.35898736,0.095,0.01123621,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Left,1431.362,0.6049998999999999,0.366671813279939,0.14067846,0.4645928100000001,0.30004709,0.06662463,0.02805648,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Center,776.1196,0.6978335555499436,0.28499990000000003,0.18102674000000002,0.51684617,0.24499990000000002,0.0406977,0.01642949,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Total-right,1622.94,0.7498459585690167,0.23188836309413777,0.21338773999999996,0.53645742,0.19035725,0.04153105,0.01826546,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Right,1193.119,0.7494115004454711,0.23775407147149616,0.20872041999999996,0.5399621000000001,0.205,0.03348443,0.012833049999999999,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Very Right,429.8207,0.755,0.2149999,0.2260491400000001,0.525,0.15173853,0.06386731,0.03334502,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Both left and Right,200.4265,0.7149998999999999,0.26741793126158464,0.2749999,0.4412886,0.23715587,0.030262060000000004,0.01629357,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Politics,Neither left nor right,1673.316,0.7723741361464301,0.1878507705657509,0.27737367999999996,0.4949999,0.14534236,0.04250843,0.03977563,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Loss of job risk,High risk,556.2398,0.7176198107363048,0.2686977810649292,0.2787003,0.43891933000000005,0.20633817,0.06235956,0.013682479999999999,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Loss of job risk,Low risk,1874.312,0.7198854833133438,0.2587698312767565,0.19679861000000004,0.52308698,0.21635544,0.04241441,0.02134473,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+Loss of job risk,Zero risk,3478.817,0.695,0.27457675985830815,0.20589258,0.48883083,0.22236798000000002,0.05220878,0.030701179999999998,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Arthaud,24.07418,0.765,0.18949812620824472,0.31653473,0.4489672599999999,0.17812598,0.011372129999999998,0.0449999,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Poutou,32.85668,0.777698477143765,0.21490257080143216,0.21020873,0.56748978,0.20263779,0.012264769999999998,0.00739894,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Roussel,98.04205,0.535068575167492,0.43041633666370704,0.09658908,0.43847951,0.39620897,0.03420734,0.03451471,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Melenchon,942.3053,0.5909084879391,0.3757522110933686,0.12792818,0.4629801,0.29027259,0.08547970000000002,0.03333894,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Hidalgo,75.31895,0.6488677816140559,0.31900086233278613,0.14239272,0.50647506,0.30223032,0.01677047,0.0321317,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Jadot,198.8808,0.6594779385440928,0.3090268643328064,0.09096800999999999,0.56850988,0.27838901,0.03063788,0.03149506,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Macron,1195.294,0.7267966709445541,0.2522620376242163,0.20925245,0.51754464,0.21274381000000003,0.03951814,0.02094202,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Pecresse,205.1207,0.6635771036272791,0.31724716228054994,0.19259139000000003,0.47098572,0.27161725,0.04562992,0.01917531,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Dupont-Aignan,88.56025,0.7619967197472907,0.2301493051340754,0.22978469,0.5322118,0.22128324999999996,0.00886613,0.00785404,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Zemmour,303.4525,0.7237313912391561,0.2566943426071626,0.1808722,0.54285959,0.20877386,0.04792048,0.01957417,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Le Pen,993.0248,0.765,0.22305152902525696,0.23838402000000006,0.525,0.17324753999999998,0.04980392,0.01356452,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Lassalle,134.5409,0.6775162051093757,0.30386581329543655,0.22164531,0.45589886000000013,0.25883839,0.0449999,0.01861754,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Blank/Null/NA,96.61228,0.717252196097639,0.24744711541845407,0.2164081,0.5011448000000001,0.17791217,0.06953503,0.0349999,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Blank,63.86856,0.711695864130959,0.2566333106617716,0.22464511,0.48705044,0.19793259999999996,0.058700760000000005,0.03167075,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+1st round vote,Null,19.09123,0.6853209562715445,0.3049999,0.18987415,0.49544691,0.19338372,0.11333826999999999,0.00795733,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+2nd round vote,Macron,2287.563,0.7030556098345707,0.2757479466139293,0.17233724,0.53071894,0.22821636,0.04753167,0.021197729999999998,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+2nd round vote,Le Pen,1619.66,0.7509835397552572,0.2331308422755393,0.22832885000000003,0.52294703,0.1849999,0.04783877,0.01588545,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"
+2nd round vote,Blank/Null/NA,370.4173,0.6349999,0.3352051861508628,0.17126921,0.46446723999999995,0.27515562,0.06004965,0.02905887,"q10v13b_i3. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux éviter de discuter de politique car cela crée des conflits"

@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.5437420827087864,0.4320379889486573,0.11067621,0.43228581,0.24269769,0.18934029,0.025,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Gender,Man,2929.637,0.5279732608510883,0.448186242868997,0.11675709,0.41121613000000007,0.24895839,0.19922813000000003,0.02384209,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Gender,Woman,3049.36,0.5588933415536375,0.41652445103234775,0.105,0.4538947200000001,0.23668321,0.17984055999999998,0.02458151,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Age,18-24,478.2759,0.6133668871879182,0.37822771333450006,0.13318946,0.48017703,0.24631933,0.13190842,0.00840559,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Age,25-34,836.9062,0.5226370649422838,0.4517683104749373,0.1096105,0.41302645,0.2497796,0.20198859,0.025594680000000005,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Age,35-49,1494.556,0.5356458372921455,0.44258615936773193,0.07653049,0.45955436000000016,0.24499990000000002,0.19714778,0.021767470000000004,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Age,50-64,1554.412,0.5263930669603684,0.4503795004155912,0.11034829,0.41604485,0.24012823000000003,0.21025108,0.023228830000000002,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Age,65+,1614.848,0.5582553280556436,0.410332861049461,0.13647885,0.42177691000000006,0.23789217,0.17244087,0.03141231,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Socio-Professional Category,Total-CSP+,1734.019,0.5902634284860777,0.4007751933513993,0.10781283,0.48245129,0.22641321000000003,0.17436193,0.00896088,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Socio-Professional Category,Small Business owners,212.9949,0.4719915828970553,0.511589244625106,0.08212164,0.3898698,0.25241966,0.25916944,0.01641961,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.6391170797794673,0.34828508838751465,0.12421360000000001,0.515,0.185,0.16318857000000012,0.01259783,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Socio-Professional Category,Prof Intermed,896.9079,0.5787343382748664,0.4176596058525072,0.105,0.47359117999999994,0.25280377,0.165,0.00360505,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Socio-Professional Category,Total-CSP-,1674.09,0.4897200269997432,0.47057649230328125,0.0846433,0.40507691,0.25379125,0.21678536,0.03970304,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Socio-Professional Category,Salaried,956.6466,0.48760953104312504,0.4695024264968903,0.06506574,0.42254381,0.25065913,0.21884341,0.04288737,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Socio-Professional Category,Blue collar,717.4432,0.4925344612646687,0.47200893394766297,0.11074838,0.38178604,0.25796774,0.21404106,0.03545702,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,Far left,187.3446,0.5423567052373006,0.43795866013752194,0.17115583,0.37120093,0.25840024,0.17955852,0.01968498,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,Radical left,828.7407,0.4919494119210026,0.4888515792696075,0.10036923,0.39158038,0.28564459,0.20320674,0.01919964,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,Left,1430.296,0.5811529221923294,0.4026167310822375,0.08129331,0.5003994000000002,0.2570763,0.14499990000000001,0.01623109,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,PC/LFI,641.3963,0.4772260145560553,0.5037166569248996,0.07969324,0.39753285,0.29360241,0.21011409,0.01905787,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,PS,449.3176,0.660103899780467,0.32748105126529653,0.08711771,0.57298646,0.25114084,0.07634005,0.01241527,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,EELV,339.583,0.675,0.3049999,0.07660863,0.5974508,0.1949999,0.1149999,0.01594077,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,EM,672.9198,0.9270697637370754,0.0649999,0.395,0.5320695999999999,0.05215344999999999,0.01413313,0.006643820000000001,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,MoDem,161.1257,0.8149999,0.165,0.1741060200000001,0.6449999,0.11700312,0.04761075,0.01628021,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,Right,573.0042,0.6467299890646526,0.3340937117040329,0.12300545,0.525,0.18112786000000008,0.15169023,0.01917646,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,UDI/PR,89.32552,0.7997789433523589,0.18652967259524492,0.2201775,0.57960166,0.13746911,0.0490606,0.01369144,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,LR,397.5368,0.6802535010595244,0.3101280183369187,0.09923274999999998,0.58102068,0.185215,0.12491308999999999,0.00961898,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,Radical right,1008.8,0.2949999,0.6892119349722443,0.04444491999999999,0.25133634,0.3238490299999999,0.3653631,0.015006839999999999,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,Debout la France,86.14185,0.3333181258586854,0.5977107526713206,0.13195096,0.20136716,0.21602403,0.3816867199999999,0.06897105,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,Reconquete,205.4045,0.26594203145500706,0.729398333532128,0.03787894,0.22806311,0.29921769,0.43018021,0.00465997,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,RN,717.2537,0.29981832090932403,0.6886934148962912,0.03581582,0.26400254,0.34369277,0.345,0.01148887,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Political similarity,No preference,1860.95,0.4624082323544426,0.4987050162551385,0.05666332000000001,0.40499989999999997,0.2896104500000001,0.20983905999999997,0.03888727,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Total-left,1649.278,0.569992505811634,0.41256646847893436,0.10435657,0.46563636,0.24800234000000002,0.16456401,0.01744122,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Very Left,217.9165,0.3979299869445406,0.5779309965055422,0.09576416,0.30216574,0.30293027999999994,0.275,0.02413982,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Left,1431.362,0.5949998999999999,0.3873902618624779,0.10499990000000001,0.49118838,0.23956441000000003,0.14782592,0.01642139,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Center,776.1196,0.7805329230185656,0.20407164050489124,0.2111373,0.56939523,0.15480359,0.04926805,0.015395380000000002,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Total-right,1622.94,0.5158170973665077,0.47209410082935904,0.10663136,0.40957987,0.2349999,0.23670136,0.01208751,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Right,1193.119,0.6023803996080861,0.385,0.13073449,0.47164616,0.21675139,0.16691410999999998,0.01395298,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Very Right,429.8207,0.2749999,0.7175592055012707,0.03972482,0.2349999,0.2871381,0.43122795,0.00690923,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Both left and Right,200.4265,0.6939107353568515,0.2970479951503419,0.17377333,0.52013731,0.18782252,0.10922547999999999,0.00904173,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Politics,Neither left nor right,1673.316,0.421036194000416,0.5362768299591948,0.06756883,0.35346743,0.29563436,0.24064265000000004,0.042687850000000006,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Loss of job risk,High risk,556.2398,0.4245445938963735,0.5567623891710015,0.0921351,0.33240933,0.24956664,0.30719557,0.01869311,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Loss of job risk,Low risk,1874.312,0.515,0.4706531249866618,0.0756087,0.4387666,0.27202579,0.19862723,0.01497185,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+Loss of job risk,Zero risk,3478.817,0.5809144315438265,0.39271712194116565,0.13402685,0.44688784,0.22822890999999998,0.16448801,0.02636948,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Arthaud,24.07418,0.5029205563803212,0.4494366994015996,0.16484595,0.33807461,0.29898264,0.15045393,0.04764274,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Poutou,32.85668,0.5294001098102425,0.45029747375571727,0.05029297,0.47910714,0.25636899,0.1939283,0.0203025,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Roussel,98.04205,0.5633917283451335,0.40674792091760625,0.08135758999999998,0.48041905000000007,0.27336332,0.135,0.02986004,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Melenchon,942.3053,0.4522946013356817,0.5170090839985725,0.06013089,0.3913960400000001,0.28500000000000003,0.23277742,0.030695649999999998,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Hidalgo,75.31895,0.630124424198691,0.3419393127493147,0.12807766,0.50204683,0.22776712,0.11417224,0.02793634,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Jadot,198.8808,0.6895763693629551,0.28126581349230295,0.08510243,0.60447363,0.21007507999999997,0.07119078,0.02915801,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Macron,1195.294,0.9351423164510153,0.054999900000000004,0.29885275,0.6367936500000001,0.0449999,0.00999128,0.00936242,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Pecresse,205.1207,0.6449999,0.345,0.08296189,0.5618846200000001,0.20716934000000004,0.135,0.01298415,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Dupont-Aignan,88.56025,0.39055682430887445,0.5878276088877347,0.09238336999999999,0.2978764800000001,0.24312465,0.345,0.021615500000000003,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Zemmour,303.4525,0.326963659880871,0.6678570781259011,0.04931685,0.27764681,0.34575262,0.32228381999999994,0.0049999,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Le Pen,993.0248,0.3049999,0.6763085876606505,0.03371559,0.27276509,0.34717461,0.32913438,0.01721021,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Lassalle,134.5409,0.46921293078907605,0.5112033589785708,0.07615067,0.3930621799999999,0.34701388,0.16418939999999999,0.01958325,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Blank/Null/NA,96.61228,0.45925083229585306,0.4949999,0.03198206,0.42634578000000006,0.29267967,0.20399249000000003,0.045,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Blank,63.86856,0.44002792610323455,0.5220740846513526,0.03252514,0.4075028500000001,0.31764455,0.20442953,0.03789766,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+1st round vote,Null,19.09123,0.44845559977015625,0.5344485399840659,0.01768791,0.43076769,0.3042596,0.23018884,0.01709632,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+2nd round vote,Macron,2287.563,0.8467093583870695,0.14061177768655989,0.21046647000000002,0.63624346,0.10211552999999998,0.03849622,0.0126798,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+2nd round vote,Le Pen,1619.66,0.2886215625501648,0.6941512416186113,0.03723303,0.25138856,0.33479736,0.35935351,0.01722684,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"
+2nd round vote,Blank/Null/NA,370.4173,0.38782043927213977,0.5571602622231737,0.02902148,0.35879885,0.35967558,0.19750419000000002,0.054999900000000004,"cov1_i1. Etes-vous tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas du tout d'accord avec l'affirmation suivante ?
+- Dans l'ensemble le gouvernement gère bien la crise sanitaire"

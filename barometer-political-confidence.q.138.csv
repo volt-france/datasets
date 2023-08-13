@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.575,0.33387528554096485,0.205,0.36671951,0.23162662,0.10224880000000001,0.09440506999999998,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Gender,Man,2929.637,0.5693012479020438,0.35922368539173966,0.22400328,0.34529841,0.23910191000000003,0.12012177999999998,0.07147722,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Gender,Woman,3049.36,0.575,0.3049999,0.18577376999999998,0.3883473600000001,0.22444598,0.0849999,0.11643298999999999,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Age,18-24,478.2759,0.5921916617584119,0.3088644023251015,0.19620307,0.39499989999999996,0.23777298000000005,0.07207982,0.09894423,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Age,25-34,836.9062,0.625445360543392,0.2845517215668853,0.21947884000000004,0.4068174299999999,0.2049999,0.07870116,0.09000267,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Age,35-49,1494.556,0.5835926522659572,0.31104481866186345,0.21956668,0.36402590000000007,0.23007857,0.08096625,0.10536193,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Age,50-64,1554.412,0.5999913150438879,0.30410155094016256,0.22527387,0.37471745,0.20106754,0.10303401,0.09590855,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Age,65+,1614.848,0.505,0.4149999,0.16527506,0.335,0.27364094,0.14232931,0.08375469,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Socio-Professional Category,Total-CSP+,1734.019,0.5963135352034782,0.3249999,0.20770954999999997,0.38903188,0.22017867,0.10499990000000001,0.07808,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Socio-Professional Category,Small Business owners,212.9949,0.6156184960297172,0.27384866961603305,0.205,0.41061802999999997,0.17417788,0.09967093,0.11053316,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.5801274048540008,0.34261941717405126,0.21001364,0.3705385100000001,0.2249999,0.11719506000000002,0.07725289,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Socio-Professional Category,Prof Intermed,896.9079,0.6009908040725251,0.332502478794088,0.20212867,0.39886236,0.23106641999999997,0.10143589,0.06650561,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Socio-Professional Category,Total-CSP-,1674.09,0.6264209212169,0.270394303771004,0.245,0.38142145,0.18827835,0.08211608000000001,0.10318412,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Socio-Professional Category,Salaried,956.6466,0.6249998999999999,0.265,0.24348908,0.38350484,0.18704128,0.07559527,0.11036907,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Socio-Professional Category,Blue collar,717.4432,0.6256577524185887,0.2807390187822534,0.24626033,0.37939714,0.18992807,0.09081106,0.09360374,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,Far left,187.3446,0.7863439885643887,0.16113717715909612,0.3394495,0.44689487,0.12387301,0.03726418,0.05251886,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,Radical left,828.7407,0.7764640978776595,0.17288700796280432,0.375,0.40146353000000007,0.15253734,0.02034969,0.05064944,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,Left,1430.296,0.674457944369557,0.265,0.26212267,0.41233528,0.21870899,0.0450588,0.06177498,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,PC/LFI,641.3963,0.7735777396907341,0.17631891546614784,0.3835552199999999,0.39002283,0.16090988,0.01540916,0.050103390000000005,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,PS,449.3176,0.5460266858008678,0.4000493192343233,0.12719965,0.41882712999999994,0.31348204,0.08656747,0.0539242,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,EELV,339.583,0.6571736512133999,0.2486183642879649,0.2112854,0.44588834,0.20248010000000002,0.04613823,0.09420742000000001,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,EM,672.9198,0.3319287082948072,0.6117323342246728,0.04438208,0.28754675,0.33901975,0.27271214,0.056338679999999995,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,MoDem,161.1257,0.3206429514348115,0.6205663652663728,0.08818748,0.23245547,0.44675654,0.17380976,0.05879054,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,Right,573.0042,0.435,0.5008252993608076,0.12549566,0.3085206,0.33057387000000016,0.17040996999999997,0.0649999,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,UDI/PR,89.32552,0.3049999,0.6178450458502789,0.06369905,0.24179473,0.39894813999999995,0.21889691,0.07666133,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,LR,397.5368,0.3919828302687952,0.5518953213891141,0.08019522,0.31178749,0.3623091,0.18958602,0.05612230000000001,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,Radical right,1008.8,0.6909077121332277,0.23836379857256146,0.3110113,0.37989711,0.15939859,0.0789653,0.07072817,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,Debout la France,86.14185,0.7612693481739712,0.14379816546777205,0.39856639000000005,0.36263547,0.11216259,0.03163555,0.095,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,Reconquete,205.4045,0.5940697501758725,0.335,0.27906990000000004,0.3149999,0.18685233,0.14809491,0.07098296,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,RN,717.2537,0.7101904110079879,0.22206201236745102,0.30983179,0.4003582,0.15720951,0.06485249,0.06774826,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Political similarity,No preference,1860.95,0.5582299363228458,0.2824197318573846,0.17939273,0.37990120000000005,0.2049999,0.07635503,0.15935114,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Total-left,1649.278,0.7032750088220421,0.23782424794364562,0.2836999,0.41957541,0.18846404,0.04936025,0.05890056,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Very Left,217.9165,0.8997735371116918,0.0849999,0.5340659,0.36540276,0.08172065999999999,0.00381068,0.015,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Left,1431.362,0.6733591502359291,0.26100993319649396,0.24499990000000002,0.42835971,0.20471502000000003,0.05629487,0.0656305,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Center,776.1196,0.39721635686046325,0.5263188817805916,0.08725448999999999,0.30996176,0.34040345000000005,0.18738040000000003,0.07499990000000001,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Total-right,1622.94,0.529187400643277,0.40657793880242027,0.17920767,0.34997997,0.26646105,0.1401167,0.06423361,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Right,1193.119,0.4645625457309791,0.4664152527954043,0.12499990000000001,0.33956376000000005,0.31069382,0.15572127,0.06902125,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Very Right,429.8207,0.708577320729318,0.24047841344076729,0.32964884999999994,0.37892824,0.14367742,0.09680097,0.05094387,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Both left and Right,200.4265,0.5595337941839028,0.3803308444741589,0.15435409,0.4051797,0.25644573,0.12388511000000002,0.06013581,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Politics,Neither left nor right,1673.316,0.5722436168661508,0.26861471473409687,0.21422433,0.3576292100000001,0.195,0.07400401,0.15914245,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Loss of job risk,High risk,556.2398,0.692549688102146,0.23859457737472223,0.34841718,0.34413215,0.17596821,0.06262635,0.06885595,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Loss of job risk,Low risk,1874.312,0.6449999,0.277751783054262,0.23055334,0.4145901,0.20841658,0.06933531,0.07710461,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+Loss of job risk,Zero risk,3478.817,0.5159906370470192,0.3805305079284136,0.16715406,0.34883669,0.25346248,0.12706857,0.10348000000000002,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Arthaud,24.07418,0.48182658765532205,0.34383164867920735,0.19809132,0.28307703000000006,0.23975089000000002,0.10408076,0.175,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Poutou,32.85668,0.7938808790176001,0.18645541789371295,0.37026687,0.42361401000000004,0.18645541999999998,0,0.01966371,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Roussel,98.04205,0.6606378589594974,0.2592119401828093,0.239868,0.42076966,0.20778441,0.05142747,0.08015008,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Melenchon,942.3053,0.7443908041268579,0.18756670476118517,0.32973613,0.41465436,0.16061907000000003,0.026947610000000004,0.0680423,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Hidalgo,75.31895,0.4709931564367268,0.47812177413519436,0.06753439,0.40345876,0.40267396,0.0754478,0.05088536,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Jadot,198.8808,0.640287549124903,0.24334003081242633,0.15691424,0.48337331,0.21076739999999997,0.03257263,0.11637242,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Macron,1195.294,0.35935217611734016,0.5695502529084894,0.059369769999999995,0.29998226,0.35628565,0.21326493999999996,0.07109837,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Pecresse,205.1207,0.375,0.5649999,0.05653237,0.31669105,0.3418253,0.2249999,0.05995138,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Dupont-Aignan,88.56025,0.6805633452931761,0.265,0.3070408,0.37473963,0.1363413,0.12687837,0.054999900000000004,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Zemmour,303.4525,0.5803923184023859,0.35905850174244736,0.23795068,0.34244172999999994,0.21234456999999998,0.1467137,0.06054961,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Le Pen,993.0248,0.6949998999999999,0.24992215702971365,0.29401814,0.40105968000000003,0.18964108,0.0602811,0.055,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Lassalle,134.5409,0.5274597538741008,0.37791333341757044,0.15256164,0.375,0.2827425100000001,0.09506931,0.09462654,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Blank/Null/NA,96.61228,0.4885195753583292,0.3449999,0.16029308,0.32822639,0.24417807,0.10092694999999999,0.16637502,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Blank,63.86856,0.5411214844987894,0.3193563468473377,0.17061023,0.37051109,0.22839814,0.09095827,0.13952193,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+1st round vote,Null,19.09123,0.36920895091620604,0.4725100478072916,0.1609264,0.20828255000000004,0.29328388,0.17922612,0.15828132,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+2nd round vote,Macron,2287.563,0.44063966762882595,0.4792965264781779,0.09104195,0.34959789,0.32775556,0.15154175,0.08006516,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+2nd round vote,Le Pen,1619.66,0.695,0.2495522517071484,0.30875807,0.38668978,0.17877153,0.07078072,0.054999900000000004,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"
+2nd round vote,Blank/Null/NA,370.4173,0.6613913551013951,0.24738269513869895,0.26067846,0.4004956600000001,0.165,0.08259971,0.09122617,"q12v13b_i5. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- La Constitution de la Cinquième République n'est plus adaptée, il faut la changer"

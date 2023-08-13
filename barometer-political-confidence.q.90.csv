@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Ni d'accord ni pas d'accord,Pas vraiment d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.49696939388881284,0.2449999,0.19943295,0.29753645,0.23716950999999997,0.16461605,0.08493372,0.01631107,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Gender,Man,2929.637,0.5177460552280027,0.26100093629347254,0.22116924,0.29657746,0.21134332,0.17153494,0.0894659,0.00991163,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Gender,Woman,3049.36,0.4770089461395177,0.23854851509825012,0.17855002,0.2984584,0.26198242,0.15796921,0.08057953,0.02245928,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Age,18-24,478.2759,0.4842449724102762,0.20094474758188735,0.19031402,0.29393097,0.29546732,0.16150684,0.03943793,0.01934286,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Age,25-34,836.9062,0.5749998999999999,0.1705151664547353,0.2331468,0.34390439,0.23743366,0.12251194,0.04800321,0.015,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Age,35-49,1494.556,0.5325245089511533,0.20262673329068967,0.2303915,0.30213307,0.24937614,0.12958477,0.07304189,0.015472009999999998,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Age,50-64,1554.412,0.5031167412500676,0.2575940612913436,0.21247102,0.29061163000000007,0.22235302,0.175,0.08262661,0.01693772,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Age,65+,1614.848,0.42027732641090676,0.34059075529090044,0.14345852,0.27681887,0.22273211,0.20981585,0.1307746,0.01640083,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Socio-Professional Category,Total-CSP+,1734.019,0.4873290892429668,0.2349999,0.18829297999999997,0.29903571,0.26503839,0.16464006,0.07394832,0.00904442,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Socio-Professional Category,Small Business owners,212.9949,0.5113014443068825,0.24881760079701437,0.28784417,0.22345699,0.23164888000000003,0.18295724,0.0658604,0.0082325,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.44265987191950656,0.27516000027426946,0.15825355,0.28440639,0.26831982,0.18611809,0.08904173,0.01386043,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Socio-Professional Category,Prof Intermed,896.9079,0.5149999,0.215,0.18460223,0.33391879,0.26029484,0.14763746,0.06725546,0.00629032,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Socio-Professional Category,Total-CSP-,1674.09,0.5741547945450961,0.195,0.26178539,0.3123488299999999,0.21130112,0.125,0.06713522,0.022429439999999995,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Socio-Professional Category,Salaried,956.6466,0.5528580773715184,0.2055874133666497,0.24199752,0.31086046,0.21489743,0.14805697,0.05753039,0.02665641,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Socio-Professional Category,Blue collar,717.4432,0.6025520905348325,0.17414981422919612,0.28817069,0.31438126,0.20650541,0.0942073,0.07994254,0.01679318,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,Far left,187.3446,0.6608912133042533,0.13045473421705242,0.32001743999999993,0.34087377,0.20637905,0.12330257,0.00715218,0.00227541,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,Radical left,828.7407,0.6521941060696067,0.13710295632880104,0.28917006,0.36302416000000004,0.19450909,0.10681403,0.03028898,0.01619429,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,Left,1430.296,0.5603208007293595,0.21973151012098194,0.20775511,0.35256583,0.20859906,0.16314651,0.05658499,0.01134927,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,PC/LFI,641.3963,0.6496535761119919,0.1390448463765694,0.28015986,0.36949387,0.19104195,0.10199786,0.03704697,0.020259830000000003,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,PS,449.3176,0.45884514650661357,0.3161423011250839,0.11916644,0.33967866,0.22159866,0.23580470000000003,0.08033765,0.00341412,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,EELV,339.583,0.5258570069762032,0.24456465724138132,0.18821380999999998,0.33764322999999996,0.2245593,0.18250504,0.06205958,0.00501856,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,EM,672.9198,0.19922968532059837,0.54593608331929,0.06308933,0.13614031,0.25121411000000016,0.305,0.24261108,0.00194517,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,MoDem,161.1257,0.2954077468709213,0.4249999,0.10910687,0.18630088,0.27765836000000005,0.2749999,0.15193399,0,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,Right,573.0042,0.40636578231014714,0.36186383974148884,0.13196104,0.275,0.22947658999999998,0.22879379,0.13307007,0.00169851,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,UDI/PR,89.32552,0.25046212997136763,0.455,0.02886318,0.22159905,0.29484362,0.33808972,0.11660464,0,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,LR,397.5368,0.36754987211246853,0.4094415913193445,0.105,0.26254957000000007,0.22056081,0.24606212999999996,0.16337928999999998,0.0024482,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,Radical right,1008.8,0.6649999,0.12525059476605868,0.32376368,0.34387629,0.2016018,0.07841937,0.04683123,0.005508020000000001,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,Debout la France,86.14185,0.7471633126058936,0.0449999,0.36793208,0.37999771000000004,0.20680053,0.0349999,0.01026978,0,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,Reconquete,205.4045,0.6534486829645894,0.16974000082763524,0.28844844,0.3649999,0.17681166,0.09166795000000001,0.07807205,0,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,RN,717.2537,0.6621531544556689,0.12202349043302252,0.32873556000000004,0.33341773,0.20807686,0.07974789,0.04227559,0.0077469,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Political similarity,No preference,1860.95,0.5008206023805046,0.18928450522582552,0.19838437,0.30243612,0.27907456,0.13108848,0.05819598,0.030821440000000002,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Total-left,1649.278,0.5449999,0.23668562849925848,0.20368761,0.3404543999999999,0.20770671000000002,0.18295012,0.055,0.01020116,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Very Left,217.9165,0.6904318856075606,0.1749999,0.35632521,0.33404469,0.125,0.16214619,0.01419721,0.0082867,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Left,1431.362,0.5233272924668951,0.24587225314071492,0.18043989,0.34288733,0.22030751000000004,0.18611742,0.05975489,0.01049262,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Center,776.1196,0.3596687933148448,0.3705611867036988,0.10365811,0.25601067,0.26896679,0.23234976,0.1382113,0.0008028999999999998,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Total-right,1622.94,0.525,0.2582239023007628,0.22598574,0.29896032,0.2118302,0.160584,0.09763984,0.0049999,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Right,1193.119,0.4549999,0.3058098144443262,0.17358863999999996,0.28170652,0.2322806,0.19048938,0.11532027,0.00661364,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Very Right,429.8207,0.7149998999999999,0.1261326408895616,0.37143255,0.34437173000000004,0.15506261,0.07757086,0.04856181,0.00299994,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Both left and Right,200.4265,0.4149999,0.3182829615844212,0.19004817,0.2249999,0.2607209799999999,0.16106997,0.15721299,0.00594799,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Politics,Neither left nor right,1673.316,0.505,0.19179073169682234,0.21886464,0.28500000000000003,0.27293983999999993,0.11955554,0.07223519,0.03140479,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Loss of job risk,High risk,556.2398,0.6247372086643207,0.16125843566030335,0.36454978999999993,0.26018742,0.19867923999999998,0.10630573,0.0549527,0.01532502,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Loss of job risk,Low risk,1874.312,0.5677064437510938,0.1870486343789081,0.20726048,0.36044575,0.232023,0.13636257,0.05068611,0.0132222,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+Loss of job risk,Zero risk,3478.817,0.44197122182627024,0.2997645463960881,0.17054254,0.27142862,0.24281999000000004,0.19078989000000002,0.10897469,0.0154459,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Arthaud,24.07418,0.6287823718191026,0.12353978411725758,0.38151134,0.24792923,0.20568634,0.06788173,0.054999900000000004,0.04199146,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Poutou,32.85668,0.615,0.10126013949066065,0.23749049,0.3788505399999999,0.2749999,0.07830405,0.02295608,0.00739894,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Roussel,98.04205,0.49579971043037147,0.1778172733026288,0.18770069,0.30809913,0.29373498,0.1495136,0.02830367,0.03264775,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Melenchon,942.3053,0.6249998999999999,0.155,0.2603168,0.3649999,0.20612438000000002,0.11794106999999998,0.0360615,0.014556349999999997,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Hidalgo,75.31895,0.3349999,0.425,0.07338143,0.2649999,0.23797597,0.34800901000000006,0.07563369,0,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Jadot,198.8808,0.4480945873105901,0.2832736493417163,0.11244966999999999,0.33564492,0.26328826,0.23223609,0.05103761,0.00534351,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Macron,1195.294,0.2355614601930571,0.4949999,0.06057738,0.175,0.26054996,0.29404408999999987,0.20122112000000003,0.00860745,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Pecresse,205.1207,0.3138034825349173,0.425,0.08091767,0.23288581,0.25308265,0.25529227,0.16960785,0.00821322,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Dupont-Aignan,88.56025,0.6878697835654258,0.12161596201456071,0.3171608,0.37070898,0.18362414,0.06686442,0.05475148,0.00689008,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Zemmour,303.4525,0.6813586969954112,0.14731817994579055,0.32408067,0.3565789100000001,0.16807322,0.095,0.05301739,0.00324981,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Le Pen,993.0248,0.6362529918688838,0.1149999,0.28953728,0.34691678000000004,0.23858256,0.0849999,0.03143395,0.00852953,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Lassalle,134.5409,0.5535737459761306,0.18346428483829083,0.19388580000000002,0.35968802,0.25769673,0.14291728,0.04054708,0.00526467,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Blank/Null/NA,96.61228,0.4443557278639941,0.17803378618121837,0.12288252000000001,0.32147301,0.33207333000000006,0.12357114,0.055,0.045,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Blank,63.86856,0.44406496717633837,0.16119918783200998,0.14116221,0.30290287,0.36787160999999996,0.11115063,0.05004862,0.02686377,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+1st round vote,Null,19.09123,0.43008046102844083,0.21306908983863274,0.06117013,0.36891033,0.31161701,0.15025952,0.06280957,0.04523374000000001,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+2nd round vote,Macron,2287.563,0.3267346516795384,0.40921989908037504,0.08750172,0.23923302,0.2549999,0.26113817999999994,0.14921001,0.00791717,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+2nd round vote,Le Pen,1619.66,0.6628959164269044,0.10931393008409172,0.3078967,0.3549999,0.2170132,0.07940555,0.02990835,0.0107763,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"
+2nd round vote,Blank/Null/NA,370.4173,0.5568781479698707,0.1413122443255215,0.16653731000000002,0.39074350000000013,0.2649999,0.11853398999999999,0.022778230000000003,0.03640707,"pop1_i1. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- C'est le peuple, et pas les responsables politiques, qui devrait prendre les décisions politiques les plus importantes"

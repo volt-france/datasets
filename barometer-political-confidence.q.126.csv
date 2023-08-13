@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.8123089773176191,0.15252162484642084,0.25814977,0.55415904,0.12270198,0.029819659999999998,0.035169,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Gender,Man,2929.637,0.7934709999907837,0.17032502661592544,0.2433935,0.55007805,0.13617428,0.03415072,0.03620479,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Gender,Woman,3049.36,0.8304080200435502,0.13541756302961933,0.27232731,0.55808071,0.10975883,0.0256587,0.03417389,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Age,18-24,478.2759,0.7967537147491647,0.19121099348723197,0.23146828,0.56528564,0.1545938,0.03661719,0.01203529,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Age,25-34,836.9062,0.8232806735091698,0.13626521108339262,0.30430662,0.51897429,0.1097257,0.026539470000000003,0.04045386,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Age,35-49,1494.556,0.8029782758223847,0.1579853816116626,0.22947732,0.57350109,0.13503776,0.02294764,0.0390356,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Age,50-64,1554.412,0.8049999,0.15737179074788407,0.2732576,0.53211028,0.11819916,0.03917266,0.03726161,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Age,65+,1614.848,0.8265490002774255,0.13976268973922004,0.255,0.57154844,0.11289911,0.02686362,0.03368883,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Socio-Professional Category,Total-CSP+,1734.019,0.8220186745358614,0.16190428132563714,0.24363032,0.57838813,0.14324007,0.01866418,0.016077,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Socio-Professional Category,Small Business owners,212.9949,0.859437009994136,0.12934427068441545,0.22678252,0.63265458,0.11641269,0.01293161,0.01121879,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.8118499792876387,0.165,0.23685012,0.5749999,0.13805542,0.02634525,0.023749309999999996,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Socio-Professional Category,Prof Intermed,896.9079,0.8249998999999999,0.16568022201610666,0.25173042,0.57468587,0.1506682,0.01501205,0.00790231,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Socio-Professional Category,Total-CSP-,1674.09,0.8189900184577891,0.13130273760669978,0.27072421,0.54826557,0.10263564000000001,0.02866713,0.04970731,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Socio-Professional Category,Salaried,956.6466,0.8297865690423193,0.11697558952281857,0.27112311,0.55866346,0.08697681,0.02999876,0.05323775000000001,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Socio-Professional Category,Blue collar,717.4432,0.8045935901267165,0.15040674996989306,0.27019226,0.5344009399999999,0.12351528,0.026891520000000002,0.045,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,Far left,187.3446,0.7786165173695958,0.20293928941640163,0.28849009,0.49012606,0.17999884,0.022940490000000004,0.01844483,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,Radical left,828.7407,0.7430744019208905,0.2305528134433364,0.22211507000000003,0.52095945,0.18887753000000002,0.04167533,0.026373229999999998,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,Left,1430.296,0.7831854385385961,0.19614583275070335,0.21961481999999996,0.5625340400000001,0.165,0.0321817,0.02066944,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,PC/LFI,641.3963,0.7326927205535797,0.23861846412272725,0.20272755,0.52996533,0.19147086,0.04714754,0.02868902,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,PS,449.3176,0.8349998999999999,0.15584924783716464,0.24499990000000002,0.59127437,0.13812559,0.01772368,0.00787646,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,EELV,339.583,0.8083078363757902,0.16924262993141587,0.21537515,0.59293251,0.14619807,0.02304455,0.02244917,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,EM,672.9198,0.8991248288429022,0.08791861972258803,0.34569082,0.55343371,0.08111983,0.00679878,0.01295668,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,MoDem,161.1257,0.7719308589504964,0.22422208251073542,0.23316206,0.53761587,0.2130958,0.01112627,0.005,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,Right,573.0042,0.8549998999999999,0.12743503450760046,0.24220346,0.6126389,0.115,0.01323793,0.01691971,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,UDI/PR,89.32552,0.8381043849506837,0.15427035857166016,0.23535525000000002,0.60274925,0.12383056999999999,0.03043987,0.00762531,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,LR,397.5368,0.8479869033508344,0.13165908162464454,0.22820806,0.61977935,0.11941785000000002,0.012241219999999999,0.02035401,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,Radical right,1008.8,0.8601684179222839,0.11738848136399682,0.32025664,0.53991188,0.08623599000000001,0.031152440000000003,0.02244375,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,Debout la France,86.14185,0.9091765500740929,0.08011461328030452,0.31389249,0.59528406,0.08011461,0,0.01070867,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,Reconquete,205.4045,0.8313849014992367,0.1489767750949955,0.28902259,0.54236251,0.11271457,0.03626223,0.01963843,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,RN,717.2537,0.862525212487576,0.11281883941484025,0.32996553,0.5322156299999999,0.07938833,0.03343051,0.025,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Political similarity,No preference,1860.95,0.7813691931540342,0.1553747816975201,0.23193638,0.54943282,0.11512126,0.04025352,0.06325672,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Total-left,1649.278,0.775,0.20378838497815407,0.20784228,0.56626997,0.17318202,0.030606369999999997,0.02209963,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Very Left,217.9165,0.7196320609040618,0.25473821394892077,0.236232,0.48340029,0.19448899,0.06024918,0.02563019,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Left,1431.362,0.7824065470509906,0.19603147212235617,0.20352007,0.57888612,0.16993807,0.02609343,0.02156211,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Center,776.1196,0.8603109623826019,0.1298012574350654,0.25657656,0.60373414,0.12058570999999998,0.00921561,0.00988751,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Total-right,1622.94,0.8575363229694258,0.12032428802050599,0.28795753,0.5695783,0.09736372999999998,0.02296058,0.02213873,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Right,1193.119,0.8682612547449166,0.1149999,0.28027866,0.5885780899999999,0.09984578,0.0149999,0.01629757,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Very Right,429.8207,0.8277642282002706,0.133882779493868,0.30927315,0.51849062,0.09047414,0.04340866,0.03835292,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Both left and Right,200.4265,0.82376132896598,0.16135466118502295,0.33386214,0.48978322,0.13707554,0.0242791,0.015,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Politics,Neither left nor right,1673.316,0.7902123687337,0.1423855984165573,0.2736963,0.51651643,0.09997036,0.04241524,0.06740251,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Loss of job risk,High risk,556.2398,0.8149999,0.165,0.3245030300000001,0.49227733,0.125,0.03824877,0.01997087,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Loss of job risk,Low risk,1874.312,0.8091539722308773,0.1591467162350772,0.24529913,0.56371138,0.13428992,0.025,0.03169957,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+Loss of job risk,Zero risk,3478.817,0.8166161082919855,0.1490308918232836,0.25782253,0.55879369,0.11774135,0.03128946,0.03435424,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Arthaud,24.07418,0.708988634296163,0.23850033521390968,0.36637215,0.34261636,0.23850034,0,0.05251103,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Poutou,32.85668,0.7311937785558371,0.26140742156541685,0.15166316,0.5797514800000001,0.22618652,0.0349999,0.00739894,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Roussel,98.04205,0.7009244502741426,0.2713198061444044,0.14057285,0.5603515,0.23964023999999998,0.03167957,0.02775546,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Melenchon,942.3053,0.7781136325986917,0.18599693751059238,0.18808108,0.59092201,0.14616866,0.03982835,0.0349999,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Hidalgo,75.31895,0.7807805339824838,0.205,0.23809984,0.54268069,0.18870019,0.01567968,0.01483982,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Jadot,198.8808,0.8233378988821446,0.14289659937007496,0.19309888,0.6290045300000001,0.12008489999999998,0.02281169,0.035,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Macron,1195.294,0.8649998999999999,0.115,0.29499990000000004,0.57174897,0.09584504,0.01711611,0.020289980000000003,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Pecresse,205.1207,0.8501979566177378,0.1286025252448924,0.23431116,0.61588665,0.10784207000000001,0.020760460000000005,0.021199390000000002,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Dupont-Aignan,88.56025,0.8331389082573728,0.14859093103282794,0.27141466,0.56172414,0.14859093,0,0.01827027,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Zemmour,303.4525,0.845,0.13286998788937313,0.3178013600000001,0.525,0.1109947,0.02187527,0.02432867,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Le Pen,993.0248,0.8487980360611337,0.1349999,0.30281731,0.5458508900000001,0.10341434,0.03291746,0.015,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Lassalle,134.5409,0.8374999721274349,0.12900329936844485,0.25634963,0.5811499,0.11033544,0.01866783,0.03349679,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Blank/Null/NA,96.61228,0.7549999,0.1868417762214079,0.20363001,0.55346794,0.12959077,0.05725101,0.056060070000000004,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Blank,63.86856,0.7826468923050716,0.165,0.21499990000000002,0.5676471300000001,0.11615774999999999,0.046930040000000006,0.05426518000000001,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+1st round vote,Null,19.09123,0.7083849495291817,0.2541911128827215,0.13075449,0.57763015,0.12147059,0.13272047,0.03742453,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+2nd round vote,Macron,2287.563,0.8476251801589727,0.1289824586251832,0.255,0.59262414,0.10698285,0.02199963,0.02339338,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+2nd round vote,Le Pen,1619.66,0.8234672709087092,0.1558028228146648,0.2999106,0.52239161,0.125,0.0319679,0.02072989,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"
+2nd round vote,Blank/Null/NA,370.4173,0.7978366561173035,0.16994284554204137,0.2083221,0.58951458,0.13733805,0.03260482,0.0322209,"q10v13b_i1. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Il vaut mieux choisir soigneusement les personnes avec qui on parle de politique"

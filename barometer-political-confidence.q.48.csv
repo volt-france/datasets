@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.520814677767293,0.460641257520904,0.062399329999999996,0.45841597,0.29479,0.16585117000000002,0.01854271,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Gender,Man,2929.637,0.5093050777280598,0.4731565719575496,0.07221693,0.43708828,0.29045438,0.18270281000000002,0.01753972,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Gender,Woman,3049.36,0.531874885221817,0.4486183986147913,0.05296725000000001,0.47890771000000004,0.29895604,0.14966137,0.01950636,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Age,18-24,478.2759,0.5135830594851215,0.4419242115272796,0.1140641,0.39901158000000003,0.29175545,0.15016887,0.045,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Age,25-34,836.9062,0.5123409290073367,0.47059539049895915,0.07339607,0.43894489000000003,0.32340016,0.14719523,0.01706348,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Age,35-49,1494.556,0.5207699811850476,0.45973145201651855,0.058429909999999995,0.46233999,0.28634598,0.17338574,0.01949808,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Age,50-64,1554.412,0.5133886640092845,0.4724150353960211,0.05005491,0.46253024999999987,0.30313688,0.16927796,0.015,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Age,65+,1614.848,0.535,0.45053602568167406,0.0569547,0.47758823,0.28064301,0.16989296,0.01492191,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Socio-Professional Category,Total-CSP+,1734.019,0.5590742661989286,0.42731636735237616,0.07819903,0.48087535,0.28131324,0.14600324,0.013609590000000001,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Socio-Professional Category,Small Business owners,212.9949,0.4349999,0.5562485298943778,0.09194328,0.34387546,0.33927686,0.21697144,0.00793315,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.6072257292850046,0.3803500313821124,0.08265241,0.525,0.24365651999999993,0.1362667,0.01242437,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Socio-Professional Category,Prof Intermed,896.9079,0.5585670501954548,0.4249999,0.06830641,0.49064869999999994,0.28499990000000003,0.13990021,0.01614478,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Socio-Professional Category,Total-CSP-,1674.09,0.4949999,0.485,0.0604676,0.43471073999999993,0.31717924,0.16695118,0.02069094,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Socio-Professional Category,Salaried,956.6466,0.5116572828461419,0.46923033019717,0.050802610000000005,0.46085451,0.30952653,0.15970391,0.01911182,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Socio-Professional Category,Blue collar,717.4432,0.4732052655875754,0.505,0.07335502,0.39985019,0.32738354999999997,0.17661482,0.02279656,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,Far left,187.3446,0.579928111085134,0.415895894517376,0.14755066,0.43237755,0.26562303,0.15027287,0.00417634,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,Radical left,828.7407,0.5853536576639714,0.3922814458129063,0.09728983,0.48806388,0.29476168,0.09751979,0.02236536,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,Left,1430.296,0.6649999,0.31853888985217044,0.08092416000000001,0.58417174,0.23904381000000002,0.07949522,0.01636623,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,PC/LFI,641.3963,0.5869382158893027,0.3849999,0.08260919,0.505,0.3026015,0.08211115,0.02767816,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,PS,449.3176,0.7265012543465913,0.2649999,0.09258542,0.635,0.19280821999999997,0.07123514,0.00837122,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,EELV,339.583,0.7314665339548799,0.2629539464578615,0.06231181,0.6696386399999998,0.17747062999999996,0.0849999,0.005579019999999999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,EM,672.9198,0.7708602124651406,0.22338382672050963,0.13235335,0.6385292199999999,0.16836152,0.054999900000000004,0.005756009999999999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,MoDem,161.1257,0.7641592868176833,0.2205859152202287,0.09066456,0.6737012400000001,0.17537978000000004,0.0449999,0.01525452,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,Right,573.0042,0.505,0.4938827673514435,0.06534493,0.43800796,0.31104781,0.18283512999999998,0.00276467,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,UDI/PR,89.32552,0.5139531233627299,0.4793442008509998,0.030323369999999995,0.48362976,0.3072487,0.1720955,0.00670293,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,LR,397.5368,0.5467151720293568,0.45228441744261155,0.08273372,0.465,0.29176186000000004,0.15950345,0.00100097,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,Radical right,1008.8,0.2885320182394925,0.7049998999999999,0.03566661,0.25286548,0.36414109000000006,0.34232682,0.005,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,Debout la France,86.14185,0.2922484251266951,0.7009313127126942,0.02141313,0.27083537,0.39928571,0.30164548,0.00682013,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,Reconquete,205.4045,0.125,0.8712686430920452,0.00986955,0.115,0.35899997,0.5120001000000001,0.00413038,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,RN,717.2537,0.3350316631339789,0.6605151008631952,0.045,0.29026563,0.36173565,0.29854499,0.00445373,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Political similarity,No preference,1860.95,0.425,0.5401805529433892,0.02777729,0.3970423100000002,0.35587775,0.18430275,0.0349999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Total-left,1649.278,0.6271847438697418,0.3573423643557969,0.08003459999999998,0.54762283,0.26974767,0.087595,0.0149999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Very Left,217.9165,0.5801878242354296,0.4185760142072766,0.11080565,0.46938208,0.28850202,0.13007395,0.00123675,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Left,1431.362,0.6343393914327752,0.34801992787289304,0.07499990000000001,0.55933939,0.26689223,0.08112783,0.01764065,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Center,776.1196,0.6849999,0.3075595565425741,0.10394029,0.58329902,0.21742486999999996,0.09013466000000002,0.00520081,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Total-right,1622.94,0.43156863469998885,0.5634495421888671,0.06000759,0.3715428600000001,0.31277848,0.25067107,0.005,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Right,1193.119,0.485,0.5049999,0.06907749,0.415,0.30479927000000007,0.20492214,0.006201100000000001,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Very Right,429.8207,0.285995997866087,0.712410547002506,0.035,0.25116496,0.33474772,0.3774944600000001,0.0015928599999999998,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Both left and Right,200.4265,0.580517546332446,0.415,0.03023255,0.5513798499999999,0.30698161,0.10640609,0.0049999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Politics,Neither left nor right,1673.316,0.42056604968816413,0.5390066191920713,0.03319482,0.38737142,0.33696457,0.20204217,0.04042811,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Loss of job risk,High risk,556.2398,0.49064108681183916,0.5026229694459117,0.06465618,0.42598498,0.28340565,0.21921714000000003,0.006735859999999999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Loss of job risk,Low risk,1874.312,0.5172066336874545,0.4685303727447725,0.06696238,0.45005915,0.315,0.15371528,0.014263189999999999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+Loss of job risk,Zero risk,3478.817,0.530951469996841,0.44680016223906,0.06033502,0.46960748,0.28500000000000003,0.16280819,0.02224931,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Arthaud,24.07418,0.565,0.3849999,0.15533601,0.4067710899999999,0.2549999,0.13038197,0.05251103,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Poutou,32.85668,0.6604316078191711,0.33956869653294247,0.0619611,0.59847039,0.21969204,0.11987657,0,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Roussel,98.04205,0.5799182085645903,0.3809002361741722,0.06213682,0.5177814,0.31764809,0.06325204,0.03918126,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Melenchon,942.3053,0.6088612682110565,0.37722084339332485,0.0763204,0.53254089,0.28724618,0.08997464,0.01391762,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Hidalgo,75.31895,0.8449998999999999,0.155,0.10276714,0.7419019299999999,0.135,0.02033093,0,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Jadot,198.8808,0.7311530323691376,0.2530132119339826,0.06161299,0.67024126,0.2049999,0.04731204,0.01583381,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Macron,1195.294,0.7572528599658327,0.2291929014953643,0.12730968,0.62994376,0.18776736,0.04142557,0.01355451,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Pecresse,205.1207,0.4749999,0.5205237696634226,0.04354759,0.4309287900000001,0.31052536,0.20999826,0.005,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Dupont-Aignan,88.56025,0.2984113075561553,0.7015885795263677,0,0.29841131,0.46092203,0.24066666000000003,0,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Zemmour,303.4525,0.2294482662031125,0.7646686054654354,0.02365795,0.2057903,0.31490665,0.44976199,0.005883279999999999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Le Pen,993.0248,0.3395716803850216,0.6549999,0.03704717,0.30252437,0.39214903,0.26327943,0.005,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Lassalle,134.5409,0.528226583886387,0.45900235541757195,0.02583307,0.50239355,0.32701662,0.13198574,0.01277052,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Blank/Null/NA,96.61228,0.4271740611027915,0.5349999,0.02683915,0.40033503,0.30372205,0.23170719000000004,0.03739623,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Blank,63.86856,0.4449999,0.5199375091594362,0.03346445,0.41159819999999997,0.30189909,0.21803826,0.035,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+1st round vote,Null,19.09123,0.225,0.7749999,0.00913898,0.21554682,0.38343307,0.39188146,0,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+2nd round vote,Macron,2287.563,0.7331229784709754,0.2559924251266522,0.10703076,0.6249998999999999,0.20834346000000006,0.04873968,0.010886199999999999,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+2nd round vote,Le Pen,1619.66,0.32979032636479255,0.6631694306212415,0.03292426,0.29686607,0.37816995999999997,0.28499990000000003,0.00703981,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"
+2nd round vote,Blank/Null/NA,370.4173,0.4997115415505701,0.4848553239818983,0.04256863999999999,0.4571428,0.33379192,0.15106371,0.01543332,"q25_i10. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- La justice"

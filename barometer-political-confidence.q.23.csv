@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.4594902293058273,0.5204358520033945,0.07898184,0.38050815,0.29601713,0.22441889,0.020073299999999995,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Gender,Man,2929.637,0.48842296844284805,0.49779204727411613,0.09176348,0.39666006,0.28199647,0.21579587999999997,0.01378633,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Gender,Woman,3049.36,0.43169419156806677,0.5421914762441955,0.06670209,0.3649919999999999,0.30948829,0.23270302999999998,0.02611345,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Age,18-24,478.2759,0.4849999,0.495,0.11329055,0.3749999,0.30783272,0.18593709,0.01793974,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Age,25-34,836.9062,0.4608383830828353,0.5213547229068204,0.09725886000000002,0.36357957,0.29991175,0.22144322,0.01780668,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Age,35-49,1494.556,0.40624566760964453,0.5713258653406095,0.04941838,0.35682730999999995,0.32784988,0.24347626,0.02242782,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Age,50-64,1554.412,0.4524165407884139,0.535,0.07209144,0.38014807,0.305,0.22946909,0.0132914,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Age,65+,1614.848,0.5049999,0.46767163225269504,0.09334216,0.41261613,0.25281283,0.215,0.026228880000000003,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Socio-Professional Category,Total-CSP+,1734.019,0.5077216570291329,0.4821496188911425,0.08897596,0.41931424000000017,0.28499990000000003,0.19658089,0.01012901,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Socio-Professional Category,Small Business owners,212.9949,0.4638573975245417,0.5221110928008135,0.11400897,0.34888026999999994,0.26096465,0.26114611,0.015,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.5514388192632821,0.435,0.10652009,0.4449999,0.26687529,0.16660482,0.0149999,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Socio-Professional Category,Prof Intermed,896.9079,0.4849999,0.5086152101012824,0.0713467,0.41441156,0.30206479,0.20655064,0.00562521,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Socio-Professional Category,Total-CSP-,1674.09,0.3949999,0.585,0.06315975,0.3324874400000001,0.32738915,0.255,0.02196366,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Socio-Professional Category,Salaried,956.6466,0.3949999,0.5778648039934496,0.04389754,0.35229101,0.31944064,0.25842406,0.02594626,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Socio-Professional Category,Blue collar,717.4432,0.39745836325440115,0.5858890292639194,0.08884433,0.30861398,0.3396406299999999,0.24790116,0.0149999,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,Far left,187.3446,0.4687767888692815,0.5149999,0.19503669,0.2737401,0.3819511299999999,0.13427208,0.015,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,Radical left,828.7407,0.3849999,0.5974505656594397,0.09296843,0.29296341,0.35137529,0.24607527999999998,0.01661832,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,Left,1430.296,0.4933599059215715,0.4898767807502783,0.06897265,0.42438733,0.31235465,0.17752214,0.01676412,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,PC/LFI,641.3963,0.36173361149729116,0.6210358556792424,0.06315543,0.29857812,0.34230397000000007,0.27873173,0.01723113,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,PS,449.3176,0.6349999,0.35592551905378284,0.09193870999999999,0.54213761,0.272055,0.085,0.00886868,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,EELV,339.583,0.5542880532888866,0.41938259571297737,0.04957245,0.50471549,0.30910852,0.11027418999999998,0.02632884,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,EM,672.9198,0.9269242783463943,0.06987192233012017,0.2919241,0.635,0.0621813,0.00769063,0.00320397,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,MoDem,161.1257,0.7823388820033056,0.21217031175039117,0.10916811999999998,0.67317132,0.1528861,0.05928419,0.00549048,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,Right,573.0042,0.6078836769433802,0.3841313903109262,0.0856678,0.5227361699999999,0.2649999,0.11861096,0.00798517,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,UDI/PR,89.32552,0.8068526217367669,0.1849999,0.10077796,0.7060749299999999,0.16332308999999998,0.02297853,0.00684572,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,LR,397.5368,0.6496465232904224,0.34706774316239397,0.09003941,0.5592961700000001,0.255,0.09237833999999999,0.00328608,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,Radical right,1008.8,0.22531701030927836,0.7646972640761301,0.025,0.20031979,0.36060507999999997,0.4040890799999999,0.00998605,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,Debout la France,86.14185,0.2088305510039545,0.7603167333880106,0.04982459,0.15900599,0.42147771,0.33883902,0.030852610000000003,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,Reconquete,205.4045,0.2149999,0.7767400422093965,0.014111369999999998,0.20369817,0.31935104,0.4573891,0.0054503,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,RN,717.2537,0.22944698647075643,0.7617746691303231,0.02513302,0.20431404,0.3649999,0.39677411999999995,0.00877892,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Political similarity,No preference,1860.95,0.325,0.6349999,0.02592592,0.2978598700000001,0.34499989999999997,0.29499990000000004,0.03621441,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Total-left,1649.278,0.4544413979935462,0.5311407173320689,0.07156641,0.38229294,0.33389604,0.19724461,0.015,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Very Left,217.9165,0.3349999,0.655,0.07411256,0.26342081,0.3271309,0.32704949,0.0082867,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Left,1431.362,0.4722398666444966,0.5124083914481452,0.07117871,0.40106116,0.33492583,0.1774825,0.01535158,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Center,776.1196,0.776941852776299,0.21364941691976339,0.15184309,0.62509837,0.14945171,0.06419761,0.0094089,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Total-right,1622.94,0.47137423441408804,0.5206123454964448,0.08452974,0.38684474,0.2720262,0.24858621,0.00801224,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Right,1193.119,0.5639455913450377,0.42651763990012737,0.10222367,0.46172209,0.25857211,0.16794553,0.00953589,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Very Right,429.8207,0.215,0.7818059949183462,0.035414,0.17899678,0.30937295,0.47243257,0.00378282,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Both left and Right,200.4265,0.5572835927384852,0.43905860751946474,0.115,0.44188443,0.25445717,0.185,0.0036584,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Politics,Neither left nor right,1673.316,0.2976946972359076,0.6604484747650772,0.045,0.25324075,0.35195818999999995,0.30794357,0.04185749,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Loss of job risk,High risk,556.2398,0.3217065733160411,0.668462235172672,0.10405474,0.21765199,0.33286938,0.33559249,0.0098312,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Loss of job risk,Low risk,1874.312,0.4297494227215107,0.5599900123351929,0.062286909999999994,0.36746262,0.3170867,0.24290332,0.0102608,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+Loss of job risk,Zero risk,3478.817,0.5009021745035741,0.4730711618346122,0.08467309,0.4168722300000001,0.27742698,0.1949999,0.0260278,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Arthaud,24.07418,0.44973245194644224,0.4711882190795284,0.12546944,0.3243101,0.3149999,0.15614152,0.07907904,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Poutou,32.85668,0.3249999,0.675,0.09322149999999998,0.23265522000000002,0.40555345,0.26856992,0,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Roussel,98.04205,0.416679577793406,0.551718981804236,0.048172290000000006,0.36918675000000006,0.38499989999999995,0.16603988,0.03160118,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Melenchon,942.3053,0.36912261875211777,0.6167838597533093,0.03905297,0.33006967,0.3878346,0.22894936,0.01409298,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Hidalgo,75.31895,0.6351886211902847,0.34962728503251833,0.05615328,0.5792194999999999,0.25336838,0.09625894000000002,0.0149999,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Jadot,198.8808,0.600535597201942,0.366996009670114,0.06755981,0.53158812,0.295,0.0733835,0.03246857,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Macron,1195.294,0.9049999,0.085,0.2204868400000001,0.6849999,0.07574831,0.00665887,0.01210608,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Pecresse,205.1207,0.6191476530647565,0.36795676886828094,0.0595503,0.55932455,0.255,0.11322972,0.01289543,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Dupont-Aignan,88.56025,0.3182925748290006,0.6702692234947395,0.04801864,0.27027397,0.29123145,0.37903777,0.011438149999999998,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Zemmour,303.4525,0.255,0.7402081050576285,0.01814244,0.23629122,0.34995461,0.3906118300000001,0.0049999,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Le Pen,993.0248,0.235,0.7549999,0.02887683,0.20594731999999996,0.37495549,0.38090075999999995,0.00931927,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Lassalle,134.5409,0.3949999,0.5983194701388203,0.0235209,0.37361405,0.39286505,0.205,0.005,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Blank/Null/NA,96.61228,0.3077751606731567,0.6381700131701684,0.03608801,0.2716871,0.34945309,0.28871682,0.05405463,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Blank,63.86856,0.2820310963641579,0.6850195150790936,0.04103781,0.24099338,0.4062426,0.27877691,0.03294908,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+1st round vote,Null,19.09123,0.345,0.6221500657631803,0.0179498,0.32570185,0.28009405,0.3420558000000001,0.03419874,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+2nd round vote,Macron,2287.563,0.7777849178361426,0.20821446229021887,0.1478834,0.62990178,0.18036592000000004,0.02784854,0.014001899999999998,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+2nd round vote,Le Pen,1619.66,0.22822030549621525,0.7609442722546707,0.03281491,0.19540526999999996,0.35733642,0.40360736,0.01083524,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"
+2nd round vote,Blank/Null/NA,370.4173,0.2814979213983796,0.6827405199487173,0.03160417,0.25011439000000013,0.4449999,0.23751974,0.0357618,"q13_i6. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'institution présidentielle"

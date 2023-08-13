@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Pas vraiment d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.525151020186981,0.4615808792169663,0.10941721999999998,0.41573409999999994,0.36752287000000006,0.09405874000000002,0.013266609999999998,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Gender,Man,2929.637,0.5360783605613938,0.4449999,0.11923778,0.4170693200000001,0.3549999,0.09306675,0.01562625,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Gender,Woman,3049.36,0.5146538945877167,0.475,0.09998249,0.41467095000000004,0.37933435,0.0950119,0.01099962,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Age,18-24,478.2759,0.595,0.3932911944758245,0.16768191999999998,0.42662822999999994,0.30410899,0.08918219,0.01239868,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Age,25-34,836.9062,0.584760394892522,0.40826498835831304,0.13112951,0.45363087999999996,0.315107,0.09315813,0.00697451,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Age,35-49,1494.556,0.44974239841130076,0.5381804361964355,0.07809637,0.37164629,0.41318071000000006,0.125,0.01207663,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Age,50-64,1554.412,0.520613839831396,0.46699581578114424,0.1210598,0.39955410999999996,0.3750734,0.0919226,0.01239165,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Age,65+,1614.848,0.5479350997740964,0.4333373791217502,0.09868935,0.44924594,0.36341619,0.06992101,0.01872816,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Socio-Professional Category,Total-CSP+,1734.019,0.5403612071148008,0.448955461272339,0.1101808,0.43018058,0.35940258,0.08955259,0.01068339,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Socio-Professional Category,Small Business owners,212.9949,0.4680680147740627,0.4893835486201782,0.12903267,0.3390353,0.40012723,0.08925636,0.04254869,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.5859939282761947,0.41128378008873956,0.1065907,0.47940328000000004,0.33976317,0.0715207,0.00272232,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Socio-Professional Category,Prof Intermed,896.9079,0.525,0.4649999,0.1056973,0.41748540000000023,0.3649999,0.10308214,0.00873526,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Socio-Professional Category,Total-CSP-,1674.09,0.5081928689616448,0.4810213907257077,0.12280588,0.38538687,0.37961221,0.10140924,0.0107856,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Socio-Professional Category,Salaried,956.6466,0.48715931254028394,0.5006943002776574,0.09991081,0.3872485399999999,0.38999229,0.1107019,0.01214581,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Socio-Professional Category,Blue collar,717.4432,0.5349999,0.455,0.15333437,0.38290432,0.36577112,0.08901843,0.00897189,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,Far left,187.3446,0.6307862623208782,0.36069691893975053,0.24937644,0.38140977,0.28446003,0.07623689,0.00851728,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,Radical left,828.7407,0.5298822659488065,0.4603819988568198,0.14458382,0.38529856,0.36779719,0.09258476,0.00973645,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,Left,1430.296,0.5209283253256668,0.47048624900020697,0.10321549,0.41771284,0.38456159,0.08592452,0.00858629,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,PC/LFI,641.3963,0.500409185397546,0.48949877010515963,0.11397503,0.38643410000000006,0.39213898999999997,0.09735974000000001,0.01009255,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,PS,449.3176,0.5381890226423358,0.4549999,0.10341044,0.435,0.40137934000000003,0.05354248,0.00666774,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,EELV,339.583,0.5349999,0.455,0.08263494,0.45420943,0.34770380000000006,0.10717177,0.00827978,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,EM,672.9198,0.7612883437223871,0.23253365408478097,0.17902875999999998,0.58225928,0.20412195,0.028411770000000003,0.00617818,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,MoDem,161.1257,0.6420266909623977,0.3512074113564751,0.13937522,0.50265147,0.32717667,0.02403072,0.00676574,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,Right,573.0042,0.5711884834352,0.4105385265936969,0.10289214000000002,0.46829639,0.3240334,0.08650518,0.01827329,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,UDI/PR,89.32552,0.6079388062896248,0.38337509818022886,0.11023159,0.49770715,0.313945,0.06943014,0.00868631,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,LR,397.5368,0.615,0.36397410252333867,0.10853893000000002,0.50564828,0.29948422,0.0644898,0.02183897,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,Radical right,1008.8,0.45303281126090406,0.541146708961142,0.09768893,0.3549999,0.4021930000000002,0.13929709,0.005821079999999999,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,Debout la France,86.14185,0.33464442660565097,0.655,0.06922214,0.2649999,0.44820839000000007,0.2058103,0.01175927,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,Reconquete,205.4045,0.415,0.5749998999999999,0.095,0.31977435,0.40455448,0.1707003,0.00997087,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,RN,717.2537,0.47821935251083403,0.5178615321189699,0.10189004000000002,0.37632932,0.39554582,0.12231573,0.00391951,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Political similarity,No preference,1860.95,0.44540567989467744,0.5349999,0.07968237,0.36572342,0.42052496,0.1149999,0.01906935,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Total-left,1649.278,0.5149999,0.4755157711434943,0.10312306,0.4149999,0.3877376900000002,0.08785540999999998,0.00628394,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Very Left,217.9165,0.49117299516099056,0.4962822916116953,0.1549999,0.33560575,0.3497440400000001,0.14710515,0.01254516,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Left,1431.362,0.5223153192553666,0.4723540236502017,0.09499990000000001,0.42731559000000013,0.39351883000000004,0.07883498,0.0053307,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Center,776.1196,0.6649999,0.325,0.14488811,0.52340812,0.28666909,0.03698804,0.0080462,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Total-right,1622.94,0.545,0.44021319334048087,0.11719792,0.42758904999999997,0.34196427,0.09824886,0.0149999,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Right,1193.119,0.5589919362611777,0.42048898726782497,0.10992256,0.44906954,0.33873988999999993,0.08174892,0.02051805,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Very Right,429.8207,0.505,0.4949649935426563,0.1373932,0.36563316,0.3509147,0.14405032,0.00200816,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Both left and Right,200.4265,0.526921340241934,0.4730790090132792,0.05738637,0.4700851300000002,0.4075286,0.0649999,0,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Politics,Neither left nor right,1673.316,0.4420934240753091,0.5368749238039916,0.09908804,0.3430058,0.40957685,0.12729813,0.02103214,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Loss of job risk,High risk,556.2398,0.415,0.5717649114644441,0.13739301,0.27564119,0.36873107000000005,0.20323483,0.0149999,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Loss of job risk,Low risk,1874.312,0.4841308170678094,0.505,0.10356370999999999,0.38056711,0.41663869,0.08793163,0.01129895,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+Loss of job risk,Zero risk,3478.817,0.5671548690258786,0.4198967637561849,0.10929279,0.45786226,0.33881805,0.08107886,0.012949390000000002,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Arthaud,24.07418,0.49845020681909,0.5015497931809101,0.18609627,0.31235398,0.34093386,0.16061577,0,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Poutou,32.85668,0.572990028207354,0.42700997179264616,0.09335517,0.47963489,0.33784698,0.08916315,0,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Roussel,98.04205,0.5066521966849938,0.49003249116068054,0.08158918,0.42506312,0.41542471,0.07460779,0.00331506,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Melenchon,942.3053,0.4649999,0.525,0.08463665,0.38114176,0.4277970199999999,0.09634847,0.010075520000000001,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Hidalgo,75.31895,0.5488801954886519,0.444457603299037,0.09527378,0.45360642999999995,0.38275547,0.06170209,0.00666247,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Jadot,198.8808,0.485,0.5049999,0.085,0.39841604,0.4129867100000001,0.09148726,0.01210999,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Macron,1195.294,0.7330843290437331,0.2573755912771251,0.17357554,0.55884695,0.235,0.023037250000000002,0.00954026,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Pecresse,205.1207,0.6064814521401302,0.3863291223167628,0.09795984,0.5107111899999999,0.32801355000000004,0.05831552,0.0049999,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Dupont-Aignan,88.56025,0.33527513754760174,0.6532866607761383,0.12737137,0.20790377,0.43243543,0.22085123,0.011438149999999998,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Zemmour,303.4525,0.4173078158855175,0.5811295013222828,0.09803788,0.31926994,0.41650835,0.16462135,0.00156276,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Le Pen,993.0248,0.48333415237967875,0.5120305152499716,0.09890403000000002,0.38442998000000006,0.3915468299999999,0.12011916,0.005,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Lassalle,134.5409,0.4854929616198494,0.5145065924191082,0.10831999999999999,0.37717296,0.42950714000000006,0.0849999,0,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Blank/Null/NA,96.61228,0.4557269531368063,0.5139807279157473,0.12843947,0.32815061000000006,0.4249999,0.0881179,0.03029212,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Blank,63.86856,0.4568358829445975,0.5198750371074594,0.12608416,0.33075178,0.42307483,0.0968003,0.02328856,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+1st round vote,Null,19.09123,0.3912788751693841,0.5804403383124084,0.1549999,0.2362225,0.51050027,0.06999643,0.0282809,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+2nd round vote,Macron,2287.563,0.6649999,0.3263526294139221,0.14410978,0.52214475,0.28524919,0.04110359,0.00739481,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+2nd round vote,Le Pen,1619.66,0.44974130373041254,0.5428937554795451,0.09512626000000002,0.35461541,0.39903807,0.14385581,0.007363870000000001,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"
+2nd round vote,Blank/Null/NA,370.4173,0.455,0.5344672076601173,0.075,0.37670379,0.45256611999999996,0.08164252,0.01408757,"q5_i3. Pour chacune des affirmations suivantes à propos des gens et de la société, êtes-vous tout à fait d'accord, plutôt d'accord, pas vraiment d'accord ou pas du tout d'accord... ?
+- J'ai une liberté et un contrôle total sur mon propre avenir"

@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.14304895699984713,0.8356742479765017,0.02307148,0.1199775,0.35067508000000003,0.485,0.021275939999999997,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Gender,Man,2929.637,0.12310426172252739,0.857461180344186,0.0249999,0.09742704999999999,0.32628841,0.53185031,0.01943433,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Gender,Woman,3049.36,0.1622108245664664,0.815,0.020568040000000003,0.14164284,0.37730606,0.43743704,0.023045279999999998,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Age,18-24,478.2759,0.22692550471391096,0.756754626356879,0.04728837,0.17963707,0.37795716,0.38011750000000005,0.0149999,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Age,25-34,836.9062,0.245,0.7349998999999999,0.05593478,0.18812071999999996,0.38357226,0.35219443,0.020177689999999998,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Age,35-49,1494.556,0.1749999,0.80584467895482,0.02238891,0.15273446,0.38956667000000006,0.41627841,0.01903128,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Age,50-64,1554.412,0.10985054155526333,0.8656167090835635,0.01800115,0.09184939,0.355,0.51061607,0.02453339,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Age,65+,1614.848,0.06813111822289157,0.9096150225903615,0.005,0.06375126,0.29159141,0.6174024600000002,0.02225487,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Socio-Professional Category,Total-CSP+,1734.019,0.16753461178914417,0.8230913271423209,0.028354839999999996,0.13917985,0.36368552000000004,0.45940598000000005,0.00937412,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Socio-Professional Category,Small Business owners,212.9949,0.245,0.7492648885020251,0.06798571,0.17698278000000003,0.32846899,0.42156262000000005,0.0049999,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.1419071527635742,0.8390113522471114,0.0249999,0.11656183,0.37736317,0.4619932000000001,0.0190819,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Socio-Professional Category,Prof Intermed,896.9079,0.15977203456452999,0.836195555864766,0.01685273,0.14291925,0.36538255000000003,0.47081210999999995,0.00403228,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Socio-Professional Category,Total-CSP-,1674.09,0.185,0.7949999,0.035,0.14672515,0.39276162,0.40317521,0.02233802,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Socio-Professional Category,Salaried,956.6466,0.16305342014491034,0.8166771303007818,0.022909609999999997,0.14014392,0.41782085,0.39885607,0.02026908,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Socio-Professional Category,Blue collar,717.4432,0.2055634508766687,0.7693402070017529,0.05006303,0.15550039,0.35934831000000006,0.41008837,0.0249999,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,Far left,187.3446,0.4067849833942371,0.5843707264580884,0.17827592,0.22850901,0.30489253,0.27947835,0.00884454,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,Radical left,828.7407,0.23338095981046905,0.755,0.07292672,0.16045417,0.3695143100000001,0.385,0.0121048,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,Left,1430.296,0.16992293902800537,0.8212502866539514,0.02826198,0.14166103,0.3789001000000001,0.44235067,0.00882722,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,PC/LFI,641.3963,0.18273148753742421,0.805,0.04215537,0.14057615,0.38921140000000004,0.415,0.01305708,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,PS,449.3176,0.148069539230157,0.8476868032767912,0.02113424,0.12693531,0.3900891,0.45759814,0.00424333,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,EELV,339.583,0.17464504995833122,0.8184517481734951,0.01145146,0.16319359,0.34345185,0.475,0.0069031,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,EM,672.9198,0.15815004997623788,0.8318230493440674,0.01927282,0.13887717,0.3268229400000001,0.5049999,0.01002717,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,MoDem,161.1257,0.095,0.8949999,0.03622166,0.05814585,0.34392546,0.55366214,0.00804464,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,Right,573.0042,0.08806602115656396,0.8991440202358029,0.02195884,0.06610718,0.34970337,0.54944117,0.01278985,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,UDI/PR,89.32552,0.04743046556012213,0.9366200163178451,0,0.04743047,0.36664763,0.5709219999999999,0.0149999,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,LR,397.5368,0.0942230002354499,0.8956066457243707,0.02828928,0.0649999,0.32728769,0.5692525500000001,0.01017058,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,Radical right,1008.8,0.1638000594766059,0.815,0.01936546,0.14443458,0.32666584,0.48662619,0.02290874,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,Debout la France,86.14185,0.10178952506824498,0.8766093368089958,0.0149999,0.08627472999999998,0.43557922,0.44154502000000007,0.02160113,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,Reconquete,205.4045,0.13485921681365307,0.845,0.01106985,0.12378935,0.25572921,0.58682015,0.022591699999999996,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,RN,717.2537,0.17953535827002357,0.7973088183441926,0.02220359,0.15733178,0.335,0.46230805,0.02315658,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Political similarity,No preference,1860.95,0.10225927617614658,0.8624122088180768,0.007810619999999999,0.09444863999999999,0.3590709,0.50334211,0.03532856,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Total-left,1649.278,0.15413399075231707,0.8385063039705859,0.03408905,0.12004495000000001,0.37145023000000005,0.46705594999999994,0.00736001,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Very Left,217.9165,0.2032137997811088,0.795,0.07055776,0.13265599,0.295,0.49847327000000013,0.00331298,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Left,1431.362,0.146661850740763,0.8449998999999999,0.02853688,0.11812497,0.38314459,0.46221731,0.00797615,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Center,776.1196,0.150473844495101,0.845,0.02165271,0.12882118,0.3569236,0.48760261,0.0049999,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Total-right,1622.94,0.14499990000000001,0.8355453682822531,0.02354178,0.12447145,0.325,0.51054599,0.01644078,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Right,1193.119,0.14008963062360083,0.8495615273916517,0.024714939999999998,0.11537466,0.33403986,0.51552125,0.01034818,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Very Right,429.8207,0.17000800566375698,0.7966391567460571,0.02028526,0.14972276,0.29814967,0.49848879000000007,0.03335295,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Both left and Right,200.4265,0.13437369808882557,0.846663989043365,0.01143349,0.12294018,0.305,0.5416636100000001,0.01896272,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Politics,Neither left nor right,1673.316,0.1249999,0.8268019907775936,0.01410607,0.11415184,0.36174209000000007,0.465,0.045,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Loss of job risk,High risk,556.2398,0.2149999,0.765,0.06213099,0.15405954,0.3889523700000001,0.375,0.0198571,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Loss of job risk,Low risk,1874.312,0.20381953484798693,0.7799912714638758,0.03785925,0.1649999,0.37766535,0.40328602,0.01618948,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+Loss of job risk,Zero risk,3478.817,0.10088581836871557,0.8754438649690398,0.00909183,0.09179399,0.33044326999999996,0.545,0.02367091,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Arthaud,24.07418,0.3646241741151724,0.6095513948969394,0.29499990000000004,0.06936718,0.40388475,0.20592402,0.02582415,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Poutou,32.85668,0.295,0.6934267247938624,0.09689759,0.19584354999999998,0.23114983,0.46227677,0.01383216,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Roussel,98.04205,0.12033326516530407,0.8285762078618306,0.03420672,0.08612657,0.36122929,0.46734651,0.05109059999999999,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Melenchon,942.3053,0.165,0.8222834998381098,0.02705601,0.13758598,0.37997738,0.44230569,0.01307458,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Hidalgo,75.31895,0.10289354803804354,0.895,0.01473291,0.08816064,0.38500842,0.50832559,0.0037727800000000003,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Jadot,198.8808,0.14499990000000001,0.845640202573602,0.0249999,0.12011481,0.33762862,0.50804603,0.00921064,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Macron,1195.294,0.135,0.8543421116478456,0.02770789,0.10690734000000002,0.32302329,0.53132033,0.01104256,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Pecresse,205.1207,0.058234005636681234,0.9381183859064444,0.0064626,0.05177142,0.29311851999999994,0.645,0.0036474599999999995,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Dupont-Aignan,88.56025,0.14671977552005555,0.8249998999999999,0.01899273,0.12772706,0.40379154,0.42438905,0.02509957,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Zemmour,303.4525,0.15150941251101901,0.8175602441897826,0.00749309,0.14401631,0.30742986,0.51013058,0.03093019,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Le Pen,993.0248,0.1795730579941206,0.8098691996413382,0.0228395,0.15673355,0.33301313,0.47685587,0.010557969999999998,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Lassalle,134.5409,0.09743899438758029,0.8944120338127662,0,0.09743899,0.33251397999999993,0.56189776,0.00814875,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Blank/Null/NA,96.61228,0.13395760870150256,0.8274254577161413,0.00973376,0.12422385999999999,0.34142026,0.48600530000000003,0.03861654,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Blank,63.86856,0.125,0.8391117632838442,0.00859731,0.11635611,0.35221054,0.4878361400000001,0.0349999,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+1st round vote,Null,19.09123,0.11001323644416834,0.8713901618701362,0.00913898,0.10087422,0.32991006999999994,0.54148004,0.01859715,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+2nd round vote,Macron,2287.563,0.14522218623049943,0.8432847532505116,0.027632779999999996,0.11758942,0.33499989999999996,0.5082838799999999,0.01149402,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+2nd round vote,Le Pen,1619.66,0.17689298988676636,0.8049999,0.02676196,0.1501312,0.33422971000000007,0.47375418,0.015122670000000001,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"
+2nd round vote,Blank/Null/NA,370.4173,0.09225651717670853,0.885,0.0107307,0.08152583999999999,0.3551610599999999,0.52965831,0.02292432,"q25_i16. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans chacune des organisations suivantes... ?
+- Les réseaux sociaux (Facebook, Twitter, etc.)"

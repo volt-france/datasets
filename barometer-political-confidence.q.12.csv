@@ -1,0 +1,62 @@
+Indicator,Category,BASE,ST A toute ou presque,A toutes les élections,A presque toutes les élections,Rarement,Jamais,No rep.,Question
+Total,Total,5979.002,0.8649998999999999,0.41443271,0.45086387000000006,0.10512273999999999,0.02520912,0.00437099,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Gender,Man,2929.637,0.8831551485730144,0.45279193,0.43036492,0.09551241,0.020311760000000005,0.0010206,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Gender,Woman,3049.36,0.8481396096230028,0.37757989,0.47055971999999996,0.11435583000000002,0.029914240000000005,0.00758985,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Age,18-24,478.2759,0.7896199662161527,0.39706353,0.39309215,0.14624226,0.05860216000000001,0.0049999,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Age,25-34,836.9062,0.8613426450897366,0.39994721,0.46139554999999993,0.10147393000000002,0.02807276,0.00911036,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Age,35-49,1494.556,0.8195504216636914,0.3576843599999999,0.46202371999999997,0.14947075,0.02582127,0.0049999,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Age,50-64,1554.412,0.8849999,0.41442597,0.47081970999999995,0.08674007,0.027371150000000004,0.00064438,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Age,65+,1614.848,0.9128989229946101,0.47919929000000006,0.43312794999999993,0.07148549,0.011187269999999997,0.005,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Socio-Professional Category,Total-CSP+,1734.019,0.8902670616642608,0.41144716,0.47881978,0.08853219,0.01987472,0.0013263600000000002,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Socio-Professional Category,Small Business owners,212.9949,0.7801811217076089,0.32376724,0.45641389,0.13839125,0.08142791,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.9444064165005859,0.47135955,0.47178729,0.055,0.0018531599999999997,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Socio-Professional Category,Prof Intermed,896.9079,0.8809403953293309,0.39475023000000004,0.48618927,0.09923251,0.01785167,0.00197514,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Socio-Professional Category,Total-CSP-,1674.09,0.8311022704872498,0.39028708,0.44052253,0.14062697,0.02356342,0.005,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Socio-Professional Category,Salaried,956.6466,0.8101286305726692,0.36579139999999993,0.44433702,0.14287397,0.04123496,0.00576203,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Socio-Professional Category,Blue collar,717.4432,0.8590673101368861,0.42295083,0.43611675,0.13763094,0,0.00330192,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,Far left,187.3446,0.8178148716322754,0.35230927,0.46550585999999994,0.17188817,0.00408715,0.00620992,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,Radical left,828.7407,0.8755802629218042,0.38916998,0.4864111300000001,0.10186286,0.01194299,0.01061394,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,Left,1430.296,0.8949999,0.45499989999999996,0.4423431200000001,0.06670633,0.02764364,0.00830701,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,PC/LFI,641.3963,0.8924529187337066,0.3999362,0.49175427999999993,0.08140922999999999,0.015,0.01190029,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,PS,449.3176,0.9249999,0.5414143800000001,0.38310117,0.045,0.02167804,0.00880641,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,EELV,339.583,0.8690923868391527,0.44611951,0.42297288000000005,0.06919007,0.06085796,0.00085929,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,EM,672.9198,0.9466615486719219,0.52166137,0.425,0.049803629999999995,0.0013545299999999998,0.00218047,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,MoDem,161.1257,0.99477054250191,0.54328949,0.4514808,0.005229589999999999,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,Right,573.0042,0.9563723965723114,0.535,0.42137242999999996,0.020505290000000002,0.02164115,0.00148113,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,UDI/PR,89.32552,0.960607450144147,0.48204265,0.47856502999999995,0.03939255,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,LR,397.5368,0.9644065656311566,0.5501064499999999,0.41303849,0.015,0.01972018,0.00213488,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,Radical right,1008.8,0.9385363798572561,0.51518864,0.42334804,0.04530971,0.01292752,0.00322656,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,Debout la France,86.14185,0.915,0.5078874,0.40701690999999995,0.03214833,0.0529472,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,Reconquete,205.4045,0.9834570323434977,0.51845735,0.46499989999999997,0.0099637,0,0.006579050000000001,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,RN,717.2537,0.9285103722713455,0.51535043,0.41316022,0.05701264,0.01182331,0.00265399,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Political similarity,No preference,1860.95,0.7429667642870577,0.2549999,0.48796642,0.20546554,0.04762558,0.00394256,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Total-left,1649.278,0.8949999,0.43397505,0.46170075999999993,0.08010099000000001,0.01718189,0.00704169,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Very Left,217.9165,0.8399639311387618,0.4029264,0.43703772,0.14457808,0.01545821,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Left,1431.362,0.9041570196777614,0.43915737000000016,0.46499989999999997,0.07028467,0.01744431,0.00811375,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Center,776.1196,0.955,0.46725286,0.48773531999999997,0.0349999,0.00812138,0.00189054,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Total-right,1622.94,0.945,0.51910035,0.425,0.03972891,0.01225518,0.00391556,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Right,1193.119,0.945,0.48656396,0.4578747,0.03966979,0.01306762,0.00282275,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Very Right,429.8207,0.9431579260840626,0.6094297,0.33372775999999993,0.03989303,0.00999996,0.006949030000000001,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Both left and Right,200.4265,0.8798831491843643,0.40297495999999994,0.47690874,0.1201167,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Politics,Neither left nor right,1673.316,0.7209271888872155,0.27368566,0.44724212,0.22044442999999997,0.05509744,0.00353125,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Loss of job risk,High risk,556.2398,0.7812700565475539,0.39238994,0.38887994,0.15995702,0.04865001000000001,0.01012297,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Loss of job risk,Low risk,1874.312,0.8568002552403229,0.36180024000000005,0.495,0.11702369,0.02418079,0.00199528,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+Loss of job risk,Zero risk,3478.817,0.8852983643577688,0.44844497,0.43685454,0.08759207999999999,0.02251972,0.00458998,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Arthaud,24.07418,0.9467196805872516,0.415,0.53171981,0.05328019,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Poutou,32.85668,0.8059426576270031,0.2477996,0.55814312,0.17075283,0.0233044,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Roussel,98.04205,0.9604489094220285,0.5401057,0.42034301,0.03518803,0.00436301,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Melenchon,942.3053,0.945,0.435,0.5097662000000001,0.051060390000000004,0.0017516400000000003,0.00242177,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Hidalgo,75.31895,0.9821148595406601,0.6249998999999999,0.35711502999999994,0.01788507,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Jadot,198.8808,0.9694093145240767,0.55519738,0.41421248,0.02912319,0,0.00146721,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Macron,1195.294,0.9759122023535631,0.55619387,0.4197195,0.01781002,0.00171017,0.00456742,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Pecresse,205.1207,0.9916956211635394,0.58977763,0.4019179,0.00830416,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Dupont-Aignan,88.56025,0.9920629176182316,0.42134231,0.57072061,0.00793707,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Zemmour,303.4525,0.9703103451116732,0.53008955,0.44022079,0.02968991,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Le Pen,993.0248,0.9675124931421653,0.5424357,0.4250764899999999,0.026282350000000003,0.0032560899999999997,0.00294912,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Lassalle,134.5409,0.9421595960782186,0.40781547000000007,0.53434428,0.05783987,0,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Blank/Null/NA,96.61228,0.9114462467918157,0.35419524,0.5572508,0.06845581,0.014841489999999999,0.00525636,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Blank,63.86856,0.9465156252152859,0.33776195999999997,0.60886429,0.04837385,0,0.0049999,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+1st round vote,Null,19.09123,0.785,0.3173202,0.46714620999999995,0.14053369,0.07499990000000001,0,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+2nd round vote,Macron,2287.563,0.9649998999999999,0.52355991,0.44110217,0.029505549999999995,0.00083237,0.005,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+2nd round vote,Le Pen,1619.66,0.9595044638998307,0.52223559,0.43726733000000007,0.03695795,0.00236273,0.0011753,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté
+2nd round vote,Blank/Null/NA,370.4173,0.965,0.47606307999999997,0.48728684,0.02784973,0.0049999,0.00380045,q22v13b. Diriez-vous depuis que vous êtes en âge de voter vous avez voté

@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.6672561741909435,0.3127215879840816,0.13704938,0.53020638,0.23275958,0.07996212,0.020021199999999996,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Gender,Man,2929.637,0.692459168149501,0.295,0.15426621,0.53823875,0.21629147,0.07620367,0.0149999,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Gender,Woman,3049.36,0.6430447700501088,0.3321549439882467,0.12050909,0.52233583,0.24858190000000002,0.08357318,0.025,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Age,18-24,478.2759,0.6786223182058724,0.30326616917139254,0.17797363000000002,0.50092456,0.22799037,0.07499990000000001,0.01811154,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Age,25-34,836.9062,0.6049998999999999,0.3660426939124121,0.14484753,0.46150883000000004,0.27040199,0.09564086,0.02760075,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Age,35-49,1494.556,0.6266952860916554,0.3503688051836131,0.095,0.53169592,0.26618755,0.08418126,0.02293527,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Age,50-64,1554.412,0.6649999,0.31674716870430747,0.13020994,0.5349999,0.24161952,0.07570412,0.01746652,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Age,65+,1614.848,0.735,0.2449999,0.16678827,0.5683725700000001,0.1749999,0.07341849,0.01642077,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Socio-Professional Category,Total-CSP+,1734.019,0.6560129963973866,0.33067007916291574,0.13233275,0.525,0.24046399000000013,0.08888697,0.01331629,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Socio-Professional Category,Small Business owners,212.9949,0.615092661843077,0.3804501891829335,0.1393855,0.47570715999999996,0.22031434000000003,0.16013581,0.00445768,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.7026613001275521,0.29028060943343126,0.13757925,0.5649999,0.22141518999999996,0.06894745,0.00705821,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Socio-Professional Category,Prof Intermed,896.9079,0.6349999,0.34985420465133593,0.12302657,0.5121191300000001,0.26273868,0.08711562,0.015,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Socio-Professional Category,Total-CSP-,1674.09,0.6266497022262841,0.34965109402720285,0.12691594,0.49973377,0.28163892,0.06801211,0.02369931,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Socio-Professional Category,Salaried,956.6466,0.6281978109784742,0.33932906885363934,0.09157924000000002,0.53661864,0.27147674,0.06785226,0.03247244,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Socio-Professional Category,Blue collar,717.4432,0.6245849148754912,0.365,0.17403399,0.45055079,0.29518908,0.06822529,0.01200113,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,Far left,187.3446,0.6358581992755595,0.3437950173103468,0.18134422,0.455,0.31224937,0.031059480000000004,0.02034693,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,Radical left,828.7407,0.6323934615495534,0.34674838583407336,0.13398184,0.49841175,0.27615574,0.07059256,0.020858819999999997,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,Left,1430.296,0.6861548938121899,0.2994029207940175,0.13891125,0.54724358,0.23704184000000003,0.06236098,0.0144433,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,PC/LFI,641.3963,0.6313810977705984,0.3476108296851728,0.12014778,0.51123354,0.26547113,0.0821397,0.02100832,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,PS,449.3176,0.7211340040986598,0.2708623031904381,0.16885085,0.55228328,0.23619974,0.03466254,0.00800386,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,EELV,339.583,0.745,0.2449999,0.135,0.60832493,0.18445915,0.06165223,0.01056369,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,EM,672.9198,0.830213793679425,0.16141299453515856,0.25905256,0.57116063,0.13261943,0.02879355,0.00837355,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,MoDem,161.1257,0.8375144374857643,0.15037296967522873,0.16994105,0.66757321,0.11363444999999998,0.03673859,0.01211261,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,Right,573.0042,0.781956048489697,0.21105953499119207,0.21499990000000002,0.5669556400000001,0.14317017,0.06788933,0.00698496,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,UDI/PR,89.32552,0.835,0.1649999,0.28826824999999995,0.545,0.07333227,0.09339948,0,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,LR,397.5368,0.7883785853284525,0.20155354170984924,0.22074998,0.56762896,0.13468127,0.06687225,0.010068030000000002,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,Radical right,1008.8,0.658698354480571,0.3349999,0.12765702,0.53104173,0.24419052000000002,0.09140342,0.00570781,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,Debout la France,86.14185,0.6991052548790164,0.3008946290333908,0.11653581000000002,0.58256945,0.25476479,0.04612991999999999,0,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,Reconquete,205.4045,0.6880842435292313,0.30633496345016786,0.10040194,0.5882631400000001,0.18914327999999997,0.11719174,0.0049999,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,RN,717.2537,0.6454306195980586,0.3481404139149091,0.1367979,0.51006185,0.25868476,0.08945559,0.0049999,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Political similarity,No preference,1860.95,0.5671307665439694,0.39799403530454874,0.07051307,0.49661743,0.28663258,0.11136183,0.03487581,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Total-left,1649.278,0.6605102353878485,0.32275862528936905,0.12804027,0.53247003,0.24926592,0.07349283,0.0167313,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Very Left,217.9165,0.6115333166602804,0.38391732613179813,0.21301783000000002,0.39806494000000003,0.26041456,0.12350267,0.005,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Left,1431.362,0.6649999,0.315,0.1149999,0.5529667100000001,0.24756847,0.06587906,0.01858586,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Center,776.1196,0.8119807823433399,0.17795775290303195,0.1949999,0.6169812,0.13794858,0.040009090000000004,0.01006123,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Total-right,1622.94,0.7293220944705288,0.25867857098845304,0.1797234,0.54959826,0.17885806,0.07982051,0.01199887,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Right,1193.119,0.7599825331756515,0.2256652521667998,0.18397518999999998,0.57600776,0.16053695999999998,0.0651283,0.014350859999999998,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Very Right,429.8207,0.645,0.3503188655176449,0.16792109,0.47675996000000004,0.22971505999999997,0.12060399,0.0049999,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Both left and Right,200.4265,0.7498813779614971,0.2398333054760723,0.11329435,0.63658748,0.19513438000000002,0.04469898,0.01028532,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Politics,Neither left nor right,1673.316,0.542424742248326,0.42136046030755697,0.08206053,0.46036421,0.31073981,0.11062083,0.0362154,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Loss of job risk,High risk,556.2398,0.5581869546192129,0.4282994492663057,0.10939271,0.44879403000000007,0.2619097,0.16638968,0.01351373,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Loss of job risk,Low risk,1874.312,0.636318819918989,0.3501117209941568,0.11243703999999999,0.525,0.26897636999999996,0.08001656,0.01357003,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+Loss of job risk,Zero risk,3478.817,0.7008761886583859,0.2763184726302073,0.15497199,0.54590483,0.20860429999999996,0.0677142,0.02280632,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Arthaud,24.07418,0.6633658965746705,0.3163501311363461,0.19413592,0.4692301,0.28975679,0.02659334,0.02028383,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Poutou,32.85668,0.7249998999999999,0.265,0.20440641,0.5249999,0.2378226100000001,0.02537214,0.00739894,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Roussel,98.04205,0.663282132513549,0.2977744753399179,0.09487553,0.56840662,0.26804325,0.02973128,0.03894309,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Melenchon,942.3053,0.6572604441469235,0.3232438573782828,0.12823477,0.53035938,0.25691047,0.0649999,0.01949548,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Hidalgo,75.31895,0.7549999,0.2372149372767411,0.15231359,0.60499157,0.23055247,0.00666247,0.00548021,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Jadot,198.8808,0.7791993998415132,0.2049999,0.19916885,0.58003085,0.17126711,0.03410568,0.01542786,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Macron,1195.294,0.8391642558232535,0.14499990000000001,0.22796852,0.61119658,0.11353524999999999,0.0317075,0.01559278,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Pecresse,205.1207,0.810943020377758,0.175,0.21978016,0.59116267,0.12570877,0.0484692,0.01487871,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Dupont-Aignan,88.56025,0.7004659539691905,0.2995340460308096,0.17894281,0.52152314,0.26090001,0.03863405,0,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Zemmour,303.4525,0.6491038959969023,0.34500424283866504,0.10627433,0.54372153,0.25681716,0.08818707999999999,0.0049999,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Le Pen,993.0248,0.6791470867595653,0.3095168418754496,0.1233651,0.5557828,0.21295722000000003,0.09655959,0.01133552,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Lassalle,134.5409,0.7911824582710536,0.20058918886375815,0.19173269999999998,0.59945006,0.17009014,0.030499129999999996,0.00822755,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Blank/Null/NA,96.61228,0.6112043934787587,0.35815923193200705,0.12454814000000002,0.48665635,0.23616791,0.12199132000000001,0.03063618,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Blank,63.86856,0.6361436675572456,0.3436348024755842,0.11688991,0.51925345,0.23236644000000004,0.11126849,0.02022142,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+1st round vote,Null,19.09123,0.5471795164586043,0.40065695086173075,0.14156563,0.40561394,0.17649837,0.22415858,0.0521638,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+2nd round vote,Macron,2287.563,0.7985117786919966,0.18841636274061085,0.21339347,0.58511875,0.15057198,0.03784428,0.01307377,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+2nd round vote,Le Pen,1619.66,0.6633441586505809,0.32227448970771644,0.12242008,0.5403052500000002,0.23097057,0.0913041,0.015,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"
+2nd round vote,Blank/Null/NA,370.4173,0.7049322480348514,0.275,0.10356568,0.60136662,0.21790197,0.05670121,0.02046489,"q14_i1. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les personnalités politiques suivantes :
+- Le ou la maire de votre commune"

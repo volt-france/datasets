@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Ni d'accord ni pas d'accord,Pas vraiment d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.6575826534261069,0.08025601931559816,0.28217703,0.3757140900000001,0.2249999,0.06196357,0.01829242,0.03685299,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Gender,Man,2929.637,0.675,0.0847610813216791,0.2952261,0.37605273,0.21490509,0.06104982,0.02371127,0.02905732,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Gender,Woman,3049.36,0.645,0.07499990000000001,0.26942633,0.375,0.23530305,0.06284161,0.01308636,0.04434265,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Age,18-24,478.2759,0.6293486667423552,0.06406367119898787,0.27290252,0.35713124000000007,0.2674034,0.048378670000000006,0.0149999,0.03918427,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Age,25-34,836.9062,0.6612628750987865,0.08514593391708652,0.28664813,0.37461474000000006,0.2207852,0.06984989,0.01529603,0.03280592,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Age,35-49,1494.556,0.6572364635383351,0.07499990000000001,0.29004534,0.3674093199999999,0.22668605,0.05992084,0.0149999,0.04093855,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Age,50-64,1554.412,0.6798409945368409,0.07802590304243663,0.29917718,0.38066394,0.21316479,0.05851142,0.01951444,0.02896969,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Age,65+,1614.848,0.6429341956642359,0.08940061231769182,0.2589614,0.38397304,0.22559876,0.06711362,0.022286999999999998,0.0420671,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Socio-Professional Category,Total-CSP+,1734.019,0.6687216230041308,0.09144340402267796,0.26612857,0.40259316999999994,0.21634509,0.06834395,0.023099399999999996,0.02348989,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Socio-Professional Category,Small Business owners,212.9949,0.6346518156068526,0.13092895651492126,0.32377527000000006,0.31029273,0.195,0.09178027,0.03914867,0.04000306,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.6358424027610239,0.09979449858943552,0.24704587999999997,0.38879686,0.23423967,0.08205388,0.01774058,0.03012328,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Socio-Professional Category,Prof Intermed,896.9079,0.7032036399723984,0.07791097614370437,0.26296078,0.43962010000000007,0.20956823,0.055,0.02353453,0.00931636,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Socio-Professional Category,Total-CSP-,1674.09,0.6795913003482489,0.061732105203423954,0.30811898,0.3708662,0.22428274000000004,0.05192956,0.00980252,0.035,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Socio-Professional Category,Salaried,956.6466,0.6795711185300821,0.05776946262078389,0.31797186,0.36159947,0.22110004,0.0500323,0.00773716,0.04155857,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Socio-Professional Category,Blue collar,717.4432,0.6796177035338825,0.0649999,0.295,0.38445785,0.22852624,0.054459419999999994,0.01255649,0.025,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,Far left,187.3446,0.7511713708321457,0.07519602913561425,0.38820526,0.36296621,0.16311103,0.06702515,0.00817088,0.01052188,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,Radical left,828.7407,0.7117168252989144,0.06414803810166438,0.35026046,0.3615740799999999,0.19825212,0.04903015,0.0149999,0.02588329,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,Left,1430.296,0.6899957071822895,0.0765173782210116,0.28589663,0.40409872999999996,0.21192082,0.06144104000000001,0.01507633,0.02156693,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,PC/LFI,641.3963,0.7001923771621383,0.060921024957580824,0.33917689,0.36101596,0.20851648,0.043774,0.01714704,0.03037019,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,PS,449.3176,0.6949998999999999,0.10529249243742066,0.22059352000000002,0.4749999,0.18825896999999997,0.08669250999999999,0.01860001,0.010855089999999998,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,EELV,339.583,0.6633267860876427,0.06790154395243578,0.27301835,0.3903087,0.24965823,0.06139866,0.00650286,0.01911283,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,EM,672.9198,0.4966660217161094,0.18430977956065492,0.11843679,0.37904683,0.303144,0.1549999,0.028493009999999996,0.01587947,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,MoDem,161.1257,0.5399849930830402,0.12564736724184908,0.12168033999999998,0.41994149999999986,0.28499990000000003,0.0979776,0.02766974,0.04773092,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,Right,573.0042,0.6729158355209264,0.09054150039388892,0.2649999,0.40791554999999996,0.20915291999999996,0.0704273,0.0201142,0.02739013,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,UDI/PR,89.32552,0.6422460233089043,0.0925707233498333,0.186559,0.45499989999999996,0.20887259999999994,0.0849999,0.00647218,0.05809642,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,LR,397.5368,0.6751181274287059,0.09268865171727497,0.245,0.4301173400000001,0.21202071999999997,0.06823177,0.02445687,0.0201733,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,Radical right,1008.8,0.7195419310071373,0.0472218080888184,0.37251075,0.34793378,0.2049999,0.03726065,0.00996116,0.02733376,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,Debout la France,86.14185,0.695,0.07499990000000001,0.44777758999999995,0.24677947,0.19806052,0.06430897,0.01421934,0.02885409,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,Reconquete,205.4045,0.794838477248551,0.05841381274509565,0.43983826000000004,0.3549999,0.13726179,0.04760407,0.01080972,0.00948626,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,RN,717.2537,0.7009800019156402,0.04025678780046726,0.34299677,0.35798296,0.22650159,0.03105005,0.00920675,0.03226227,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Political similarity,No preference,1860.95,0.6568870738063892,0.054999900000000004,0.30169053,0.35519643,0.22770037,0.03334051,0.02272752,0.059345499999999995,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Total-left,1649.278,0.6875329689718773,0.08858203407794198,0.30787999,0.37965298,0.20207594,0.07185465,0.01672736,0.021809209999999996,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Very Left,217.9165,0.7448820993362136,0.08839440794983398,0.46085303,0.28335376,0.16022252,0.065,0.02406904,0.00650165,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Left,1431.362,0.6788020780207942,0.08861056811624173,0.28500000000000003,0.39380210000000015,0.20844769,0.07300089,0.01560963,0.02413969,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Center,776.1196,0.6331283219751183,0.11757878553769291,0.17810540999999996,0.45499989999999996,0.23626838000000006,0.09218003,0.02539878,0.013047500000000002,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Total-right,1622.94,0.6911235165810197,0.07333813942598001,0.3049999,0.38612447000000005,0.20959315,0.06176045,0.01157769,0.025944340000000003,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Right,1193.119,0.6696170289803449,0.08319175203814541,0.28086528,0.38875234,0.21972385,0.07134157,0.01185018,0.02746592,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Very Right,429.8207,0.7508209818652288,0.045986012306992195,0.37400572,0.37681526,0.18147188,0.03516471,0.01082129,0.02172067,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Both left and Right,200.4265,0.6349999,0.085,0.32204843,0.31363208,0.25881153,0.05532123,0.02940604,0.020781209999999998,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Politics,Neither left nor right,1673.316,0.6175563969985346,0.05897088177009004,0.28130616,0.33625042,0.26062364,0.03854767,0.02042322,0.06285005,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Loss of job risk,High risk,556.2398,0.7043492752586206,0.08024344895852473,0.43365901,0.27069027,0.18904813999999998,0.05897491,0.021268559999999995,0.02635894,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Loss of job risk,Low risk,1874.312,0.6934592533153499,0.06956136438330439,0.26845928,0.4249999,0.21661041,0.05292294,0.01663842,0.02036905,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+Loss of job risk,Zero risk,3478.817,0.635,0.08719038684702299,0.26644512,0.3681605,0.23432641,0.06811655,0.01907385,0.04387937,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Arthaud,24.07418,0.5961465769550615,0.160600194897604,0.38711503,0.20903138,0.1987828,0.12263475,0.03796547,0.04447047,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Poutou,32.85668,0.7003960838404855,0.05897866126461956,0.32697978,0.3734163,0.23322639,0.04607511000000001,0.012903559999999998,0.00739894,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Roussel,98.04205,0.7479078619837101,0.08122469899395209,0.315,0.43290797000000003,0.15014751,0.07238863,0.00883607,0.020719819999999996,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Melenchon,942.3053,0.7203993228097093,0.0649999,0.32060543,0.39979378,0.19613473,0.05314417,0.01451527,0.01580608,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Hidalgo,75.31895,0.6149998999999999,0.12729169750773212,0.16442368999999998,0.45168367,0.22671332999999996,0.11722464,0.01006705,0.029887999999999998,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Jadot,198.8808,0.6567662640134191,0.054230624575122385,0.22228295,0.435,0.2519412399999999,0.05007058000000001,0.00416003,0.0365452,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Macron,1195.294,0.5549999,0.1252716904794971,0.14499990000000001,0.41245473000000005,0.28823001,0.10518701,0.02008464,0.02904371,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Pecresse,205.1207,0.6494015474791184,0.10863189331939682,0.2093777,0.44002361,0.22828881,0.09641952,0.01221234,0.01367758,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Dupont-Aignan,88.56025,0.7304569488003929,0.07395567424437037,0.45881205,0.2716449,0.17507121,0.05419731,0.01975837,0.02051616,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Zemmour,303.4525,0.7938006772064821,0.037996556297937904,0.41889357,0.37490711,0.1569038,0.0305156,0.00748093,0.01129918,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Le Pen,993.0248,0.7326320551108089,0.055534554625423255,0.34886591000000006,0.38376625,0.18708566,0.03870547,0.01682909,0.02474739,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Lassalle,134.5409,0.7521526911147466,0.025165447830362366,0.28355942,0.46859334,0.20479007,0.01845877,0.00670668,0.01789121,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Blank/Null/NA,96.61228,0.6121843931226962,0.05843459030259922,0.24426719,0.3679172,0.27054232,0.03509361,0.02334098,0.058838510000000004,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Blank,63.86856,0.665,0.023197250728684036,0.26656825,0.39880212000000004,0.26982587,0.00666465,0.0149999,0.04313921,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+1st round vote,Null,19.09123,0.48869962804910944,0.15986576035174266,0.21898736,0.26971227,0.34347761,0.09705619,0.06280957,0.00795733,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+2nd round vote,Macron,2287.563,0.6049044332330956,0.10355596763892404,0.18063315,0.42427216,0.26586398,0.08910276999999998,0.014453220000000001,0.025676979999999995,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+2nd round vote,Le Pen,1619.66,0.7425842460763369,0.055,0.38333321,0.35916618,0.18380191,0.03769508,0.015,0.02100362,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"
+2nd round vote,Blank/Null/NA,370.4173,0.7092716781856571,0.046226998577010306,0.32173065,0.38697967000000005,0.20404168,0.03178804,0.015,0.04045996000000001,"pop1_i2. Pour chacune des phrases suivantes, dans quelle mesure êtes-vous d'accord ou non avec les propositions suivantes ?
+- Les différences politiques entre les citoyens ordinaires et les élites sont plus grandes que les différences entre citoyens"

@@ -1,0 +1,62 @@
+Indicator,Category,BASE,Oui,"Non, je me suis abstenu(e)",No rep.,Question
+Total,Total,5979.002,0.7329154600000001,0.26208454,0.005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Gender,Man,2929.637,0.77733214,0.21904675999999998,0.00362151,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Gender,Woman,3049.36,0.69156672,0.30343328,0.005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Age,18-24,478.2759,0.7149999,0.2784664300000001,0.00653367,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Age,25-34,836.9062,0.7167800900000001,0.28060851,0.00261118,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Age,35-49,1494.556,0.695,0.30329823,0.00170177,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Age,50-64,1554.412,0.71429132,0.28043672,0.00527278,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Age,65+,1614.848,0.8038148199999999,0.19118518,0.005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Socio-Professional Category,Total-CSP+,1734.019,0.7798732299999999,0.21799807,0.00212814,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Socio-Professional Category,Small Business owners,212.9949,0.64793455,0.34499989999999997,0.00706555,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.905,0.09375905999999994,0.00124094,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Socio-Professional Category,Prof Intermed,896.9079,0.73631395,0.26368527,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Socio-Professional Category,Total-CSP-,1674.09,0.685,0.31168629,0.0033137100000000005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Socio-Professional Category,Salaried,956.6466,0.67253651,0.32246349,0.005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Socio-Professional Category,Blue collar,717.4432,0.6993125000000001,0.29858949,0.0020985,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,Far left,187.3446,0.71912828,0.27719961,0.00367259,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,Radical left,828.7407,0.79869831,0.19677542,0.00452651,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,Left,1430.296,0.79814108,0.19894931,0.0029105,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,PC/LFI,641.3963,0.82171571,0.17328429,0.005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,PS,449.3176,0.7942074799999999,0.20579236,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,EELV,339.583,0.75839162,0.23836985,0.00323813,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,EM,672.9198,0.86830704,0.12752885,0.00416452,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,MoDem,161.1257,0.9304814299999999,0.06451857,0.005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,Right,573.0042,0.8049999,0.18939130000000004,0.0056088,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,UDI/PR,89.32552,0.8896949,0.11030514000000001,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,LR,397.5368,0.77113364,0.22078205,0.00808445,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,Radical right,1008.8,0.8554664899999999,0.13969598,0.00483756,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,Debout la France,86.14185,0.87502834,0.12497143,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,Reconquete,205.4045,0.9217728899999998,0.06759336,0.010633569999999998,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,RN,717.2537,0.835,0.16124129999999995,0.0037587,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Political similarity,No preference,1860.95,0.54655955,0.45144222,0.00199877,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Total-left,1649.278,0.7616092000000001,0.235,0.0033908,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Very Left,217.9165,0.7749999,0.21837694999999996,0.00662315,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Left,1431.362,0.76079706,0.23630381,0.0028986899999999998,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Center,776.1196,0.8429861900000001,0.155,0.00201381,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Total-right,1622.94,0.8418444300000001,0.15282296,0.00533227,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Right,1193.119,0.82227993,0.17272006999999998,0.005,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Very Right,429.8207,0.89394601,0.09759143999999999,0.00846275,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Both left and Right,200.4265,0.76584084,0.23072628000000003,0.0034328799999999997,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Politics,Neither left nor right,1673.316,0.54902075,0.44751379999999996,0.0034659200000000004,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Loss of job risk,High risk,556.2398,0.71969553,0.2753433,0.00496141,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Loss of job risk,Low risk,1874.312,0.6976351899999998,0.30021661,0.00214838,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+Loss of job risk,Zero risk,3478.817,0.75808615,0.23745653,0.00445854,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Arthaud,24.07418,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Poutou,32.85668,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Roussel,98.04205,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Melenchon,942.3053,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Hidalgo,75.31895,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Jadot,198.8808,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Macron,1195.294,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Pecresse,205.1207,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Dupont-Aignan,88.56025,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Zemmour,303.4525,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Le Pen,993.0248,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Lassalle,134.5409,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Blank/Null/NA,96.61228,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Blank,63.86856,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+1st round vote,Null,19.09123,1,0,0,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+2nd round vote,Macron,2287.563,0.93141304,0.06633548,0.00225199,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+2nd round vote,Le Pen,1619.66,0.93062803,0.0686696,0.00070251,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?
+2nd round vote,Blank/Null/NA,370.4173,0.93068115,0.06530842,0.00401052,v0t1. Avez-vous voté dimanche 10 avril lors du premier tour de l'élection présidentielle ?

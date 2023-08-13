@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST D'accord,ST Pas d'accord,Tout à fait d'accord,Plutôt d'accord,Plutôt pas d'accord,Pas du tout d'accord,No rep.,Question
+Total,Total,5979.002,0.6888525877730095,0.2582061354052064,0.31037488,0.37773759000000007,0.17394624999999997,0.085,0.05294128,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Gender,Man,2929.637,0.6649999,0.2898370002836529,0.31437659,0.35078624000000014,0.19325804,0.09657912999999999,0.045,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Gender,Woman,3049.36,0.7113955059422304,0.22781777159797464,0.30653088,0.4048643,0.15539343,0.07242457,0.06078633,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Age,18-24,478.2759,0.6819396503148079,0.2811038565815254,0.28700505,0.39493439,0.22352412,0.05757965,0.03695672,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Age,25-34,836.9062,0.7506401553722508,0.2065128684672189,0.34228985,0.40664378000000007,0.14321951,0.065,0.04284686,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Age,35-49,1494.556,0.7362748535350967,0.20330118108655681,0.33127550000000006,0.405,0.14889539,0.05440584,0.06042327,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Age,50-64,1554.412,0.6949508881815117,0.265,0.33069965000000007,0.36425156,0.16640780999999996,0.09692288999999998,0.04171934,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Age,65+,1614.848,0.6091177621670895,0.3240986148541535,0.26182068,0.34792557,0.2049999,0.11846942,0.06678443,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Socio-Professional Category,Total-CSP+,1734.019,0.693123893106131,0.28623019701629565,0.30238757,0.39073563,0.20878346999999997,0.07744667,0.02064662,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Socio-Professional Category,Small Business owners,212.9949,0.7481822334713178,0.24228486221970574,0.32525779,0.42292454,0.18050521,0.0617797,0.00953311,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.6657048281961047,0.2949999,0.28860807,0.37709693,0.20466205000000004,0.09365011,0.03598288,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Socio-Professional Category,Prof Intermed,896.9079,0.6968425632107823,0.28949271157049683,0.305,0.39184355000000004,0.21686887,0.07262387,0.01366371,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Socio-Professional Category,Total-CSP-,1674.09,0.7487775448153923,0.18729883100669617,0.34029657999999996,0.40815079,0.12262912999999999,0.065,0.0639235,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Socio-Professional Category,Salaried,956.6466,0.7507335519720657,0.17383368111066302,0.3348460100000001,0.41588723000000005,0.12358221000000001,0.05025142,0.07543241,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Socio-Professional Category,Blue collar,717.4432,0.7461698710086039,0.2049999,0.3475641,0.39860534999999997,0.12135818,0.08389527,0.04857742,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,Far left,187.3446,0.7149998999999999,0.25784004449554454,0.36068058999999997,0.3549046,0.19646059,0.06137946,0.02657524,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,Radical left,828.7407,0.7746575014356119,0.19064793125280322,0.40282681,0.37152538,0.13840095,0.052246860000000006,0.035,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,Left,1430.296,0.7149998999999999,0.245,0.31350287,0.40430044,0.17775943,0.06723584,0.03720189,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,PC/LFI,641.3963,0.7919114906026119,0.17102172245147035,0.4149999,0.37691181000000007,0.12144245,0.04957932,0.03706652,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,PS,449.3176,0.6464965983972139,0.3149999,0.20526981,0.44122687,0.22411563999999998,0.09169104000000002,0.03769714,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,EELV,339.583,0.6721767579649158,0.29102048689127546,0.2639992,0.40817768000000004,0.22279328,0.06822715,0.03680217,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,EM,672.9198,0.3568967654094886,0.6121408524463093,0.08243213,0.275,0.34901135999999994,0.26259429,0.030962219999999995,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,MoDem,161.1257,0.445,0.5049999,0.15741573,0.28595953,0.39404639,0.11184504,0.05073317,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,Right,573.0042,0.632217529993672,0.33957238009773755,0.23297159,0.39924594,0.23455989,0.10501246,0.02821051,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,UDI/PR,89.32552,0.47179786918676775,0.5055171243335611,0.10499990000000001,0.36679784,0.287762,0.21775502,0.02268524,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,LR,397.5368,0.6131377019687233,0.3605593243191573,0.17166866,0.44146907,0.25812478,0.10243452,0.02630355,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,Radical right,1008.8,0.9049999,0.0783876982553529,0.56179629,0.34453202,0.056280149999999994,0.02210754,0.015284179999999998,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,Debout la France,86.14185,0.8866180607915897,0.07064122723159533,0.6477029500000001,0.23891523,0.07064123,0,0.0427405,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,Reconquete,205.4045,0.9147837559547137,0.07017373037104833,0.6197839199999999,0.29499990000000004,0.04193631,0.028237440000000003,0.01504243,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,RN,717.2537,0.9062744465452043,0.08167032111510893,0.535,0.37127377000000006,0.05866312,0.0230072,0.01205591,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Political similarity,No preference,1860.95,0.7073070206077541,0.1949999,0.29048722,0.4168198,0.13497031,0.06040737,0.09731589,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Total-left,1649.278,0.7112421314053786,0.25071516142214956,0.32499989999999995,0.3862417400000001,0.18132449,0.06939067,0.0380432,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Very Left,217.9165,0.8549998999999999,0.115,0.4832404800000001,0.37285066,0.075,0.03630561,0.03260325,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Left,1431.362,0.689057135790946,0.272071146222968,0.3012428,0.38781419,0.19764343,0.07442764,0.03887139,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Center,776.1196,0.47787789407715,0.4880553203398033,0.13090637,0.34676742999999993,0.325,0.16325989,0.03406631,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Total-right,1622.94,0.7594236385818329,0.2177570335317387,0.375,0.3844237100000001,0.14128052,0.07647639,0.022819379999999997,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Right,1193.119,0.7001301630432506,0.27279466675159814,0.29333109,0.40679924,0.18060135,0.09219323,0.02707413,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Very Right,429.8207,0.925,0.064980513967801,0.59901064,0.325,0.03213168,0.03284884,0.01100884,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Both left and Right,200.4265,0.6552342130406907,0.3249999,0.26023382999999994,0.395,0.20294327,0.12342814,0.01839476,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Politics,Neither left nor right,1673.316,0.7049998999999999,0.195,0.32499989999999995,0.38111514,0.12810372,0.06644525,0.09933599,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Loss of job risk,High risk,556.2398,0.7990681357213203,0.1748153584119655,0.4667255,0.33234227,0.12188536,0.05292999999999999,0.02611656,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Loss of job risk,Low risk,1874.312,0.7449998999999999,0.21653908207384898,0.32499989999999995,0.42272359000000004,0.15967315,0.05686598999999999,0.03573737,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+Loss of job risk,Zero risk,3478.817,0.6397709336248502,0.2973372844849269,0.27700003,0.36277072999999993,0.19225694,0.10508043,0.06289356,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Arthaud,24.07418,0.8002174944276399,0.19978254711063886,0.41294798,0.38726942999999997,0.1618171,0.03796547,0,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Poutou,32.85668,0.7219195609538153,0.22069238279704465,0.29994683,0.42197294,0.22069238,0,0.057388,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Roussel,98.04205,0.6849999,0.2751199102833937,0.27280478,0.41063106000000005,0.225,0.05201276,0.0395514,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Melenchon,942.3053,0.7903564800070636,0.17233077220302168,0.36902583,0.42133065,0.12854135,0.04378946999999999,0.03731231,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Hidalgo,75.31895,0.5383534953686954,0.4031239150306795,0.14726613,0.39245315,0.29675799,0.10499990000000001,0.05852283,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Jadot,198.8808,0.60589659735882,0.3349999,0.21617265,0.39089584000000005,0.2549999,0.07972926,0.05820235000000001,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Macron,1195.294,0.40228027581498776,0.5479574062950202,0.0819055,0.32037474,0.35529015999999997,0.19266749000000002,0.04976346,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Pecresse,205.1207,0.5527092097482117,0.4091490522409489,0.1738297,0.37885628,0.28417259,0.125,0.03814143,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Dupont-Aignan,88.56025,0.842797304659822,0.15720269534017803,0.4901984200000001,0.35143238999999993,0.105,0.053369190000000004,0,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Zemmour,303.4525,0.9049999,0.0674957695191175,0.5649999,0.34086591000000005,0.02910809,0.03838766,0.026638440000000003,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Le Pen,993.0248,0.8981524932710643,0.08461389886737974,0.50949241,0.38865978,0.0615823,0.02303159,0.01723349,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Lassalle,134.5409,0.7163661013119431,0.2549999,0.2613665,0.455,0.19197664,0.06326483,0.02839203,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Blank/Null/NA,96.61228,0.685,0.2149999,0.24659277,0.43686516,0.1649999,0.05102049,0.10052168,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Blank,63.86856,0.7657191582211967,0.1493575868940837,0.2788599,0.48685926,0.13171496,0.01764264,0.08492304,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+1st round vote,Null,19.09123,0.4641628643099476,0.38713723526456917,0.11832637,0.34499989999999997,0.21860732000000002,0.1693662,0.14870021,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+2nd round vote,Macron,2287.563,0.5080931104411114,0.4482110438051323,0.12382435,0.385,0.29658796,0.15088996,0.04369773,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+2nd round vote,Le Pen,1619.66,0.8949999,0.08783917612338392,0.54282491,0.35221744,0.06983083,0.01800834,0.01711819,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
+2nd round vote,Blank/Null/NA,370.4173,0.778681503266721,0.15454000123644332,0.335,0.44368107,0.12348543,0.03105457,0.06677893,"q12v13b_i4. Etes-vous d'accord ou pas d'accord avec chacune des affirmations suivantes ?
+- Après l'élection présidentielle de 2022, il est urgent de consulter le peuple par référendum"
