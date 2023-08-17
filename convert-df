@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+
+import pandas as pd
+import typer
+
+from pathlib import Path
+
+app = typer.Typer(
+    name="convert",
+    help="Convert A CSV file into multiple formats, such as parquet, feather, json",
+    no_args_is_help=True
+)
+
+@app.command("from-csv", help="Create the files")
+def builder(
+    file: str = typer.Option(None, '-f', '--file', help="File to transform. CSV expected.")
+    ):
+    if not file:
+        typer.echo("please use --help to get directions !")
+        typer.Exit(1)
+    p = Path(file)
+    if 'csv' not in p.suffix:
+        typer.echo(f"Only accepts CSV files, not {p.name}")
+        typer.Exit(1)
+    js = p.with_suffix('.json')
+    df = pd.read_csv(file, encoding_errors='ignore')
+    df.to_parquet(p.with_suffix('.parquet'))
+    df.to_feather(p.with_suffix('.feather'))
+    js.write_text(df.to_json(orient='records'))
+    typer.echo(f"✅ Wrote to {p.parent}")
+
+@app.command("from-parquet", help="Create the files")
+def builder(
+    file: str = typer.Option(None, '-f', '--file', help="File to transform. Parquet expected.")
+    ):
+    if not file:
+        typer.echo("please use --help to get directions !")
+        typer.Exit(1)
+        
+    p = Path(file)
+    if '.parquet' not in p.suffix:
+        typer.echo(f"Only accepts parquet files, not {p.name}")
+        typer.Exit(1)
+    js = p.with_suffix('.json')
+    df = pd.read_parquet(file)
+    df.to_csv(p.with_suffix('.csv'))
+    df.to_feather(p.with_suffix('.feather'))
+    js.write_text(df.to_json(orient='records'))
+    typer.echo(f"✅ Wrote to {p.parent}")
+
+if __name__ == '__main__':
+    app()
